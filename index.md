@@ -13,7 +13,7 @@ I still enjoy Chinese Ancient Culture and Hard Pen Calligraphic. It’s probably
 
 You can contact me via email:
 
-root@chenzixin.com
+admin#chenzixin.com
 
 __Focus__
 
