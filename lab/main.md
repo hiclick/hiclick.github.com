@@ -1,24 +1,26 @@
 ---
 layout: page
-title: 测试代码
+title: Test Pygments
 tagline: 博学而日参省乎己，则知明而行无过矣
 ---
 {% include JB/setup %}
 
 
+[Pygments](http://pygments.org/languages/)<sup><span class="glyphicon glyphicon-link" aria-hidden="true"></span></sup>
+
 Test JavaScript: 
 
-
-    /**
-    * SyntaxHighlighter
-    */
-    function foo()
-    {
-    if (counter <= 100)
-        return;
-    // it works!
-    }
-
+{% highlight javascript %}
+/**
+* SyntaxHighlighter
+*/
+function foo()
+{
+if (counter <= 100)
+    return;
+// it works!
+}
+{% endhighlight %}
 
 Test Java:
 
