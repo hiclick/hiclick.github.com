@@ -2,11 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="780b5933-29af-4453-85cf-47170bbc09a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/dist/css/AdminLTE.css" afterPath="$PROJECT_DIR$/lab/dist/css/AdminLTE.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/build/less/AdminLTE.less" afterPath="$PROJECT_DIR$/lab/build/less/AdminLTE.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css" afterPath="$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/index.html" afterPath="$PROJECT_DIR$/lab/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/index2.html" afterPath="$PROJECT_DIR$/lab/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/index.md" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\Thanks.txt" afterPath="$PROJECT_DIR$/portfolio/lsumo/Thanks.txt" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\._custom-animations.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/._custom-animations.css" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\bootstrap.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\custom-animations.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/custom-animations.css" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\style.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/style.css" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._graph.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._graph.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._header.jpg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._header.jpg" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot01.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot01.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot02.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot02.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot03.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot03.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot04.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot04.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\graph.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/graph.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\header.jpg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/header.jpg" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot01.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot01.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot02.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot02.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot03.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot03.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot04.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot04.png" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/._.DS_Store" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\jquery.min.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/jquery.min.js" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\jquery.unveilEffects.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/jquery.unveilEffects.js" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\retina-1.1.0.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/retina-1.1.0.js" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\index.html" afterPath="$PROJECT_DIR$/portfolio/lsumo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hiclick.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,16 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.8" vertical-offset="0" max-vertical-offset="24108">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/basic/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +131,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminLTE.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdminLTE.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
-              <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio/index.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="798">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -148,6 +181,7 @@
         <option value="$PROJECT_DIR$/lab/build/less/AdminLTE.less" />
         <option value="$PROJECT_DIR$/lab/dist/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css" />
+        <option value="$PROJECT_DIR$/portfolio/index.md" />
       </list>
     </option>
   </component>
@@ -203,6 +237,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -214,6 +276,11 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -442,8 +509,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="407">
-          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="798">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding />
         </state>
       </provider>
