@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="780b5933-29af-4453-85cf-47170bbc09a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" afterPath="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/main.md" afterPath="$PROJECT_DIR$/lab/main.md" />
     </list>
     <ignored path="hiclick.github.com.iws" />
@@ -44,8 +43,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="777">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.44827586" vertical-offset="63" max-vertical-offset="777">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -846,8 +845,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="777">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.44827586" vertical-offset="63" max-vertical-offset="777">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
