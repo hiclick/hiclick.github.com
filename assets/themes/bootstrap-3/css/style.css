@@ -14,11 +14,18 @@
   float: right; }*/
 
 /* Jekyll Bootstrap Colors */
+
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #b12930;
+  font-family:  "Lucida Grande", "Lucida Sans Unicode", /*"Helvetica Neue", Arial,*/ "Lantinghei SC", "Microsoft YaHei", sans-serif  !important;
+
+}
+
+td {
+  padding: 5px;
 }
 #footer {
-  background-color: #fdcd60;
+  /*background-color: #fdcd60;*/
 }
 
 

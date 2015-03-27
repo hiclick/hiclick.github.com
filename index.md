@@ -1,46 +1,64 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 梓莘 - 过隙录
+tagline: 博学而日参省乎己，则知明而行无过矣
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+My name is [Chen Zixin](http://chenzixin.com)<sup><span class="glyphicon glyphicon-link" aria-hidden="true"></span></sup>, I am a Chinese software engineer currently living in Dongcheng District of Beijing with my wifi and a cat.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+When I was young, I wanted to be a lawyer. That was before I got a job as a game editor in [PConline](http://www.pconline.cn)<sup><span class="glyphicon glyphicon-link" aria-hidden="true"></span></sup> since early 2004. From then on, I seized the good opportunity to take part in web application design, and interact with programers. As time goes on, I knew I would be a developer. I never stopped writing code since May 25, 2007. Many thanks to Alan, Neil and Guitang Yang.
 
-## Update Author Attributes
+I still enjoy Chinese Ancient Culture and Hard Pen Calligraphic. It’s probably because I used to be a liberal art student in [Hust](http://www.hust.edu.cn)<small>&nbsp;</small><sup><span class="glyphicon glyphicon-link" aria-hidden="true"></span></sup>.
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+You can contact me via email:
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+root@chenzixin.com
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+__Focus__
 
-    $ rm -rf _posts/core-samples
+* Advertising Optimization
+* HTML5 / Flash / JavaScript / CSS
+* Java / Python / Groovy / PHP / Objective-C
 
-Here's a sample "posts list".
+__Resume__
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<table class="table-bordered table-striped table-hover" style="margin-bottom:10px">
+<tbody>
+<tr>
+<td>PCgroup</td>
+<td>2007.03 - Now</td>
+<td>Beijing Haidian</td>
+<td>R&amp;D Mananger</td>
+</tr>
+<tr>
+<td>PConline</td>
+<td>2006.08 - 2007.03</td>
+<td>Beijing Haidian</td>
+<td>Technical Support</td>
+</tr>
+<tr>
+<td>PCgames</td>
+<td>2004.08 - 2006.08</td>
+<td>Shanghai Xuhui</td>
+<td>Senior Editor</td>
+</tr>
+<tr>
+<td>PCgames</td>
+<td>2004.02 - 2004.08</td>
+<td>Guangzhou Tianhe</td>
+<td>Editor</td>
+</tr>
+</tbody>
+</table>
 
-## To-Do
+__Zen__
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+{% highlight python linenos %}
+#!/usr/bin/python
+# -*- coding:utf-8 -*-
+# Life's pathetic, let's Pythonic.
+__author__ = 'Christen'
+	 
+print "「慧极必伤」情深不寿，强极则辱，谦谦君子，温润如玉。"
+{% endhighlight %}
