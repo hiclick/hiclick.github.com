@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="780b5933-29af-4453-85cf-47170bbc09a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio/index.md" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\Thanks.txt" afterPath="$PROJECT_DIR$/portfolio/lsumo/Thanks.txt" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\._custom-animations.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/._custom-animations.css" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\bootstrap.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\custom-animations.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/custom-animations.css" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\css\style.css" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/css/style.css" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._graph.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._graph.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._header.jpg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._header.jpg" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot01.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot01.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot02.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot02.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot03.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot03.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\._shot04.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/._shot04.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\graph.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/graph.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\header.jpg" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/header.jpg" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot01.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot01.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot02.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot02.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot03.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot03.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\img\shot04.png" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/img/shot04.png" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\._.DS_Store" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/._.DS_Store" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/ie10-viewport-bug-workaround.js" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\jquery.min.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/jquery.min.js" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\jquery.unveilEffects.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/jquery.unveilEffects.js" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\assets\js\retina-1.1.0.js" afterPath="$PROJECT_DIR$/portfolio/lsumo/assets/js/retina-1.1.0.js" />
-      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio\lsumofree\index.html" afterPath="$PROJECT_DIR$/portfolio/lsumo/index.html" />
+      <change type="MOVED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\index.md" afterPath="$PROJECT_DIR$/aboutme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.md" afterPath="$PROJECT_DIR$/portfolio/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hiclick.github.com.iws" />
@@ -61,36 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/basic/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0" vertical-offset="5976" max-vertical-offset="7917">
-              <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/basic/assets/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="130389">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/flatty/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.1666665" vertical-offset="274" max-vertical-offset="4893">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/basic/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,24 +79,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio/index.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="798">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state vertical-scroll-proportion="-5.419355" vertical-offset="42" max-vertical-offset="777">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ionicons.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio/basic/assets/css/ionicons.min.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/instant/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-              <caret line="5" column="5054" selection-start-line="5" selection-start-column="5054" selection-end-line="5" selection-end-column="5054" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3150">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.8" vertical-offset="0" max-vertical-offset="2835">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="25" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.9" vertical-offset="2553" max-vertical-offset="3150">
+              <caret line="140" column="4" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6482412" vertical-offset="2385" max-vertical-offset="2982">
+              <caret line="132" column="80" selection-start-line="132" selection-start-column="80" selection-end-line="132" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -182,6 +150,9 @@
         <option value="$PROJECT_DIR$/lab/dist/css/AdminLTE.css" />
         <option value="$PROJECT_DIR$/lab/dist/css/AdminLTE.min.css" />
         <option value="$PROJECT_DIR$/portfolio/index.md" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/work.html" />
       </list>
     </option>
   </component>
@@ -234,34 +205,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hiclick.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiclick.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiclick.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiclick.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hiclick.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,7 +321,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/aboutme.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
@@ -408,7 +351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/aboutme.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
@@ -520,8 +463,40 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9310345" vertical-offset="63" max-vertical-offset="798">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state vertical-scroll-proportion="-5.419355" vertical-offset="42" max-vertical-offset="777">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/instant/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.8" vertical-offset="0" max-vertical-offset="2835">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="25" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.9" vertical-offset="2553" max-vertical-offset="3150">
+          <caret line="140" column="4" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6482412" vertical-offset="2385" max-vertical-offset="2982">
+          <caret line="132" column="80" selection-start-line="132" selection-start-column="80" selection-end-line="132" selection-end-column="80" />
           <folding />
         </state>
       </provider>

@@ -9,7 +9,6 @@ tagline: Keep Coding
 <li><a href="basic/index.html">basic</a>
 <li><a href="bolt/index.html">bolt</a>
 <li><a href="dashgum/index.html">dashgum</a>
-<li><a href="feedo/index.html">feedo</a>
 <li><a href="flatty/index.html">flatty</a>
 <li><a href="instant/index.html">instant</a>
 <li><a href="kelvin/index.html">kelvin</a>
