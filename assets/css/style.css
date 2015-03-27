@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
-	margin-top: 0;
+	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
