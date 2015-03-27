@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="780b5933-29af-4453-85cf-47170bbc09a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" afterPath="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <ignored path="hiclick.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,20 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.071428" vertical-offset="435" max-vertical-offset="2166">
-              <caret line="51" column="98" selection-start-line="51" selection-start-column="98" selection-end-line="51" selection-end-column="98" />
+            <state vertical-scroll-proportion="0.84140235" vertical-offset="1567" max-vertical-offset="2242">
+              <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7790698" vertical-offset="728" max-vertical-offset="1330">
+            <state vertical-scroll-proportion="-18.76" vertical-offset="728" max-vertical-offset="1330">
               <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
               <folding />
             </state>
@@ -56,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" />
       </list>
     </option>
   </component>
@@ -248,18 +247,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.071428" vertical-offset="435" max-vertical-offset="2166">
-          <caret line="51" column="98" selection-start-line="51" selection-start-column="98" selection-end-line="51" selection-end-column="98" />
+        <state vertical-scroll-proportion="-18.76" vertical-offset="728" max-vertical-offset="1330">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
+    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7790698" vertical-offset="728" max-vertical-offset="1330">
-          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.84140235" vertical-offset="1567" max-vertical-offset="2242">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
           <folding />
         </state>
       </provider>
