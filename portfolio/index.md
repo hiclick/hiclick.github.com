@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap Theme
+title: Bootstrap Theme List
 tagline: Keep Coding
 ---
 {% include JB/setup %}
