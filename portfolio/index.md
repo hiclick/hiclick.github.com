@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blacktie Bootstrap Theme
+title: Blacktie Theme
 tagline: Keep Coding
 ---
 {% include JB/setup %}
