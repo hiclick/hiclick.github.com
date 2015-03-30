@@ -244,3 +244,11 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-brand {
     color: #fff !important;
 }
+
+ul {
+    list-style: square;
+}
+
+.space {
+    padding-top: 20px;
+}
