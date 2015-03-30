@@ -89,9 +89,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #1abc9c;
+	color: #b12930;
 	background-color: transparent;
-	border-bottom: 2px solid #1abc9c
+	border-bottom: 2px solid #b12930
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -242,5 +242,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-    color: #b12930 !important;
+    color: #fff !important;
 }
