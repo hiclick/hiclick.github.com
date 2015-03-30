@@ -27,4 +27,3 @@ tagline: Keep Coding
 1. [stanley](stanley/index.html)
 1. [studio](studio/index.html)
 1. [victoria](victoria/index.html)
-
