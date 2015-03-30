@@ -263,11 +263,12 @@ http://www.neoease.com/a-tag-css-design/
     text-decoration: none;
 }
 
-#footerwrap a:hover {
+#footerwrap a:visited {
     color: #fff;
-    text-decoration: underline;
 }
 
-#footerwrap a:visited {
-    color: #969;
+#footerwrap a:hover {
+    color: #fff;
+    text-decoration: none;
 }
+
