@@ -5,27 +5,26 @@ tagline: Keep Coding
 ---
 {% include JB/setup %}
 
-<ol>
-<li><a href="basic/index.html">basic</a>
-<li><a href="bolt/index.html">bolt</a>
-<li><a href="dashgum/index.html">dashgum</a>
-<li><a href="flatty/index.html">flatty</a>
-<li><a href="instant/index.html">instant</a>
-<li><a href="kelvin/index.html">kelvin</a>
-<li><a href="link/index.html">link</a>
-<li><a href="lsumo/index.html">lsumo</a>
-<li><a href="marco/index.html">marco</a>
-<li><a href="minimal/index.html">minimal</a>
-<li><a href="munter/index.html">munter</a>
-<li><a href="onassis/index.html">onassis</a>
-<li><a href="pratt/index.html">pratt</a>
-<li><a href="shield/index.html">shield</a>
-<li><a href="small/index.html">small</a>
-<li><a href="smpl/index.html">smpl</a>
-<li><a href="solid/index.html">solid</a>
-<li><a href="spot/index.html">spot</a>
-<li><a href="stanley/index.html">stanley</a>
-<li><a href="studio/index.html">studio</a>
-<li><a href="victoria/index.html">victoria</a>
-</ol>
+
+1. [basic](basic/index.html)
+1. [bolt](bolt/index.html)
+1. [dashgum](dashgum/index.html)
+1. [flatty](flatty/index.html)
+1. [instant](instant/index.html)
+1. [kelvin](kelvin/index.html)
+1. [link](link/index.html)
+1. [lsumo](lsumo/index.html)
+1. [marco](marco/index.html)
+1. [minimal](minimal/index.html)
+1. [munter](munter/index.html)
+1. [onassis](onassis/index.html)
+1. [pratt](pratt/index.html)
+1. [shield](shield/index.html)
+1. [small](small/index.html)
+1. [smpl](smpl/index.html)
+1. [solid](solid/index.html)
+1. [spot](spot/index.html)
+1. [stanley](stanley/index.html)
+1. [studio](studio/index.html)
+1. [victoria](victoria/index.html)
 
