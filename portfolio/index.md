@@ -5,7 +5,6 @@ tagline: Keep Coding
 ---
 {% include JB/setup %}
 
-
 1. [basic](basic/index.html)
 1. [bolt](bolt/index.html)
 1. [dashgum](dashgum/index.html)
