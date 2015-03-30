@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Bootstrap Theme
 tagline: Keep Coding
 ---
 {% include JB/setup %}
