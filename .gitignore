@@ -1,6 +1,8 @@
 .gitignore
 _site/*
 _theme_packages/*
+.idea/*
+
 
 Thumbs.db
 .DS_Store
@@ -9,4 +11,4 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
-.idea\*
+
