@@ -252,3 +252,22 @@ ul {
 .space {
     padding-top: 20px;
 }
+
+
+/*
+http://www.neoease.com/a-tag-css-design/
+*/
+
+#footerwrap a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#footerwrap a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#footerwrap a:visited {
+    color: #969;
+}
