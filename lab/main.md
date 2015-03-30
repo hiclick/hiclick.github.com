@@ -6,7 +6,7 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 {% include JB/setup %}
 
 
-[Pygments](http://pygments.org/languages/)<sup><i class="fa fa-external-link fa-fw"></i></sup> is a generic syntax highlighter suitable for use in code hosting, forums, wikis or other applications that need to prettify source code. 
+[Pygments](http://pygments.org/languages/)<sup><span class="fa fa-external-link fa-fw"></span></sup> is a generic syntax highlighter suitable for use in code hosting, forums, wikis or other applications that need to prettify source code. 
 
 - a wide range of over 300 languages and other text formats is supported
 - special attention is paid to details that increase highlighting quality
