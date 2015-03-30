@@ -79,7 +79,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	color: #1abc9c;
+	/*color: #1abc9c;*/
+	color: #fff;
 }
 
 .navbar-default {
@@ -94,7 +95,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #1abc9c;
+	/*color: #1abc9c;*/
+	color: #fff;
 }
 
 /* ==========================================================================
@@ -236,5 +238,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #b12930 !important;
+}
+
+.navbar-default .navbar-brand {
     color: #b12930 !important;
 }
