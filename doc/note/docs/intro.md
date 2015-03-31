@@ -6,7 +6,7 @@ ES6的目标，是使得JavaScript语言可以用来编写大型的复杂的应�
 
 ## Java基础
 
-```bash
+```powershell
 SET PATH=C:\www\jre6\bin
 java -jar IdeaKeyGenerator.jar
 ```
