@@ -31,7 +31,7 @@ function initialize() {
     }
 
     if (ditto.edit_button) {
-        init_edit_button();
+        //init_edit_button();
     }
 
     // page router
@@ -250,7 +250,7 @@ function router() {
                 dsq.src = 'http://' + window.disqus_shortname + '.disqus.com/embed.js';
                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
             })();
-        })();
+        })/*()*/;
 
 		var perc = ditto.save_progress ? store.get('page-progress') || 0 : 0;
 
