@@ -11,9 +11,7 @@ When I was young, I wanted to be a lawyer. That was before I got a job as a game
 
 I still enjoy Chinese Ancient Culture and Hard Pen Calligraphic. It’s probably because I used to be a liberal art student in [Hust](http://www.hust.edu.cn)<small>&nbsp;</small><sup><span class="glyphicon glyphicon-link" aria-hidden="true"></span></sup>.
 
-You can contact me via email:
-
-admin#chenzixin.com
+You can contact me via email: admin#chenzixin.com
 
 __Focus__
 
