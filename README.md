@@ -25,7 +25,6 @@ You might want to run 0.3.0 in a branch to make sure you are ok with the theme d
 * Add some new features (low-hanging fruit).
 * Establish social media presence.
 
-
 ### Bugs
 
 |Bug |Description
