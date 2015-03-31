@@ -221,8 +221,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
 /* Gallery */
 .gallery {
 	margin-top: 30px;
@@ -238,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    color: #b12930 !important;
+    color: #1abc9c !important;
 }
 
 .navbar-default .navbar-brand {
