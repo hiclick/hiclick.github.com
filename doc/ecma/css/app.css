@@ -341,3 +341,8 @@ body {
     height: 3px;
     background-color: #0A74DA;
 }
+
+#content p{
+    text-align:justify;
+    text-justify:inter-ideograph;
+}
