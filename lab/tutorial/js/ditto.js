@@ -17,7 +17,8 @@ var ditto = {
     run: initialize
 };
 
-var disqusCode = '<h3>留言</h3><div id="disqus_thread"></div>';
+var disqusCode = '<h3>评论已关闭</h3><div id="disqus_thread"></div>';
+
 var menu = new Array();
 
 function initialize() {
