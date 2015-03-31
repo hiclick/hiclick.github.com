@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="780b5933-29af-4453-85cf-47170bbc09a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="DELETED" beforePath="C:\Users\christen\Documents\Github\hiclick.github.com\lab\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/examples/404.html" afterPath="$PROJECT_DIR$/lab/pages/examples/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/forms/advanced.html" afterPath="$PROJECT_DIR$/lab/pages/forms/advanced.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/layout/boxed.html" afterPath="$PROJECT_DIR$/lab/pages/layout/boxed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/buttons.html" afterPath="$PROJECT_DIR$/lab/pages/UI/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/calendar.html" afterPath="$PROJECT_DIR$/lab/pages/calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/lab/pages/charts/chartjs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/layout/collapsed-sidebar.html" afterPath="$PROJECT_DIR$/lab/pages/layout/collapsed-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/mailbox/compose.html" afterPath="$PROJECT_DIR$/lab/pages/mailbox/compose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/tables/data.html" afterPath="$PROJECT_DIR$/lab/pages/tables/data.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/forms/editors.html" afterPath="$PROJECT_DIR$/lab/pages/forms/editors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/layout/fixed.html" afterPath="$PROJECT_DIR$/lab/pages/layout/fixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/charts/flot.html" afterPath="$PROJECT_DIR$/lab/pages/charts/flot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/general.html" afterPath="$PROJECT_DIR$/lab/pages/UI/general.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/forms/general.html" afterPath="$PROJECT_DIR$/lab/pages/forms/general.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/icons.html" afterPath="$PROJECT_DIR$/lab/pages/UI/icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/index2.html" afterPath="$PROJECT_DIR$/lab/index2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/charts/inline.html" afterPath="$PROJECT_DIR$/lab/pages/charts/inline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/mailbox.html" afterPath="$PROJECT_DIR$/lab/pages/mailbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/mailbox/mailbox.html" afterPath="$PROJECT_DIR$/lab/pages/mailbox/mailbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/modals.html" afterPath="$PROJECT_DIR$/lab/pages/UI/modals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/charts/morris.html" afterPath="$PROJECT_DIR$/lab/pages/charts/morris.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/mailbox/read-mail.html" afterPath="$PROJECT_DIR$/lab/pages/mailbox/read-mail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/examples/register.html" afterPath="$PROJECT_DIR$/lab/pages/examples/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/tables/simple.html" afterPath="$PROJECT_DIR$/lab/pages/tables/simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/sliders.html" afterPath="$PROJECT_DIR$/lab/pages/UI/sliders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/UI/timeline.html" afterPath="$PROJECT_DIR$/lab/pages/UI/timeline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/pages/widgets.html" afterPath="$PROJECT_DIR$/lab/pages/widgets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hiclick.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +59,7 @@
       <file leaf-file-name="demo.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab/demo.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="1344">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="168" max-vertical-offset="1344">
               <caret line="8" column="232" selection-start-line="8" selection-start-column="232" selection-end-line="8" selection-end-column="232" />
               <folding />
             </state>
@@ -75,17 +104,40 @@
       <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="315">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.5" vertical-offset="0" max-vertical-offset="504">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19698">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about-me.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about-me.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="24.129032" vertical-offset="895" max-vertical-offset="1491">
+              <caret line="7" column="121" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="121" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4924623" vertical-offset="4347" max-vertical-offset="5838">
+            <state vertical-scroll-proportion="-9.8" vertical-offset="4347" max-vertical-offset="5838">
               <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
               <folding />
             </state>
@@ -116,11 +168,11 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lab/main.md" />
         <option value="$PROJECT_DIR$/portfolio/index.md" />
-        <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/work.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/404.html" />
       </list>
     </option>
   </component>
@@ -185,6 +237,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="lab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiclick.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -224,6 +290,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\christen\Documents\Github\hiclick.github.com\lab" />
       <recent name="C:\Users\christen\Documents\Github\hiclick.github.com\assets\css" />
       <recent name="C:\Users\christen\Documents\Github\hiclick.github.com\portfolio" />
     </key>
@@ -272,7 +339,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1215" height="778" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -280,7 +347,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24937448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24937448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -319,16 +386,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="777">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/instant/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
@@ -414,7 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab/index.html">
+    <entry file="file://$PROJECT_DIR$/lab/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.8" vertical-offset="0" max-vertical-offset="19698">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
@@ -576,16 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-me.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22483222" vertical-offset="13" max-vertical-offset="1491">
-          <caret line="7" column="121" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="121" />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
@@ -625,6 +672,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.331565" vertical-offset="11047" max-vertical-offset="14889">
           <caret line="532" column="25" selection-start-line="532" selection-start-column="25" selection-end-line="532" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,17 +687,6 @@
         <state vertical-scroll-proportion="0.0984375" vertical-offset="0" max-vertical-offset="640">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab/demo.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="1344">
-          <caret line="8" column="232" selection-start-line="8" selection-start-column="232" selection-end-line="8" selection-end-column="232" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab/.gitignore">
@@ -683,14 +726,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="189" max-vertical-offset="315">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7" vertical-offset="1659" max-vertical-offset="2877">
@@ -719,8 +754,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4924623" vertical-offset="4347" max-vertical-offset="5838">
+        <state vertical-scroll-proportion="-9.8" vertical-offset="4347" max-vertical-offset="5838">
           <caret line="221" column="0" selection-start-line="221" selection-start-column="0" selection-end-line="221" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-me.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="24.129032" vertical-offset="895" max-vertical-offset="1491">
+          <caret line="7" column="121" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/demo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="1344">
+          <caret line="8" column="232" selection-start-line="8" selection-start-column="232" selection-end-line="8" selection-end-column="232" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.5" vertical-offset="0" max-vertical-offset="504">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19698">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
