@@ -7,12 +7,13 @@
     <script src="http://libs.useso.com/js/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://libs.useso.com/js/jqueryui/1.10.4/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="/assets/css/prism.css">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 
     <script src="/assets/js/prism.js"></script>
 
     <style type="text/css">
         pre {
-            width: 550px;
+            width: 800px;
         }
     </style>
     <title>测试语法高亮</title>
@@ -50,5 +51,27 @@
     print 'Done...'
 </code>
 </pre>
+
+
+
+<pre>
+<code class="language-javascript">
+    let ps = document.querySelectorAll('p');
+
+    Array.from(ps).forEach(function (p) {
+    console.log(p);
+    });
+</code>
+</pre>
+
+<pre>
+<code class="language-actionscript">
+    var shad:DropShadowFilter = new DropShadowFilter(2, 45, 0x000000, 25, 3, 3, 2, 2);
+    var txt:TextField = new TextField();
+</code>
+</pre>
+
+
+
 </body>
 </html>
