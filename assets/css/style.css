@@ -129,13 +129,14 @@ h1, h2, h3, h4, h5, h6 {
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
-	font-size: 80px;
+	font-size: 45px;
 	font-weight: bold;
 }
 
 #headerwrap h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #ffffff;
+    font-size: 30px;
 }
 
 #social {
@@ -250,7 +251,6 @@ ul {
 .space {
     padding-top: 20px;
 }
-
 
 /*
 http://www.neoease.com/a-tag-css-design/
