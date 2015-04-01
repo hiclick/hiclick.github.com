@@ -6,16 +6,23 @@ The Java™ Programming Language is a general-purpose, concurrent, strongly type
 
 ### 语言结构
 
-[![cover](assets/img/doc/java/Java-Conceptual-Diagram-s.png)](assets/img/doc/java/Java-Conceptual-Diagram.png)
+[![cover](/assets/img/doc/java/Java-Conceptual-Diagram-s.png)](/assets/img/doc/java/Java-Conceptual-Diagram.png)
 
 
 ### 官方文档
 
-* [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) include **API Enhancements in each version**
-* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) include **Java Conceptual Diagram**
+* [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) <sup>[1]</sup>
+* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) <sup>[2]</sup>
 * [Description of Java Conceptual Diagram](http://docs.oracle.com/javase/8/docs/technotes/guides/desc_jdk_structure.html)
 * [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 * [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.html)
+
+注：
+
+1. include **API Enhancements in each version**.
+2. include **Java Conceptual Diagram**.
+
+
 
 ### 版权许可
 
