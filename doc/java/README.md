@@ -19,9 +19,12 @@ The Java™ Programming Language is a general-purpose, concurrent, strongly type
 
 * [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) <sup>[2]</sup>
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) <sup>[3]</sup>
+* [Java Platform, Standard Edition (Java SE) 8 eBooks](http://docs.oracle.com/javase/8/javase-books.htm)
 * [Description of Java Conceptual Diagram](http://docs.oracle.com/javase/8/docs/technotes/guides/desc_jdk_structure.html)
 * [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
-* [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.html)
+* [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.htm)
+
+
 
 ### 页面注释
 
