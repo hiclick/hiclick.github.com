@@ -79,8 +79,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	/*color: #1abc9c;*/
-	color: #b12930;
+	color: #1abc9c;
+	/*color: #b12930;*/
 }
 
 .navbar-default {
@@ -91,12 +91,12 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #1abc9c;
 	background-color: transparent;
-	border-bottom: 2px solid #1abc9c
+	border-bottom: 2px solid #1abc9c;
 }
 
 .navbar-default .navbar-nav > li > a {
-	/*color: #1abc9c;*/
-	color: #b12930;
+	color: #1abc9c;
+	/*color: #b12930;*/
 }
 
 /* ==========================================================================
@@ -238,10 +238,10 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #1abc9c !important;
 }
-
+/*
 .navbar-default .navbar-brand {
     color: #b12930 !important;
-}
+}*/
 
 ul {
     list-style: square;
