@@ -23,6 +23,18 @@ Java 下载首页：[Java SE Downloads](http://www.oracle.com/technetwork/java/j
 
 对开发人员，建议将安装好的 Java 目录，打包为 zip 文件，以后重装，解压，配置环境变量即可。
 
+Additional Resources:
+
+API  
+
+* [Java SE 8 Documentation](http://www.oracle.com/technetwork/java/javase/documentation/jdk8-doc-downloads-2133158.html) 
+* [Java SE 7 Documentation](http://www.oracle.com/technetwork/java/javase/documentation/java-se-7-doc-download-435117.html) 
+
+Installation Instructions:
+
+* [Java 8 Installation Instructions](http://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
+* [Java 7 Installation Instructions](http://www.oracle.com/technetwork/java/javase/javase7-install-docs-439822.html)
+
 ### Linux
 
 1. 下载JDK
