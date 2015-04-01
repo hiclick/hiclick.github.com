@@ -12,7 +12,7 @@ The Java™ Programming Language is a general-purpose, concurrent, strongly type
 
 ### 语言结构
 
-[![cover](/assets/img/doc/java/Java-Conceptual-Diagram-s.png)](/assets/img/doc/java/Java-Conceptual-Diagram.png)
+[![cover](assets/img/doc/java/Java-Conceptual-Diagram-s.png)](/assets/img/doc/java/Java-Conceptual-Diagram.png)
 
 
 ### 官方文档
@@ -23,11 +23,11 @@ The Java™ Programming Language is a general-purpose, concurrent, strongly type
 * [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 * [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.html)
 
-注：
+### 页面注释
 
 1. 以上解释来自 Mac 内置的词典。
-2. 包含 **API Enhancements in each version**。
-3. 包含 **Java Conceptual Diagram**。
+2. 包含 API Enhancements in each version。
+3. 包含 Java Conceptual Diagram。
 
 
 
