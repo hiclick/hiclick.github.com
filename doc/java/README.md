@@ -1,14 +1,21 @@
-# ECMAScript 6入门
+# Java Note
 
-《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
+Java 是我学习的第一门编程语言，自此走上编辑之路。
 
-[![cover](assets/img/tutorial/es6-cover-thumbnail.jpg)](assets/img/tutorial/es6-cover.jpg)
+The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language. It is normally compiled to the bytecode instruction set and binary format defined in the Java Virtual Machine Specification.
 
-本书力争覆盖ES6与ES5的所有不同之处，对涉及的语法知识给予详细介绍，并给出大量简洁易懂的示例代码。
+### 语言结构
 
-本书为中级难度，适合已有一定JavaScript语言基础的读者，用来了解这门语言的最新发展；也可当作参考手册，查寻新增的语法点。
+[![cover](assets/img/doc/java/Java-Conceptual-Diagram-s.png)](assets/img/doc/java/Java-Conceptual-Diagram.png)
 
-网上为预览版，电子工业出版社不久将出版全书。
+
+### 官方文档
+
+* [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) include **API Enhancements in each version**
+* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) include **Java Conceptual Diagram**
+* [Description of Java Conceptual Diagram](http://docs.oracle.com/javase/8/docs/technotes/guides/desc_jdk_structure.html)
+* [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
+* [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.html)
 
 ### 版权许可
 
