@@ -6,7 +6,7 @@
 
 ## 目录
 1. [Preface](#README)
-1. [C](#docs/class)
+1. [Env](#docs/env)
 1. [Java](#docs/intro)
 1. [Groovy](#docs/object)
 1. [JavaScript](#docs/let)
