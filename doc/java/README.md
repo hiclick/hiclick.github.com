@@ -1,6 +1,12 @@
 # Java Note
 
-Java 是我学习的第一门编程语言，自此走上编辑之路。
+Java 是我学习的第一门编程语言，自此告别编辑，走向编程。
+
+辑：收集材料编成书刊；
+
+程：事物发展的经过或进行的步骤。<sup>[1]</sup>
+
+共同的特征是：编，涵盖整理与创作，遵循一定的条理和顺序。
 
 The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language. It is normally compiled to the bytecode instruction set and binary format defined in the Java Virtual Machine Specification.
 
@@ -11,16 +17,17 @@ The Java™ Programming Language is a general-purpose, concurrent, strongly type
 
 ### 官方文档
 
-* [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) <sup>[1]</sup>
-* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) <sup>[2]</sup>
+* [Java™ Programming Language](http://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) <sup>[2]</sup>
+* [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/index.html) <sup>[3]</sup>
 * [Description of Java Conceptual Diagram](http://docs.oracle.com/javase/8/docs/technotes/guides/desc_jdk_structure.html)
 * [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/index.html)
 * [Java SE Technologies](http://www.oracle.com/technetwork/java/javase/tech/index.html)
 
 注：
 
-1. include **API Enhancements in each version**.
-2. include **Java Conceptual Diagram**.
+1. 以上解释来自 Mac 内置的词典。
+2. 包含 **API Enhancements in each version**。
+3. 包含 **Java Conceptual Diagram**。
 
 
 
