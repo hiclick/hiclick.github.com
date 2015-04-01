@@ -77,7 +77,7 @@ C:\Java\jdk1.7.0\bin;C:\Windows\System32\;C:\Windows\;C:\Windows\System32\Wbem
 It is useful to set the PATH environment variable permanently so it will persist after rebooting. To make a permanent change to the PATH variable, use the System icon in the Control Panel. <sup>[1]</sup>
 
 
-** Stackoverflow **
+** Stack Overflow **
 
 A path is just a folder location. The path is where your OS will look for programs by default. If java, javac, javap, etc, etc, are in your path then you can just type their names without the entire folder location.
 
