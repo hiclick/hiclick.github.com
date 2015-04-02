@@ -1,9 +1,9 @@
 # 广告优化
 
-**浣溪沙·当时只道是寻常**
 
 [![cover](assets/img/tutorial/es6-cover-thumbnail.jpg)](/assets/img/tutorial/es6-cover.jpg)
 
+**浣溪沙·当时只道是寻常**
 
 谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
 
