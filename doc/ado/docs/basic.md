@@ -1,4 +1,4 @@
-# Java简介
+# 广告优化
 
 ECMAScript 6（以下简称ES6）是JavaScript语言的下一代标准，正处在快速开发之中，大部分已经完成了，预计将在2014年底正式发布。Mozilla将在这个标准的基础上，推出JavaScript 2.0。
 
