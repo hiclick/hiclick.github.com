@@ -32,7 +32,7 @@ function initialize() {
     }
 
     if (ditto.edit_button) {
-        //init_edit_button();
+        init_edit_button();
     }
 
     // page router
@@ -86,15 +86,17 @@ function init_edit_button() {
     } else {
         $(ditto.edit_id).show();
         $(ditto.edit_id).on("click", function() {
-            var hash = location.hash.replace("#", "/");
+//            var hash = location.hash.replace("#", "/");
 
-            if (hash === "") {
-                hash = "/" + ditto.index.replace(".md", "");
-            }
+//            if (hash === "") {
+//                hash = "/" + ditto.index.replace(".md", "");
+//            }
 
-            window.open(ditto.base_url + hash + ".md");
+//            window.open(ditto.base_url + hash + ".md");
             // open is better than redirecting, as the previous page history
             // with redirect is a bit messed up
+            //返回首页
+            location.href = "http://christen.cn/";
         });
     }
 }
