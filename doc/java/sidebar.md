@@ -37,4 +37,4 @@
 ## 鸣谢
 
 - [Frank](http://www.ruanyifeng.com/home.html)
-- [Prism.js](http://christen.cn/doc/prism.html)
+- [Prism](http://christen.cn/doc/prism.html)
