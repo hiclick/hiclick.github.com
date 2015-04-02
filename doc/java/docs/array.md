@@ -1,88 +1,72 @@
-# 数值的扩展
+# Array
 
-## 二进制和八进制表示法
+吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
 
-ES6提供了二进制和八进制数值的新的写法，分别用前缀0b和0o表示。
+彼将舍其手艺，专其心智，而能知体要者欤！吾闻劳心者役人，劳力者役于人。彼其 劳心者欤！能者用而智者谋，彼其智者欤！是足为佐天子，相天下法矣。物莫近乎此也。彼为天下者本于人。其执役者为徒隶，为乡师、里胥；其上为下士；又其上 为中士，为上士；又其上为大夫，为卿，为公。离而为六职，判而为百役。外薄四海，有方伯、连率。郡有守，邑有宰，皆有佐政；其下有胥吏，又其下皆有啬夫、 版尹以就役焉，犹众工之各有执伎以食力也。
 
-```javascript
+彼佐天子相天下者，举而加焉，指而使焉，条其纲纪而盈缩焉，齐其法制而整顿焉；犹 梓人之有规、矩、绳、墨以定制也。择天下之士，使称其职；居天下之人，使安其业。视都知野，视野知国，视国知天下，其远迩细大，可手据其图而究焉，犹梓人 画宫于堵，而绩于成也。能者进而由之，使无所德；不能者退而休之，亦莫敢愠。不炫能，不矜名，不亲小劳，不侵众官，日与天下之英才，讨论其大经，犹梓人之 善运众工而不伐艺也。夫然后相道得而万国理矣。
 
-0b111110111 === 503 // true
-0o767 === 503 // true
+## 二级标题一
 
-```
-
-八进制用0o前缀表示的方法，将要取代已经在ES5中被逐步淘汰的加前缀0的写法。
-
-## Number.isFinite(), Number.isNaN()
-
-ES6在Number对象上，新提供了Number.isFinite()和Number.isNaN()两个方法，用来检查Infinite和NaN这两个特殊值。
-
-它们与传统的isFinite()和isNaN()的区别在于，传统方法先调用Number()将非数值的值转为数值，再进行判断，而这两个新方法只对数值有效，非数值一律返回false。
+Under Construction...
 
 ```javascript
-
-isFinite(25) // true
-isFinite("25") // true
-Number.isFinite(25) // true
-Number.isFinite("25") // false
-
-isNaN(NaN) // true
-isNaN("NaN") // true
-Number.isNaN(NaN) // true
-Number.isNaN("NaN") // false
-
+var WAY = function()
+{
+	this.doms = {};
+	this.getAllWayNodes(document.body);
+}
 ```
 
-## Number.parseInt(), Number.parseFloat()
+## 二级标题二
 
-ES6将全局方法parseInt()和parseFloat()，移植到Number对象上面，行为完全保持不变。
+Building...
 
-这样做的目的，是逐步减少全局性方法，使得语言逐步模块化。
-
-## Number.isInteger()和安全整数
-
-Number.isInteger()用来判断一个值是否为整数。需要注意的是，在JavaScript内部，整数和浮点数是同样的储存方法，所以3和3.0被视为同一个值。
-
-```javascript
-
-Number.isInteger(25) // true
-Number.isInteger(25.0) // true
-Number.isInteger(25.1) // false
-
+```markup
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
 ```
 
-JavaScript能够准确表示的整数范围在-2&#710;53 and 2&#710;53之间。ES6引入了Number.MAX_SAFE_INTEGER和Number.MIN_SAFE_INTEGER这两个常量，用来表示这个范围的上下限。Number.isSafeInteger()则是用来判断一个整数是否落在这个范围之内。
+## 二级标题三
 
-```javascript
+Building...
 
-var inside = Number.MAX_SAFE_INTEGER;
-var outside = inside + 1;
+```css
+/*
+ * Author: Carlos Alvarez
+ * URL: http://Alvarez.is
+ *
+ * Project Name: NYC Design
+ * Version: 1.0
+ * Date: 04-20-2014
+ * URL: 
+ */
 
-Number.isInteger(inside) // true
-Number.isSafeInteger(inside) // true
 
-Number.isInteger(outside) // true
-Number.isSafeInteger(outside) // false
+/* ==========================================================================
+   Base Styles, Bootstrap Modifications & Fonts Import
+   ========================================================================== */
 
+@import url(http://fonts.useso.com/css?family=Montserrat:400,700);
+
+
+::-moz-selection {
+    background: #f2c2c9;
+    color: #a4003a;
+    text-shadow: none;
+}
+
+::selection {
+    background: #16a085;
+    color: #a4003a;
+    text-shadow: none;
+}
 ```
-
-## Math对象的扩展
-
-ES6在Math对象上提供了更多的数学方法。
-
-- Math.acosh(x)	返回x的反双曲余弦（inverse hyperbolic cosine）
-- Math.asinh(x) 返回x的反双曲正弦（inverse hyperbolic sine）
-- Math.atanh(x)	返回x的反双曲正切（inverse hyperbolic tangent）
-- Math.cbrt(x)	返回x的立方根
-- Math.clz32(x)	返回x的32位二进制整数表示形式的前导0的个数
-- Math.cosh(x) 返回x的双曲余弦（hyperbolic cosine）
-- Math.expm1(x)	返回e&#710;x - 1
-- Math.fround(x) 返回x的单精度浮点数形式
-- Math.hypot(...values)	返回所有参数的平方和的平方根
-- Math.imul(x, y) 返回两个参数以32位整数形式相乘的结果
-- Math.log1p(x)	返回1 + x的自然对数
-- Math.log10(x) 返回以10为底的x的对数
-- Math.log2(x) 返回以2为底的x的对数
-- Math.sign(x) 如果x为负返回-1，x为0返回0，x为正返回1
-- Math.tanh(x)	返回x的双曲正切（hyperbolic tangent）
-- Math.trunc(x)	移除一个浮点数的小数位，返回一个整数

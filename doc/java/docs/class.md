@@ -1,121 +1,72 @@
-# 多变量的模式赋值
+# Class
 
-ES6允许按照一定模式，一次性对多个变量进行赋值，这又称为解构（Destructuring）。
+吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
 
-正常情况下，为多个变量赋值，只能一次次分开赋值。
+彼将舍其手艺，专其心智，而能知体要者欤！吾闻劳心者役人，劳力者役于人。彼其 劳心者欤！能者用而智者谋，彼其智者欤！是足为佐天子，相天下法矣。物莫近乎此也。彼为天下者本于人。其执役者为徒隶，为乡师、里胥；其上为下士；又其上 为中士，为上士；又其上为大夫，为卿，为公。离而为六职，判而为百役。外薄四海，有方伯、连率。郡有守，邑有宰，皆有佐政；其下有胥吏，又其下皆有啬夫、 版尹以就役焉，犹众工之各有执伎以食力也。
+
+彼佐天子相天下者，举而加焉，指而使焉，条其纲纪而盈缩焉，齐其法制而整顿焉；犹 梓人之有规、矩、绳、墨以定制也。择天下之士，使称其职；居天下之人，使安其业。视都知野，视野知国，视国知天下，其远迩细大，可手据其图而究焉，犹梓人 画宫于堵，而绩于成也。能者进而由之，使无所德；不能者退而休之，亦莫敢愠。不炫能，不矜名，不亲小劳，不侵众官，日与天下之英才，讨论其大经，犹梓人之 善运众工而不伐艺也。夫然后相道得而万国理矣。
+
+## 二级标题一
+
+Under Construction...
 
 ```javascript
-
-var a = 1;
-var b = 2;
-var c = 3;
-
+var WAY = function()
+{
+	this.doms = {};
+	this.getAllWayNodes(document.body);
+}
 ```
 
-ES6允许写成下面这样。
+## 二级标题二
 
-```javascript
+Building...
 
-var [a, b, c] = [1, 2, 3];
-
+```markup
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
 ```
 
-本质上，这种写法属于模式匹配，只要等号两边的模式相同，左边的变量就会被赋予对应的值。下面是一些嵌套数组进行模式赋值的例子。
+## 二级标题三
 
-```javascript
+Building...
 
-var [foo, [[bar], baz]] = [1, [[2], 3]]
+```css
+/*
+ * Author: Carlos Alvarez
+ * URL: http://Alvarez.is
+ *
+ * Project Name: NYC Design
+ * Version: 1.0
+ * Date: 04-20-2014
+ * URL: 
+ */
 
-var [,,third] = ["foo", "bar", "baz"]
 
-var [head, ...tail] = [1, 2, 3, 4]
+/* ==========================================================================
+   Base Styles, Bootstrap Modifications & Fonts Import
+   ========================================================================== */
 
-```
+@import url(http://fonts.useso.com/css?family=Montserrat:400,700);
 
-模式赋值还允许指定默认值。
 
-```javascript
-
-var [missing = true] = [];
-
-console.log(missing)
-// true
-
-var { x = 3 } = {};
-console.log(x)
-// 3
-
-```
-
-模式赋值不仅可以用于数组，还可以用于对象。
-
-```javascript
-
-var { foo, bar } = { foo: "lorem", bar: "ipsum" };
-
-foo // "lorem"
-bar // "ipsum"
-
-var o = {
-  p1: [
-    "Hello",
-    { p2: "World" }
-  ]
-};
-
-var { a: [x, { y }] } = o;
-
-x // "Hello"
-y // "World"
-
-```
-
-这种写法的用途很多。
-
-（1）交换变量的值
-
-```javascript
-
-[x, y] = [y, x]; 
-
-```
-
-（2）从函数返回多个值
-
-```javascript
-
-function example() {
-    return [1, 2, 3];
+::-moz-selection {
+    background: #f2c2c9;
+    color: #a4003a;
+    text-shadow: none;
 }
 
-var [a, b, c] = example();
-
-```
-
-（3）函数参数的定义
-
-```javascript
-
-function f({p1, p2, p3}) {
-  // ...
+::selection {
+    background: #16a085;
+    color: #a4003a;
+    text-shadow: none;
 }
-
-```
-
-（4）函数参数的默认值
-
-```javascript
-
-jQuery.ajax = function (url, {
-  async = true,
-  beforeSend = function () {},
-  cache = true,
-  complete = function () {},
-  crossDomain = false,
-  global = true,
-  // ... more config
-}) {
-  // ... do stuff
-};
-
 ```
