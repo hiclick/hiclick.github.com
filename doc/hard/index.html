@@ -3,20 +3,24 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>笔记模版</title>
+
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="/assets/css/doc.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
     <!-- jQuery -->
     <script src="http://libs.useso.com/js/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://libs.useso.com/js/jqueryui/1.10.4/jquery-ui.min.js"></script>
 
-    <script src="js/marked.js"></script>
-    <script src="js/store.js"></script>
-    <script src="js/ditto.js"></script>
+    <script src="/assets/js/marked.js"></script>
+    <script src="/assets/js/store.js"></script>
+    <script src="/assets/js/ditto.js"></script>
     <script src="/assets/js/prism.js"></script>
-    <link rel="stylesheet" href="app/bower_components/normalize-css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/doc.css">
-    <link rel="stylesheet" href="/assets/css/prism.css">
-    <title>笔记模版</title>
-    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
 </head>
 <body>
 <!-- essential -->
@@ -24,7 +28,7 @@
 <div id="content"></div>
 <!-- optional -->
 <div id="back_to_top">返回顶部</div>
-<div id="edit">edit</div>
+<div id="edit">返回首页</div>
 <div id="loading">Loading ...</div>
 <div id="error">Opps! ... File not found!</div>
 <div id="flip">
@@ -35,21 +39,20 @@
 
 <script>
     // essential settings
-    ditto.index = "README.md",
-            ditto.sidebar_file = "sidebar.md",
-            ditto.document_title = "ECMAScript 6入门",
-        // where the docs are actually stored on github - so you can edit
-            ditto.base_url = "https://github.com/ruanyf/es6tutorial/edit/gh-pages";  // <------- EDIT ME!!
+    ditto.index = "README.md";
+    ditto.sidebar_file = "sidebar.md";
+    ditto.document_title = "Hardware Note";
+    // where the docs are actually stored on github - so you can edit
+    ditto.base_url = "https://github.com/hiclick/hiclick.github.com";  // <------- EDIT ME!!
 
     // run
     ditto.run();
 </script>
 <noscript>
-    <p>《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。</p>
+    <p>吾生也有涯，而知也无涯。以有涯随无涯，殆已；已而为知者，殆而已矣。为善无近名，为恶无近刑。缘督以为经，可以保身，可以全生，可以养亲，可以尽年。</p>
 
-    <p>本书力争覆盖ES6与ES5的所有不同之处，对涉及的语法知识给予详细介绍，并给出大量简洁易懂的示例代码。</p>
+    <p>臣之所好者道也，进乎技矣。始臣之解牛之时，所见无非牛者。三年之后，未尝见全牛也。方今之时，臣以神遇，而不以目视，官知止而神欲行。依乎天理，批大郤，道大窾，因其固然。技经肯綮之未尝，而况大軱乎！良庖岁更刀，割也；族庖月更刀，折也。今臣之刀十九年矣，所解数千牛矣，而刀刃若新发于硎。彼节者有间，而刀刃者无厚，以无厚入有间，恢恢乎其于游刃必有余地矣。是以十九年而刀刃若新发于硎。虽然，每至于族，吾见其难为，怵然为戒，视为止，行为迟。动刀甚微，謋然已解，如土委地。提刀而立，为之四顾，为之踌躇满志，善刀而藏之。</p>
 
-    <p>本书为中级难度，适合已有一定JavaScript语言基础的读者，了解这门语言的最新进展；也可当作参考手册，查寻新增的语法点。</p>
 </noscript>
 </body>
 </html>

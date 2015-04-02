@@ -17,8 +17,7 @@ var ditto = {
     run: initialize
 };
 
-var disqusCode = '<h3>评论已关闭</h3><div id="disqus_thread"></div>';
-
+var disqusCode = '<h3>留言</h3><div id="disqus_thread"></div>';
 var menu = new Array();
 
 function initialize() {
@@ -32,7 +31,7 @@ function initialize() {
     }
 
     if (ditto.edit_button) {
-        //init_edit_button();
+        init_edit_button();
     }
 
     // page router
@@ -251,7 +250,7 @@ function router() {
                 dsq.src = 'http://' + window.disqus_shortname + '.disqus.com/embed.js';
                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
             })();
-        })/*()*/;
+        })();
 
 		var perc = ditto.save_progress ? store.get('page-progress') || 0 : 0;
 

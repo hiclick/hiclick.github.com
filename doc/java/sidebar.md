@@ -35,6 +35,5 @@
 - [返回主站](http://christen.cn)
 
 ## 鸣谢
-
 - [Frank](http://www.ruanyifeng.com/home.html)
 - [Prism](http://christen.cn/doc/prism.html)

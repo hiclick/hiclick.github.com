@@ -3,28 +3,32 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>笔记模版</title>
+
+    <link rel="stylesheet" href="/assets/css/normalize.css">
+    <link rel="stylesheet" href="/assets/css/doc.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+
     <!-- jQuery -->
     <script src="http://libs.useso.com/js/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://libs.useso.com/js/jqueryui/1.10.4/jquery-ui.min.js"></script>
 
-    <script src="js/marked.js"></script>
-    <script src="js/store.js"></script>
+    <script src="/assets/js/marked.js"></script>
+    <script src="/assets/js/store.js"></script>
     <script src="js/ditto.js"></script>
     <script src="/assets/js/prism.js"></script>
-    <link rel="stylesheet" href="app/bower_components/normalize-css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/doc.css">
-    <link rel="stylesheet" href="/assets/css/prism.css">
-    <title>Java Note | Christen</title>
-    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
 </head>
+
 <body>
 <!-- essential -->
 <div id="sidebar"></div>
 <div id="content"></div>
 <!-- optional -->
 <div id="back_to_top">返回顶部</div>
-<div id="edit">edit</div>
+<div id="edit">在线编辑</div>
 <div id="loading">Loading ...</div>
 <div id="error">Opps! ... File not found!</div>
 <div id="flip">
@@ -35,11 +39,11 @@
 
 <script>
     // essential settings
-    ditto.index = "README.md",
-            ditto.sidebar_file = "sidebar.md",
-            ditto.document_title = "ECMAScript 6入门",
-        // where the docs are actually stored on github - so you can edit
-            ditto.base_url = "https://github.com/ruanyf/es6tutorial/edit/gh-pages";  // <------- EDIT ME!!
+    ditto.index = "README.md";
+    ditto.sidebar_file = "sidebar.md";
+    ditto.document_title = "ECMAScript 6入门";
+    // where the docs are actually stored on github - so you can edit
+    ditto.base_url = "https://github.com/ruanyf/es6tutorial/edit/gh-pages";  // <------- EDIT ME!!
 
     // run
     ditto.run();
