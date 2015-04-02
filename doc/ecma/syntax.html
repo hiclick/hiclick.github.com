@@ -1,26 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- jQuery -->
-    <script src="http://libs.useso.com/js/jquery/1.11.0/jquery.min.js"></script>
-    <script src="http://libs.useso.com/js/jqueryui/1.10.4/jquery-ui.min.js"></script>
-    <link rel="stylesheet" href="/assets/css/prism.css">
-    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+---
+layout: default
+title: "Prism: Highlight Test"
+---
 
-    <script src="/assets/js/prism.js"></script>
+<link rel="stylesheet" href="/assets/css/prism.css">
+<script src="/assets/js/prism.js"></script>
 
-    <style type="text/css">
-        pre {
-            width: 800px;
-        }
-    </style>
-    <title>测试语法高亮</title>
-</head>
-<body>
-<!-- essential -->
+<style type="text/css">
+    pre {
+        width: 800px;
+    }
+</style>
+
+<h2>Prism: Highlight Test</h2>
+
 <pre>
+
 <code class="language-python">
     #!/usr/bin/python
     # -*- coding: utf-8 -*-
@@ -52,6 +47,20 @@
 </code>
 </pre>
 
+<pre>
+<code class="language-markup">
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+    Sorry this page does not exist =(
+    </body>
+    </html>
+</code>
+</pre>
 
 
 <pre>
@@ -78,8 +87,3 @@
     $ node --harmony
 </code>
 </pre>
-
-
-
-</body>
-</html>
