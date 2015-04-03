@@ -3,6 +3,14 @@
 ## EVERY STEP HAS ITS PRINT
 
 
+### Version
+
+0.1
+
+### Milestones
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ### Features
 
@@ -18,11 +26,16 @@
 * Complete the Doc TOC
 * Write Javascript and CSS Docs
 
-**Jekyll**
+### Bugs
 
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Jekyll
+
+* http://jekyllbootstrap.com
+* https://github.com/plusjade/jekyllbootstrap.com
 
 
-## License
+### License
 
 [MIT](http://opensource.org/licenses/MIT)
