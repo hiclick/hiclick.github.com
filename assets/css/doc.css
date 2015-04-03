@@ -187,7 +187,7 @@ body {
 
 
 #content ul li:before {  /* a hack to have dashes as a list style */
-    content: "-";
+    /*content: "-";*/
     position: relative;
     left: -5px;
 }
@@ -196,6 +196,7 @@ body {
 #content ol li{
     text-indent: -5px;  /* to compensate for the padding for the dash */
     font-size: 0.8rem;
+    list-style: square;
 }
 
 #content ul li.link,
