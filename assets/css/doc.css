@@ -188,14 +188,14 @@ body {
 
 
 #content ul li:before {  /* a hack to have dashes as a list style */
-    content: " ";
+    /*content: "-";*/
     position: relative;
     left: -5px;
 }
 
 #content ul li,
 #content ol li{
-    text-indent: -5px;  /* to compensate for the padding for the dash */
+    text-indent: 0;  /* to compensate for the padding for the dash */
     font-size: 0.8rem;
 }
 
@@ -364,4 +364,42 @@ body {
     border-bottom-color: #bbb;
     border-radius: 3px;
     box-shadow: inset 0 -1px 0 #bbb;
+}
+
+table.dataintable {
+    margin-top: 10px;
+    border-collapse: collapse;
+    border: 1px solid #aaa;
+    width: 100%;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table.dataintable th {
+    vertical-align: baseline;
+    padding: 5px 15px 5px 6px;
+    background-color: #d5d5d5;
+    border: 1px solid #aaa;
+    text-align: left;
+}
+
+table.dataintable td {
+    vertical-align: text-top;
+    padding: 6px;
+    /*background-color: #efefef;*/
+    border: 1px solid #aaa;
+    font-size: 12px;
+}
+
+.ext-link {
+    text-indent: -9999px;
+    background: url('/assets/img/doc/ecma/ext-link.png') no-repeat center bottom;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    padding: 0 5px 0 5px;
 }
