@@ -1,7 +1,7 @@
 # 笔记模版
 
 
-[![cover](assets/img/tutorial/es6-cover-thumbnail.jpg)](images/cover.jpg)
+[![cover](assets/img/doc/ecma/es6-cover-thumbnail.jpg)](images/cover.jpg)
 
 **浣溪沙·当时只道是寻常**
 
