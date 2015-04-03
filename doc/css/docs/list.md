@@ -159,5 +159,13 @@ ol.lower-alpha {list-style-type:upper-alpha}
 * none
 * inherit
 
-注：任何的版本的 Internet Explorer （包括 IE8）都不支持属性值 "decimal-leading-zero"、"lower-greek"、"lower-latin"、"upper-latin"、"armenian"、"georgian" 或 "inherit"。
+注：Internet Explorer 8 以下 （含）不支持以下属性值：
+
+* decimal-leading-zero
+* lower-greek
+* lower-latin
+* upper-latin
+* armenian
+* georgian
+* inherit
 
