@@ -159,7 +159,7 @@ ol.lower-alpha {list-style-type:upper-alpha}
 * none
 * inherit
 
-注：Internet Explorer 8 以下 （含）不支持以下属性值：
+注：Internet Explorer 8 以下不支持以下属性值：
 
 * decimal-leading-zero
 * lower-greek
