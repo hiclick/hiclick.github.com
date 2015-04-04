@@ -15,8 +15,8 @@
 1. [Monitor](#docs/monitor)
 1. [Keyboard](#docs/keyboard)
 1. [Mouse](#docs/mouse)
-1. [Printer](#docs/printer)
 1. [USB](#docs/usb)
+1. [Printer](#docs/printer)
 1. [Camera](#docs/camera)
 1. [Microphone](#docs/microphone)
 1. [Earphone](#docs/earphone)
@@ -24,7 +24,7 @@
 
 ### 网络
 1. [ADSL](#docs/adsl)
-1. [Hub](#docs/hub)
+1. [HUB](#docs/hub)
 1. [Router](#docs/router)
 1. [Bridge](#docs/bridge)
 1. [Firewire](#docs/firewire)
