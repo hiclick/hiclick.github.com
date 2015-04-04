@@ -5,11 +5,15 @@
 授权：<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">署名-非商用许可证</a>
 
 ## 目录
+
+### 操作系统
 1. [Windows](#docs/windows)
 1. [Linux](#docs/linux)
 1. [OSX](#docs/osx)
-1. [Android](#docs/android)
 1. [IOS](#docs/ios)
+1. [Android](#docs/android)
+
+### 应用软件
 1. [System](#docs/system)
 1. [Program](#docs/program)
 1. [Network](#docs/network)
