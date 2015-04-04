@@ -62,7 +62,11 @@ body {
 }
 
 #sidebar h2 {
-    font-size: 0.7rem;
+    font-size: /*0.7rem*/ 22px;
+}
+
+#sidebar h3 {
+    font-size: 19px;
 }
 
 #sidebar h5 {
