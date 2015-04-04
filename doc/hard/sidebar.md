@@ -27,8 +27,8 @@
 1. [HUB](#docs/hub)
 1. [Router](#docs/router)
 1. [Bridge](#docs/bridge)
-1. [Firewire](#docs/firewire)
 1. [Gateway](#docs/gateway)
+1. [Firewall](#docs/firewall)
 
 ### 移动
 1. [iPhone](#docs/iphone)
