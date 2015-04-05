@@ -15,7 +15,7 @@
 1. [Exceptions](#docs/exceptions)
 1. [Magic methods](#docs/magic-methods-properties-iterators)
 1. [Files and Stuff](#docs/files-stuff)
-1. [Gui](#docs/gui)
+1. [GUI](#docs/gui)
 1. [Database support](#docs/database-support)
 1. [Network programming](#docs/network-programming)
 1. [Python and the web](#docs/python-the-web)
