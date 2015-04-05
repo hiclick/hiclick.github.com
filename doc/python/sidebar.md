@@ -14,7 +14,7 @@
 1. [Abstraction](#docs/abstraction)
 1. [Exceptions](#docs/exceptions)
 1. [Magic methods](#docs/magic-methods-properties-iterators)
-1. [Files and stuff](#docs/files-stuff)
+1. [Files and Stuff](#docs/files-stuff)
 1. [Gui](#docs/gui)
 1. [Database support](#docs/database-support)
 1. [Network programming](#docs/network-programming)
