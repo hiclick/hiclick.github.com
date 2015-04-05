@@ -7,7 +7,7 @@
 ## 目录
 1. [Preface](#README)
 1. [Basics](#docs/basics)
-1. [Lists and tuples](#docs/lists-tuples)
+1. [Lists and Tuples](#docs/lists-tuples)
 1. [Strings](#docs/strings)
 1. [Dictionaries](#docs/dictionaries)
 1. [Statements](#docs/statements-conditionals-loops)
@@ -16,7 +16,7 @@
 1. [Magic methods](#docs/magic-methods-properties-iterators)
 1. [Files and stuff](#docs/files-stuff)
 1. [Gui](#docs/gui)
-1. [Database support](#docs/data-base-support)
+1. [Database support](#docs/database-support)
 1. [Network programming](#docs/network-programming)
 1. [Python and the web](#docs/python-the-web)
 
