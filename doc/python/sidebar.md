@@ -6,13 +6,19 @@
 
 ## 目录
 1. [前言](#README)
-1. [广告基础](#docs/basic)
-1. [业界体系](#docs/circles)
-1. [考核指标](#docs/kpi)
-1. [广告系统](#docs/system)
-1. [效果优化](#docs/optimize)
-1. [广告联盟](#docs/alliance)
-1. [案例分析](#docs/case)
+1. [Basics](#docs/basics)
+1. [Lists and tuples](#docs/liststuples)
+1. [Strings](#docs/strings)
+1. [Dictionaries](#docs/dictionaries)
+1. [Statements: conditionals and loops](#docs/statementsconditionalsloops)
+1. [Abstraction](#docs/abstraction)
+1. [Exceptions](#docs/exceptions)
+1. [Magic methods, properties and iterators](#docs/magicmethodspropertiesiterators)
+1. [Files and stuff](#docs/filesstuff)
+1. [Gui](#docs/gui)
+1. [Database support](#docs/databasesupport)
+1. [Network programming](#docs/networkprogramming)
+1. [Python and the web](#docs/pythontheweb)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
