@@ -23,7 +23,7 @@ easy_install package
 * easy_install Twisted
 * sudo easy_install babel
 
-Install Trac：
+Install Trac (Partial)：
 
 * easy_install -f http://ftp.edgewall.com/pub/trac/Trac-0.12.tar.gz Trac==0.12
 * easy_install http://ftp.edgewall.com/pub/genshi/Genshi-0.6-py2.6.egg
