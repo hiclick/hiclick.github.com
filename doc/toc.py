@@ -20,7 +20,6 @@ s = '''
 '''
 
 for fa in toc:
-    f = open(fa + '.md', 'w')
-    f.write('# ' + noteType + " - " + fa.capitalize())
-    f.write(s)
-    f.close()
+    with open("note/docs/" + fa + ".md", "w") as f:
+        f.write("# " + noteType + " - " + fa.capitalize())
+        f.write(s)
