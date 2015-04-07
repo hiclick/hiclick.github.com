@@ -15,10 +15,13 @@
 
 SYNTAX:
 
-http://www.tutorialspoint.com/python/python_files_io.htm
+参考：[tutorialspoint](http://www.tutorialspoint.com/python/python_files_io.htm)<sup><i class="ext-link"></i></sup>
 
 ```python
 file object = open(file_name [, access_mode][, buffering])
+fileObject.write(string)
+fileObject.read([count])
+fileObject.close()
 ```
 
 List of Access Mode:
@@ -110,9 +113,13 @@ EXAMPLE:
 
 读取相对路径：
 
-http://stackoverflow.com/questions/1270951/python-how-to-refer-to-relative-paths-of-resources-when-working-with-code-repo
+参考：
 
-http://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python
+[Stack Overflow 1270951](http://stackoverflow.com/questions/1270951/python-how-to-refer-to-relative-paths-of-resources-when-working-with-code-repo)<sup><i class="ext-link"></i></sup>
+
+[Stack Overflow 7165749](http://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python)<sup><i class="ext-link"></i></sup>
+
+
 
 ```python
 f = open("/music/_singles/kairo.mp3", "rb")
