@@ -1,9 +1,15 @@
 # Python - pip
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+The [PyPA recommended](https://python-packaging-user-guide.readthedocs.org/en/latest/current.html)<sup><i class="ext-link"></i></sup> tool for installing Python packages.
 
-## 二级标题一
+https://pypi.python.org/pypi/pip
 
-## 二级标题二
+## Usage
 
-## 二级标题三
+```bash
+pip install package
+```
+
+## Recommended Packages
+
+* pip install ipython
