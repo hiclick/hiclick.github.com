@@ -4,7 +4,7 @@ __author__ = 'Christen'
 
 noteType = "Python"
 
-toc = ['setuptools','pip','ipython']
+toc = ['trac']
 
 # toc.sort()
 

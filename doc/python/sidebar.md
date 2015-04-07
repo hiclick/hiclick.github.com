@@ -26,6 +26,7 @@
 1. [easy_install](#docs/setuptools)
 1. [pip](#docs/pip)
 1. [iPython](#docs/ipython)
+1. [Trac](#docs/trac)
 
 
 
