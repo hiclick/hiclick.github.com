@@ -20,6 +20,8 @@
 1. [Office](#docs/office)
 1. [Photo](#docs/photo)
 1. [Media](#docs/media)
+1. [Game](#docs/game)
+1. [Virtualization](#docs/virtualization)
 1. [Antivirus](#docs/antivirus)
 
 ## 其他
