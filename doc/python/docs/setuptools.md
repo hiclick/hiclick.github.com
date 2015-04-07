@@ -23,11 +23,8 @@ easy_install package
 * easy_install Twisted
 * sudo easy_install babel
 
-以下命令来自 Trac 安装笔记：
+Install Trac：
 
 * easy_install -f http://ftp.edgewall.com/pub/trac/Trac-0.12.tar.gz Trac==0.12
 * easy_install http://ftp.edgewall.com/pub/genshi/Genshi-0.6-py2.6.egg
 * easy_install Pygments-1.3.1-py2.6.egg
-
-
-

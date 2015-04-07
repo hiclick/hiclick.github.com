@@ -115,9 +115,9 @@ EXAMPLE:
 
 参考：
 
-[Stack Overflow 1270951](http://stackoverflow.com/questions/1270951/python-how-to-refer-to-relative-paths-of-resources-when-working-with-code-repo)<sup><i class="ext-link"></i></sup>
+* [Refer to relative paths of resources](http://stackoverflow.com/a/1270970)<sup><i class="ext-link"></i></sup>
 
-[Stack Overflow 7165749](http://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python)<sup><i class="ext-link"></i></sup>
+* [Open file in a relative location in Python](http://stackoverflow.com/a/7166139)<sup><i class="ext-link"></i></sup>
 
 
 
