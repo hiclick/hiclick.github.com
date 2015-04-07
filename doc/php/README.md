@@ -1,8 +1,6 @@
 # PHP
 
 
-[![cover](assets/img/doc/ecma/es6-cover-thumbnail.jpg)](/assets/img/doc/ecma/es6-cover.jpg)
-
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德
