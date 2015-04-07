@@ -14,7 +14,7 @@ Easily download, build, install, upgrade, and uninstall Python packages
 
 ## Usage
 
-```shell
+```bash
 easy_install package
 ```
 
