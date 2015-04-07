@@ -1,12 +1,26 @@
 # Python - easy_install
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
 
-|setup.py build  |    will build the package underneath 'build/'|
-|setup.py install|    will install the package|
+https://pypi.python.org/pypi/setuptools
 
-## 二级标题一
+Easily download, build, install, upgrade, and uninstall Python packages
 
-## 二级标题二
 
-## 二级标题三
+## Install
+
+1. downlad the source code setuptools-15.0.zip
+1. unzip
+1. python setup.py install
+1. add C:\Python27\Scripts into the path (Windows)
+
+## Usage
+
+```shell
+easy_install packages
+```
+
+## Recommended Packages
+
+* easy_install Twisted
+* sudo easy_install babel
+* easy_install -f http://ftp.edgewall.com/pub/trac/Trac-0.12.tar.gz Trac==0.12
