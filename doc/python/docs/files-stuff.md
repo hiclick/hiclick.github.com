@@ -4,7 +4,16 @@
 
 ## File
 
-Syntax:
+* open
+* read
+* readline
+* close
+
+***
+
+SYNTAX:
+
+http://www.tutorialspoint.com/python/python_files_io.htm
 
 ```python
 file object = open(file_name [, access_mode][, buffering])
@@ -94,10 +103,14 @@ List of Access Mode:
     </tbody>
 </table>
 
-Samples:
+EXAMPLE:
 
 
 读取相对路径：
+
+http://stackoverflow.com/questions/1270951/python-how-to-refer-to-relative-paths-of-resources-when-working-with-code-repo
+
+http://stackoverflow.com/questions/7165749/open-file-in-a-relative-location-in-python
 
 ```python
 f = open("/music/_singles/kairo.mp3", "rb")
@@ -113,7 +126,8 @@ print f.readline()
 myList = []
 for line in f:
     myList.append(line)
-print(myList)
+
+print(myList) # print with the newline character \n
 f.close()
 ```
 
