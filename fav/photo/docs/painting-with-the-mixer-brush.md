@@ -1,4 +1,4 @@
-# 修图 - Paninting with the mixer brush
+# 修图 - The mixer brush
 
 Adobe Photoshop CS6 Classroom in a Book
 

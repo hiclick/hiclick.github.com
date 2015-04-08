@@ -1,4 +1,4 @@
-# 修图 - Producing and printing consistent color
+# 修图 - Consistent color
 
 Adobe Photoshop CS6 Classroom in a Book
 

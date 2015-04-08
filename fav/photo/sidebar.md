@@ -21,7 +21,7 @@
 1. [矢量绘图](#docs/vector-drawing-techniques)
 1. [高级合成](#docs/advanced-compositing)
 1. [视频编辑](#docs/editing-video)
-1. [画笔](#docs/paninting-with-the-mixer-brush)
+1. [画笔](#docs/painting-with-the-mixer-brush)
 1. [3D图像](#docs/working-with-3d-images)
 1. [Web图像](#docs/prearing-files-for-the-web)
 1. [颜色](#docs/producing-and-printing-consistent-color)

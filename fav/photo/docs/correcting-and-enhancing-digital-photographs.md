@@ -1,4 +1,4 @@
-# 修图 - Correcting and enhancing digital photographs
+# 修图 - Correcting and enhancing
 
 Adobe Photoshop CS6 Classroom in a Book
 

@@ -1,4 +1,4 @@
-# 修图 - Getting to know the work area
+# 修图 - The work area
 
 Adobe Photoshop CS6 Classroom in a Book
 
