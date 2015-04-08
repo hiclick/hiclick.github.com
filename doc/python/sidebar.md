@@ -22,6 +22,10 @@
 1. [Network programming](#docs/network-programming)
 1. [Python and the web](#docs/python-the-web)
 
+### Module
+1. [os](#docs/os)
+1. [urllib2](#docs/urllib2)
+
 ### Package
 1. [easy_install](#docs/setuptools)
 1. [pip](#docs/pip)
