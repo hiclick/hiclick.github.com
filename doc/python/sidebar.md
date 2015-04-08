@@ -26,7 +26,7 @@
 1. [os](#docs/os)
 1. [urllib2](#docs/urllib2)
 
-### Package
+### Tool
 1. [easy_install](#docs/setuptools)
 1. [pip](#docs/pip)
 1. [iPython](#docs/ipython)

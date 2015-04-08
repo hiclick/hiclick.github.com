@@ -6,7 +6,7 @@ docs: 2.7.3-docs/library/urllib2.html
 
 ## Check proxy
 
-```text
+```java
 陕西省西安市	1.85.4.209
 河北省唐山市	222.222.194.100
 浙江省绍兴市	123.157.137.123
