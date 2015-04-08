@@ -6,7 +6,15 @@
 
 ## 目录
 1. [扉页](#README)
-1. [前言](#docs/preface)
+1. [历史](#docs/history)
+1. [小说](#docs/novel)
+1. [武侠](#docs/swordsman)
+1. [传记](#docs/biography)
+1. [童话·寓言](#docs/fairytales)
+1. [管理](#docs/manage)
+1. [散文·小品](#docs/essay)
+1. [哲学·数学](#docs/philosophy)
+1. [编程·科技](#docs/program)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
