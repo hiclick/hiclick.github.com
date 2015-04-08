@@ -5,7 +5,7 @@
 ——朱熹《训学斋规》
 
 ## 鸳鸯刀
-## 越女剑：BeautifulRooms InspiringStories
+## 越女剑
 ## 雪山飞狐
 ## 碧血剑
 ## 血海飘香：楚留香传奇

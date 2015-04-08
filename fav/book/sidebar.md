@@ -5,7 +5,7 @@
 授权：<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">署名-非商用许可证</a>
 
 ## 目录
-1. [扉页](#README)
+1. [序言](#README)
 1. [历史](#docs/history)
 1. [小说](#docs/novel)
 1. [武侠](#docs/swordsman)
