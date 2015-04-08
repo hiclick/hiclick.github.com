@@ -1,4 +1,4 @@
-# 修图 - Editing video
+# 修图 - Editing Video
 
 Adobe Photoshop CS6 Classroom in a Book
 

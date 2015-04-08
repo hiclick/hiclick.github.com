@@ -1,4 +1,4 @@
-# 修图 - The mixer brush
+# 修图 - The Mixer Brush
 
 Adobe Photoshop CS6 Classroom in a Book
 

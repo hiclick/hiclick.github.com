@@ -1,4 +1,4 @@
-# 修图 - Layer basics
+# 修图 - Layer Basics
 
 Adobe Photoshop CS6 Classroom in a Book
 

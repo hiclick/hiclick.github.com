@@ -1,4 +1,4 @@
-# 修图 - Vector drawing techniques
+# 修图 - Vector Drawing Techniques
 
 Adobe Photoshop CS6 Classroom in a Book
 

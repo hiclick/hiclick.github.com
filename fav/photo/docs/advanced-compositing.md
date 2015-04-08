@@ -1,4 +1,4 @@
-# 修图 - Advanced compositing
+# 修图 - Advanced Compositing
 
 Adobe Photoshop CS6 Classroom in a Book
 

@@ -1,4 +1,4 @@
-# 修图 - Working with 3D images
+# 修图 - Working with 3D Images
 
 Adobe Photoshop CS6 Classroom in a Book
 

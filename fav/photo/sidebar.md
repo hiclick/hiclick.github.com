@@ -15,7 +15,7 @@
 1. [基础修图](#docs/basic-photo-corrections)
 1. [选择工具](#docs/working-with-selections)
 1. [图层](#docs/layer-basics)
-1. [修改/增强数据影像](#docs/correcting-and-enhancing-digital-photographs)
+1. [修改/增强数码影像](#docs/correcting-and-enhancing-digital-photographs)
 1. [遮罩/通道](#docs/masks-and-channels)
 1. [字体](#docs/typographic-design)
 1. [矢量绘图](#docs/vector-drawing-techniques)

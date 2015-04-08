@@ -1,4 +1,4 @@
-# 修图 - Prearing files for the web
+# 修图 - Prearing Files for the Web
 
 Adobe Photoshop CS6 Classroom in a Book
 

@@ -1,4 +1,4 @@
-# 修图 - Working with selections
+# 修图 - Working with Selections
 
 Adobe Photoshop CS6 Classroom in a Book
 

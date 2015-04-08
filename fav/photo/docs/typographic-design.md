@@ -1,4 +1,4 @@
-# 修图 - Typographic design
+# 修图 - Typographic Design
 
 Adobe Photoshop CS6 Classroom in a Book
 

@@ -1,4 +1,4 @@
-# 修图 - Consistent color
+# 修图 - Consistent Color
 
 Adobe Photoshop CS6 Classroom in a Book
 

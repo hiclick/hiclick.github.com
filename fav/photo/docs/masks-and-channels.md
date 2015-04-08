@@ -1,4 +1,4 @@
-# 修图 - Masks and channels
+# 修图 - Masks and Channels
 
 Adobe Photoshop CS6 Classroom in a Book
 

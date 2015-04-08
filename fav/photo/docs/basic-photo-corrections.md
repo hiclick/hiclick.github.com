@@ -1,4 +1,4 @@
-# 修图 - Basic photo corrections
+# 修图 - Basic Photo Corrections
 
 Adobe Photoshop CS6 Classroom in a Book
 
