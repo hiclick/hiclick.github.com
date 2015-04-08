@@ -20,7 +20,7 @@ function Trim(str, is_global) {
 
 titles = [];
 jQuery("h2").find("a").each(function () {
-    titles.push(Trim($(this).text(), "g"));
+    titles.push(Trim(jQuery(this).text(), "g"));
 });
 console.log(titles);
 ```
