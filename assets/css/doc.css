@@ -1,16 +1,22 @@
 /* General Setting */
 
 /* Small screens (default) */
-html { font-size: 100%; }
- 
-/* Medium screens (640px) */
-@media (min-width: 40rem) { 
-  html { font-size: 112%; }
+html {
+    font-size: 100%;
 }
- 
+
+/* Medium screens (640px) */
+@media (min-width: 40rem) {
+    html {
+        font-size: 112%;
+    }
+}
+
 /* Large screens (1024px) */
-@media (min-width: 64rem) { 
-  html { font-size: 120%; }
+@media (min-width: 64rem) {
+    html {
+        font-size: 120%;
+    }
 }
 
 /* Grid */
@@ -29,7 +35,7 @@ body {
 #sidebar {
     margin-top: 0;
     padding-left: 25px;
-	padding-bottom:25px;
+    padding-bottom: 25px;
     padding-top: 25px;
 
     box-shadow: 0 0 40px #CCC;
@@ -39,16 +45,16 @@ body {
 }
 
 @media (min-width: 40rem) {
-	#sidebar {
-	width: 280px;
-    position: fixed;
-    height: 100%;
-    margin-right: 20px;
-	padding-bottom:0;
-    padding-top: 0;
-    overflow-y: scroll;
-    overflow: -moz-scrollbars-vertical;
-	}
+    #sidebar {
+        width: 280px;
+        position: fixed;
+        height: 100%;
+        margin-right: 20px;
+        padding-bottom: 0;
+        padding-top: 0;
+        overflow-y: scroll;
+        overflow: -moz-scrollbars-vertical;
+    }
 }
 
 #sidebar h1 {
@@ -93,7 +99,8 @@ body {
     list-style: decimal-leading-zero;
 }
 
-#sidebar ul li:before {  /* a hack to have dashes as a list style */
+#sidebar ul li:before {
+    /* a hack to have dashes as a list style */
     content: "-";
     position: relative;
     left: -5px;
@@ -105,40 +112,39 @@ body {
     margin-bottom: 0.2rem;
     margin-left: 10px;
     padding: 0;
-    text-indent: -5px;  /* to compensate for the padding for the dash */
+    text-indent: -5px; /* to compensate for the padding for the dash */
     font-size: 0.7rem;
 }
 
 #content {
     padding-top: 10px;
     padding-bottom: 150px;
-	margin-left: 20px;
-	margin-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-size: 0.8rem;
-	line-height:1.3rem;
+    line-height: 1.3rem;
 
     /* border: 1px solid black; */
 }
 
 @media (min-width: 40rem) {
-	#content {
-		width: 720px;
-		padding-left:330px;
-		margin-left: 0;
-		margin-right: 0;
-	}
+    #content {
+        width: 720px;
+        padding-left: 330px;
+        margin-left: 0;
+        margin-right: 0;
+    }
 }
 
-#content pre{
+#content pre {
     margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 0.7rem;
-	line-height: 1.2;
+    line-height: 1.2;
     border-radius: 5px;
 }
-
 
 #content h2 {
     margin-top: 50px;
@@ -178,28 +184,28 @@ body {
 
 #content ul {
     display: block;
-	padding-top: 0.5rem;
-	padding-bottom:0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     list-style: square;
 }
 
 #content ol {
     display: block;
-	padding-top: 0.5rem;
-	padding-bottom:0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     list-style: decimal-leading-zero;
 }
 
-
-#content ul li:before {  /* a hack to have dashes as a list style */
+#content ul li:before {
+    /* a hack to have dashes as a list style */
     /*content: "-";*/
     position: relative;
     left: -5px;
 }
 
 #content ul li,
-#content ol li{
-    text-indent: 0;  /* to compensate for the padding for the dash */
+#content ol li {
+    text-indent: 0; /* to compensate for the padding for the dash */
     font-size: 0.8rem;
 }
 
@@ -217,9 +223,10 @@ body {
     text-decoration: none;
 }
 
-#content .content-toc{
-    background: #bdc3c7;
+#content .content-toc {
+    /*background: #bdc3c7;*/
     border-radius: 5px;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAABPCAYAAACqNJiGAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NUVFREE2QTFENjc3MTFFMDg0RDg4QURBN0E4NTA4NTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUVFREE2QTJENjc3MTFFMDg0RDg4QURBN0E4NTA4NTUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpGNTQwMEVFNkQ1OTUxMUUwODREODhBREE3QTg1MDg1NSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1RUVEQTZBMEQ2NzcxMUUwODREODhBREE3QTg1MDg1NSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pu1CJBoAAAVwSURBVHja7FwNb9s2FLRlO4kbtFuwrViHYgP2/3/TsHVtsqUfadOlTuKv+bQ878rqUSfJdj76CASiTN6JIXgUec90/+TP309/fP7LtLdKxy9+2/vp51+vkX998nJ09P3T2XC0t/z44WyAzx5/czSfTa/7Z29Ohz88e15i/nr5x6gOb/ffPX02KwaDpcqd8tXhcf3w7s1g72C8HD86XDThNj4Vj9RfLpevepFapSK6oEPnYcjaDeffvf57iKGK/MU/5wX+kL+6nPQxtKswHh7p7enJcDGf901a4Em5UR+4Kj4FjwSpTT5dlPe4mvRUbhVfynY+mx1jHsENCCyPyjZfGXFVPS/P+DoMc6fPVZ7ptS3XJuU5df9TzHldZMtDkfMYrixbkwk+s6GcYjy8SY2lYWXgZdl63Ao+bSuXAcvTjcet4pGGh4+fzO2G83hVF8V/dff3D5aWxxVlVRgPj3SA+5vhz2Wj0V5vcPN5jlvBp239jHt1PRC4VXzItqts7c1ibxce/jaUMXxtKOMzy6cYD5+WAe9xswQ9bg+flnFbU26eHjzuHL7svGt6MOe9tFjMe7PZtBKTw2OOskYBD566xHwqfrFY9KfTcuPQwxX3dc9h7ib4kG0X2bK0+O3IedTx6in4XL0ct/KcFJ/mFW7vOTl82Xlnb0/X2sfG1/Ln7/9fDkwmF338GQHKeHVeh0d6T8sBlZv50M46/PredggiN/NhXlPwIdswBm6x8+DHeZt8G8p4rfMGmesxHh5ZFd7uTXZsGuS4Uz7De22z3YK3sc9xGx/jc20L2YZs76Cfh+G7Cz8PEtmFnwfszvw81TPr6ufV+Yib9POaPif8vPDz7rGfNx4frofqNv08SGL8qLcTP+/Jt0fh58VS5aEtVbzQY245oS5V2nAr+HSpoXKnOx4F/8VSJRea4+WA95r38HXLBI9beU7dMkrhzi1bPHzMeV1ly69fznsxDPQ+y0TBmxx4OcBLDS9OwHwK3nYFvNQwCeZiGMyt4svOwzeC7Ibzbm+vXuPD4agSk8NjuNvwB56XMV5iPhVfFMUSSwxbauC+7jnM3QQfsu0iWzW8VxWOSzEePleWhveacqeYNm1Vuble2Xle6JDDexyOU0OPaXjQCx1yeC/HreDTtn7GvcLy0snjVvEh266y9cJ2TcJ7dfg6jBLWVPGcz7VJeU7d/1Rw6JDzXngPc8Dq1V5UYTw8EocOgV+boWpYU8DbMobNTN4hKGFNFR+yDWPgjhgDXjhuE6FH3tir3G1Cj7yxb8IdoceQ7T2VLb/dtunneWHNTft5alhzI35eG8+tjZ/XxnNr4+ep7Qs/L/y8B+LnsWe3TT/PvLNt+3nAepjw88LPe4B+nnlb2/bzrGwXfl6aDz8vdhj3qPOuEmkoZiiXKfhcPfWsRBM8z1lNz2Go+LLzLj6edzqHoeCRLleTbZdzGAq+7OSry/Wc1eYchoqPOS/mvFvsPDYz0zMZVYYj5h52FxR8amYCb3OYarQq+NTMxNW2eKrRquJDtiHbOyhblgYPZVW2jM/JjqWR41bwOdkBq0wJKj5kG7K9xc7zzlHkYhjKOYw0huGdo8jFCZRzGGkMwztHkYthKOcwKmMYl5NPx/s3piMqW96LE5RblsW8Z2WM8fBVZTAmjc+4U1yOO4fnMm6rF7fIcXv4mPM2aYayHHO/q+L99omHT+up3N5vn3j4KhNX4U75FHzZealT0DQpv8ViJmr69a0mid2OumQb+zaJzdC6FLINP+8O+HnsV23Tz8P8tQs/D9fw82KH8ZUZA7vw83K/fbJJPw9Y/hZY+Hkh2wfu5/EX/rbp56Wb7236eWk+/LyQbXTeV5H+FWAA7eqC0D2aO2cAAAAASUVORK5CYII=);
 }
 
 #back_to_top {
@@ -237,7 +244,6 @@ body {
     line-height: 20px;
     text-align: center;
     font-size: 10px;
-
 
     border-radius: 5px;
     background-color: #AAA;
@@ -264,7 +270,6 @@ body {
     text-align: center;
     font-size: 10px;
 
-
     border-radius: 5px;
     background-color: #AAA;
 }
@@ -279,64 +284,64 @@ body {
     position: fixed;
 
     top: 0;
-	height: 17px;
+    height: 17px;
 
     font-size: 14px;
 }
 
 @media (min-width: 40rem) {
-	#loading, #error {
-	    display: none;
-		position: fixed;
+    #loading, #error {
+        display: none;
+        position: fixed;
 
-		height: 17px;
-		top: 45%;
+        height: 17px;
+        top: 45%;
 
-		margin-left: 560px;
+        margin-left: 560px;
 
-		font-size: 14px;
-	}	
+        font-size: 14px;
+    }
 }
 
-#flip{
-	position:fixed;
-	height:20px;
-	width:100%;
-	bottom:10px;
-	font-size:10px;
-	text-align:center;
+#flip {
+    position: fixed;
+    height: 20px;
+    width: 100%;
+    bottom: 10px;
+    font-size: 10px;
+    text-align: center;
 }
 
-#pageup,#pagedown{
-	height:20px;
-	width:70px;
-	display:inline-block;
-	border-radius: 5px;
+#pageup, #pagedown {
+    height: 20px;
+    width: 70px;
+    display: inline-block;
+    border-radius: 5px;
     background-color: #AAA;
-	text-align: center;
-	line-height:20px;
-	color: #FFF;
+    text-align: center;
+    line-height: 20px;
+    color: #FFF;
 }
 
-#pageup{
-	margin-right:5px;
+#pageup {
+    margin-right: 5px;
 }
 
 #pageup:hover,
-#pagedown:hover{
+#pagedown:hover {
     background-color: #444;
     cursor: pointer;
 }
 
-#pagedown{
-	/*margin-left:5px;*/
+#pagedown {
+    /*margin-left:5px;*/
 }
 
 @media (min-width: 40rem) {
-	#flip{
-		margin-left:545px;
-		width:150px;
-	}
+    #flip {
+        margin-left: 545px;
+        width: 150px;
+    }
 }
 
 .progress-indicator-2 {
@@ -347,9 +352,9 @@ body {
     background-color: #0A74DA;
 }
 
-#content p{
-    text-align:justify;
-    text-justify:inter-ideograph;
+#content p {
+    text-align: justify;
+    text-justify: inter-ideograph;
 }
 
 /*Github*/
