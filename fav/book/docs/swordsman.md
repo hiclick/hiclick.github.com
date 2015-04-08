@@ -1,23 +1,25 @@
 # Book - 武侠
 
-读书有三到，谓心到，眼到，口到。心不在此，则眼看不仔细，心眼既不专一，却只漫诵浪读，决不能记，久也不能久也。三到之中，心到最急，心既到矣，眼口岂不到乎？
+武侠小说，在中国文学中的大众文学，是中国自民国以后出现的一种结合历史与幻想的武打小说，故事主要描写武林帮派之间的争斗、江湖中人之间的恩怨情仇，民族国家的侠义精神，以及追求武道的极致。
 
-——朱熹《训学斋规》
+武侠小说的历史背景多为中国古代，尤以改朝换代、汉族与胡族战争之乱世为多，故而时势造英雄；也有以描述帮派斗争为主，而没有强调时代。盖因乱世之中，人更加需要以武力证明自身价值。以武学为中心，是武侠小说独特的文化特征，兼以中国古代医学、佛学、道家、易术及各种神秘学等。因此，武侠小说中人物的价值观，乃至于整部作品的精神基调，是建立在武学的基本思想上的。
+
+-- [维基百科](http://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BF%A0%E5%B0%8F%E8%AA%AA)<sup><i class="ext-link"></i></sup>
 
 ## 笑傲江湖
 
-[豆瓣](http://book.douban.com/subject/1002299/)
+[豆瓣](http://book.douban.com/subject/1002299/)<sup><i class="ext-link"></i></sup>
 
 介质：有声 桑小玲 赵语婴 播讲
 
 作者：金庸
 出版社：生活·读书·新知三联书店
-出版年：1994-5
+出版年：1994-05
 页数：1599
 
 ## 飞狐外传
 
-[豆瓣](http://book.douban.com/subject/1052380/)
+[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="ext-link"></i></sup>
 
 介质：有声 桑小玲 播讲
 
@@ -28,9 +30,9 @@
 
 ## 鸳鸯刀
 
-[豆瓣](http://book.douban.com/subject/1052380/)
+[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="ext-link"></i></sup>
 
-[维基](http://zh.wikipedia.org/wiki/%E9%B8%B3%E9%B8%AF%E5%88%80)
+[维基](http://zh.wikipedia.org/wiki/%E9%B8%B3%E9%B8%AF%E5%88%80)<sup><i class="ext-link"></i></sup>
 
 介质：有声 桑小玲 播讲
 

@@ -54,9 +54,9 @@ var d = a.concat(b, c);
 
 参考：
 
-* [JavaScript: from the Ground to Closures » Mastering Array](http://javascript.info/tutorial/array)
-* [Combining JavaScript Arrays](http://davidwalsh.name/combining-js-arrays)
-* [What is the most efficient way to concatenate N arrays in JavaScript?](http://stackoverflow.com/a/5080057)
+* [JavaScript: from the Ground to Closures » Mastering Array](http://javascript.info/tutorial/array)<sup><i class="ext-link"></i></sup>
+* [Combining JavaScript Arrays](http://davidwalsh.name/combining-js-arrays)<sup><i class="ext-link"></i></sup>
+* [What is the most efficient way to concatenate N arrays in JavaScript?](http://stackoverflow.com/a/5080057)<sup><i class="ext-link"></i></sup>
 
 ## 包装对象 和 Boolean对象
 
