@@ -7,7 +7,7 @@
 ## 目录
 
 ### 摄影
-1. [扉页](#README)
+1. [序言](#README)
 1. [摄影](#docs/photography)
 
 ### 修图
