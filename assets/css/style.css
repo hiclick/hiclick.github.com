@@ -273,27 +273,3 @@ http://www.neoease.com/a-tag-css-design/
 }
 
 
-/*
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/filter
-
-http://demosthenes.info/blog/532/Convert-Images-To-Black-And-White-With-CSS
-
-*/
-
-/**
-This is an experimental technology
-Because this technology's specification has not stabilized
-*/
-
-.docHome img {
-    filter: gray; /* IE6-9 */
-    filter: grayscale(100%); /* Firefox 35+ */
-    -webkit-filter: grayscale(100%); /* Google Chrome, Safari 6+ & Opera 15+ */
-}
-
-/* Disable grayscale on hover */
-.docHome img:hover {
-    filter: none;
-    -webkit-filter: grayscale(0%);
-}

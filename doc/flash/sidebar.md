@@ -5,6 +5,7 @@
 授权：<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">署名-非商用许可证</a>
 
 ## 目录
+1. [ActionScript 2.0](#docs/as2)
 1. [Language Fundamentals](#docs/language-fundamentals)
 1. [Property Method Event](#docs/property-method-event)
 1. [Display List](#docs/display-list)

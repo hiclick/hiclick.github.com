@@ -6,9 +6,10 @@
 
 ## 目录
 
-### XHTML
-
 ### HTML5
+1. [Preface](#README)
+1. [XHTML](#docs/xhtml)
+1. [Emmet](#docs/emmet)
 1. [Introducing](#docs/introducing)
 1. [Markup](#docs/markup)
 1. [Markdown](#docs/markdown)
@@ -22,8 +23,6 @@
 1. [Drag and Drop](#docs/drag-drop)
 1. [Offline Web Apps](#docs/offline-web-apps)
 1. [Web Storage](#docs/web-storage)
-
-### Emmet
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)

@@ -16,6 +16,7 @@
 ### 应用软件
 1. [System](#docs/system)
 1. [Program](#docs/program)
+1. [Server](#docs/server)
 1. [Network](#docs/network)
 1. [Office](#docs/office)
 1. [Photo](#docs/photo)
