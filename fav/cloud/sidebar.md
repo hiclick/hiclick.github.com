@@ -6,7 +6,13 @@
 
 ## 目录
 1. [扉页](#README)
-1. [前言](#docs/preface)
+1. [新浪云](#docs/sina)
+1. [百度开放平台](#docs/baidu)
+1. [阿里云](#docs/ali)
+1. [腾讯开放平台](#docs/tencent)
+1. [360](#docs/360)
+1. [PConline](#docs/pconline)
+1. [Github](#docs/github)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
