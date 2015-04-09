@@ -1,6 +1,15 @@
 # Google
 
 
+http://www.html5rocks.com/zh/
+
+http://translate.google.cn/#zh-CN/en/
+
+https://developers.google.com/products/
+
+https://developers.google.com/api-client-library/java/apis/
+
+
 **浣溪沙·当时只道是寻常**
 
 谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
