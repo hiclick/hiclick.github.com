@@ -6,7 +6,12 @@
 
 ## 目录
 1. [扉页](#README)
-1. [前言](#docs/preface)
+1. [摇号](#docs/lottery)
+1. [知识](#docs/knowledge)
+1. [选车](#docs/select)
+1. [驾驶](#docs/drive)
+1. [保养](#docs/maintenance)
+
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
