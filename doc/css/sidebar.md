@@ -7,9 +7,10 @@
 ## 目录
 
 ### CSS 选择器
-
-### CSS 属性
 1. [前言](#README)
+1. [选择器](#docs/selectors)
+
+### CSS 参考手册
 1. [动画](#docs/animation)
 1. [背景](#docs/background)
 1. [边框和轮廓](#docs/border)
@@ -36,9 +37,10 @@
 1. [过渡](#docs/transition)
 1. [用户界面](#docs/userinterface)
 
+### CSS3 教程
+
 ### Bootstrap
 
-### CSS3
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
