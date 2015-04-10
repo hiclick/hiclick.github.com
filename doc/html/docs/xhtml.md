@@ -54,5 +54,3 @@ window.location.assign("http://www.mozilla.org");
 
 Copy from http://stackoverflow.com/a/506004/4766670
 
-
-
