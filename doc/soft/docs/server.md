@@ -1,10 +1,38 @@
 # Soft - Server
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+## Apache
 
-## Wamp
+The [Apache](http://httpd.apache.org/) HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
 
-### Windows Wamp
+Apache httpd was launched in 1995, has been the most popular web server on the Internet since April 1996, and celebrates its 20th birthday as a project this February.
+
+### Win Wamp
+
+WampServer is a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database. Alongside, PhpMyAdmin allows you to manage easily your database.
+
+Alias Config
+
+```apacheconf
+# c:\wamp-2.1\bin\apache\Apache2.2.17\conf\httpd.conf
+# c:\wamp-2.1\bin\apache\Apache2.2.17\conf\original\httpd.conf
+Include "c:/Wamp2.1/alias/*"
+```
+
+e.g. phpMyAdmin
+
+注：e. g. 是拉丁文 "exempli gratia" 的缩写，意思是“举个例子，比如”，等同于 "for example"。
+
+```apacheconf
+Alias /phpmyadmin "c:/wamp-2.1/apps/phpmyadmin3.3.9/"
+
+<Directory "c:/wamp-2.1/apps/phpmyadmin3.3.9/">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride all
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Directory>
+```
 
 ### Mac Apache
 
@@ -58,11 +86,40 @@ http://as.chenzixin.com/
 
 猜测还是文件权限的问题，但一时没有思路。
 
-## Resin
-
-## Tomcat
-
 ## nginx
+
+http://nginx.org/en/docs/
+
+nginx \[engine x] is an HTTP and reverse proxy server, as well as a mail proxy server, written by Igor Sysoev. For a long time, it has been running on many heavily loaded Russian sites.
+
+### Windows
+
+http://nginx.org/en/docs/windows.html
+
+Version of nginx for Windows uses the native Win32 API.
+
+Run nginx and see nginx processes:
+
+```powershell
+start nginx
+C:\nginx-1.7.12>tasklist /fi "imagename eq nginx.exe"
+```
+
+Paths in a configuration file must be specified in **UNIX-style using forward slashes**:
+
+```powershell
+access_log   logs/site.log;
+root         C:/web/html;
+```
+Commands:
+
+```powershell
+nginx -s stop	fast shutdown
+nginx -s quit	graceful shutdown
+nginx -s reload	changing configuration, starting new worker processes with a new configuration, graceful shutdown of old worker processes
+nginx -s reopen	re-opening log files
+```
+### Mac
 
 × 尝试在 nginx 中配置 DOC：
 
@@ -106,3 +163,11 @@ chown -R Christen:admin /Users/Christen/Documents/app/git/hiclick.github.com/
 可正常访问，具体的细节还没有完全明白。
 
 参考：[Nginx is throwing an 403 Forbidden on Static Files](http://stackoverflow.com/a/20198148/4766670)
+
+## Resin
+
+## Tomcat
+
+## Jetty
+
+## Glassfish
