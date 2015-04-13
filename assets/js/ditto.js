@@ -19,7 +19,7 @@ var ditto = {
 
 var disqusCode = '<h3>评论已关闭</h3><div id="disqus_thread"></div>';
 
-var menu = new Array();
+var menu = [];
 
 function initialize() {
     // initialize sidebar and buttons
@@ -96,7 +96,7 @@ function init_edit_button() {
             // open is better than redirecting, as the previous page history
             // with redirect is a bit messed up
             //返回首页
-            location.href = "http://christen.cn/";
+            location.href = "/";
         });
     }
 }
@@ -124,7 +124,7 @@ function li_create_linkage(li_tag, header_level) {
 
         // highlight the relevant section
         original_color = header.css("color");
-        header.animate({ color: "#ED1C24", }, 500, function() {
+        header.animate({ color: "#ED1C24"}, 500, function() {
             // revert back to orig color
             $(this).animate({color: original_color}, 2500);
         });
