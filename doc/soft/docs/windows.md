@@ -20,7 +20,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 此外，微盘卸载其实并不完全，重启电脑后要清理
 
-C:\Users\用户名\AppData\Roaming\VDiskSyn
+```java
+C:\Users\Username\AppData\Roaming\VDiskSyn
+```
 
 目录。
 

@@ -9,7 +9,7 @@
 http://vbird.dic.ksu.edu.tw/
 
 ```bash
-alias lm='ls -al' # 命令別名設定
+alias lm = 'ls -al' # 命令別名設定
 ```
 
 ### 用户组维护
@@ -24,7 +24,7 @@ ps -u Christen
 
 ### 自动输入密码
 
-第一行的方法，可用来启动 GoAgent，但是启动 nginx 无效，还是提示密码密码，今天参考[Stack Overflow](http://stackoverflow.com/a/19277901/4766670)
+第一行的方法，可用来启动 GoAgent，但是启动 nginx 无效，还是提示输入密码，今天参考[Stack Overflow](http://stackoverflow.com/a/19277901/4766670)
 找到可行的方法：
 
 和 ``` man sudo``` 有些冲突：
