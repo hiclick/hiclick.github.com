@@ -359,7 +359,7 @@ body {
 
 /*Github*/
 
-.kbd {
+kbd {
     /*font-family: sans-serif;*/
     font-weight: bold;
     display: inline-block;

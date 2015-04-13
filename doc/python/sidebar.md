@@ -24,6 +24,7 @@
 
 ### Module
 1. [os](#docs/os)
+1. [re](#docs/re)
 1. [urllib2](#docs/urllib2)
 
 ### Tool

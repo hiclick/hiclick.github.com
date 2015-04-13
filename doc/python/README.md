@@ -1,6 +1,12 @@
 # Python
 
 
+内置工具：
+
+```bash
+python -m SimpleHTTPServer 8000
+```
+
 **浣溪沙·当时只道是寻常**
 
 谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。

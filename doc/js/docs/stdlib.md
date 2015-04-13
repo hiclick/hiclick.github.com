@@ -70,6 +70,16 @@ var d = a.concat(b, c);
 
 ## RegExp 对象
 
+### 正则手记：
+
+```java
+[\x{4e00}-\x{9fa5}] // 匹配中文
+```
+
+参考：
+
+* [Search repeated Chinese chracters in a plain text with RegExp](http://stackoverflow.com/q/15106625/4766670)
+
 ## JSON 对象
 
 ## ArrayBuffer：类型化数组
