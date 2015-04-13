@@ -1,6 +1,8 @@
 # Software
 
 
+Pragmatic Programming Ruby 1.9 and 2.0 4th Edition Jun.2013
+
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德

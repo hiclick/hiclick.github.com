@@ -412,3 +412,7 @@ table.dataintable td {
     display: inline-block;
     padding: 0 5px 0 5px;
 }
+
+p code {
+    background-color: #eee;
+}

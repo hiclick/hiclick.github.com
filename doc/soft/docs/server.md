@@ -86,6 +86,48 @@ http://as.chenzixin.com/
 
 猜测还是文件权限的问题，但一时没有思路。
 
+拷贝 Wrox Professional Java for Web Applications 至以下文件夹，
+
+/Library/WebServer/Documents/java/jfw，提示无权访问，修改权限：
+
+
+```bash
+sudo chmod -R 644 jfw
+```
+故障依旧；
+
+```bash
+sudo chmod -R 755 jfw
+```
+问题解决：
+
+<table class="dataintable"><tbody>
+<tr>
+<th>Name	</th>
+<th>Read	</th>
+<th>Write	</th>
+<th>Execute</th>
+</tr>
+<tr>
+<td>Owner	</td>
+<td>√		</td>
+<td>√		</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Group	</td>
+<td>√		</td>
+<td>×		</td>
+<td>√</td>
+</tr>
+<tr>
+<td>Others	</td>
+<td>√		</td>
+<td>×		</td>
+<td>√</td>
+</tr>
+</tbody></table>
+
 ## nginx
 
 http://nginx.org/en/docs/

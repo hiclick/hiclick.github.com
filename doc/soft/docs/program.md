@@ -4,7 +4,13 @@
 
 ### Sublime Text
 
+### Vim
+
 ### EmEditor
+
+### EditPlus
+
+### UltraEdit
 
 ### Notepad++
 
