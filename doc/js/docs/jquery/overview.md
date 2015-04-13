@@ -6,6 +6,8 @@ jQuery simplifies HTML document traversing, event handling, animating, and Ajax 
 
 ## 动态加载
 
+目的：利用 jQuery 操作 DOM。
+
 ```javascript
 (function(doc){
     var js = doc.createElement("script");
@@ -32,5 +34,23 @@ jQuery simplifies HTML document traversing, event handling, animating, and Ajax 
 
 [YUI Compressor](http://yui.github.io/yuicompressor/)
 
-## 二级标题
+改进：
 
+```javascript
+// 压缩版:
+(function(a){var b=a.createElement("script");b.src="http://www1.pconline.com.cn/api/libs/jquery/jquery-1.7.2.min.js";var c=a.getElementsByTagName('head')[0];c.appendChild(b)})(document);
+// 原始版:
+(function(doc){
+    var js = doc.createElement("script");
+    js.src = "http://www1.pconline.com.cn/api/libs/jquery/jquery-1.7.2.min.js";
+    var head = doc.getElementsByTagName('head')[0];
+    head.appendChild(js);
+})(document);
+```
+
+发现 Chrome 控制台内置了 $ 方法：
+
+```javascript
+> $
+> function $(selector, [startNode]) { [Command Line API] }
+```
