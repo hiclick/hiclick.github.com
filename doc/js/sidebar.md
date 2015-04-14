@@ -34,7 +34,7 @@
 
 
 
-### Node.js
+### Node
 1. [Overview](#docs/node/overview)
 
 ### ExtJS

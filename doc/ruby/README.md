@@ -1,7 +1,5 @@
 # Ruby
 
-Pragmatic Programming Ruby 1.9 and 2.0 4th Edition Jun.2013
-
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德
@@ -10,10 +8,42 @@ Pragmatic Programming Ruby 1.9 and 2.0 4th Edition Jun.2013
 
 被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
 
+**Ruby**
 
-纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。
+Ruby is...
 
--- 王国维
+A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that
+is natural to read and easy to write.
+
+```ruby
+# Ruby knows what you
+# mean, even if you
+# want to do math on
+# an entire Array
+cities = %w[ London
+              Oslo
+              Paris
+              Amsterdam
+              Berlin ]
+
+visited = %w[Berlin Oslo]
+
+puts 'I still need ' +
+         'to visit the ' +
+         'following cities:',
+     cities - visited
+```
+
+**Development Kit**
+
+The [DevKit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit) is a toolkit that makes it easy to build and use native C/C++ extensions such as RDiscount and RedCloth for
+Ruby on Windows.
+
+Simply download, double-click, choose an installation directory, run the Ruby install helper script, possibly tweak
+a ```config.yml``` file for your system specifics, and you’re ready to start using native Ruby extensions.
+
+Download it, run it to extract it somewhere (**PERMANENT**). Then cd to it, run ```ruby dk.rb init``` and ```ruby dk.rb install``` to
+bind it to ruby installations in your path.
 
 ### 版权许可
 

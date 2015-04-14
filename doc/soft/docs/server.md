@@ -357,6 +357,50 @@ start参数会以守护模式启动Resin，不合适开发调试，但是做为�
 
 ## Tomcat
 
+http://tomcat.apache.org/
+
+http://tomcat.apache.org/tomcat-7.0-doc/index.html
+
+Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies. The
+Java Servlet and JavaServer Pages specifications are developed under the Java Community Process.
+
+**程序启动**
+
+```bash
+chmod 777 startup.sh
+chmod 777 catalina.sh
+chmod 777 shutdown.sh
+
+./startup.sh
+```
+
+**虚拟目录**
+
+以Tomcat7 为例：
+
+```markup
+<!--mate /conf/Catalina/localhost/demo.xml-->
+<Context path="/demo" docBase="/Users/Christen/Documents/app/java/resin/web" debug="5" reloadable="true" crossContext="true" />
+```
 ## Jetty
 
+http://www.eclipse.org/jetty/
+
+Jetty provides an HTTP server, HTTP client, and javax.servlet container. These components are open source and available
+for commercial use and distribution.
+
+Jetty is used in a wide variety of projects and products. Jetty can be embedded in devices, tools, frameworks,
+application servers, and clusters. See the Jetty Powered page for more uses of Jetty.
+
+The core Jetty project is hosted by the Eclipse Foundation. The codehaus provides Jetty accessories , integrations,
+and extensions, as well as hosting older versions of Jetty. See the About page for information about the project structure.
+
 ## Glassfish
+
+如果使用 NetBeans ，可考虑：
+
+* Free community-supported application server
+* Full Java EE 6 platform support
+* The best open source application server in the industry today
+* Next-generation modular and extensible architecture (OSGi)
+* Enterprise reliability and performance with full clustering

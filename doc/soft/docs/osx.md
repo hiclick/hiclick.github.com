@@ -4,7 +4,16 @@
 
 ## System
 
-### 常用Shell
+### Homebrew
+
+The missing package manager for OS X.
+
+```bash
+brew --help
+brew install nginx
+```
+
+### Shell
 
 http://vbird.dic.ksu.edu.tw/
 
@@ -12,7 +21,7 @@ http://vbird.dic.ksu.edu.tw/
 alias lm = 'ls -al' # 命令別名設定
 ```
 
-### 用户组维护
+### Group
 
 ```bash
 sudo dscl . -list /groups GroupMembership

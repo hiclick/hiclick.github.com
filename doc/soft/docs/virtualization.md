@@ -1,9 +1,14 @@
 # Soft - Virtualization
 
-虚拟化技术可使当前的服务器运行多个操作系统和应用，让您的数据中心变得更加高效。工作负载能够更快部署，性能和可用性可得到提升，操作可自动进行，这些都有助于简化 IT 的管理，并降低其拥有和运维成本。
+In computing, virtualization refers to the act of creating a virtual (rather than actual) version of something,
+including (but not limited to) a virtual computer hardware platform, operating system (OS), storage device, or
+computer network resources.
 
-## 二级标题一
+Virtualization began in the 1960s, as a method of logically dividing the system resources provided by mainframe
+computers between different applications. Since then, the meaning of the term has broadened.
 
-## 二级标题二
-
-## 二级标题三
+* Proxmox
+* VirtualBox
+* VMware
+* VMware Fusion
+* vSphere

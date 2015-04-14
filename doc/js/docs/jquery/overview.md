@@ -48,6 +48,16 @@ jQuery simplifies HTML document traversing, event handling, animating, and Ajax 
 })(document);
 ```
 
+增强：
+
+```javascript
+(function (i, s, t, o, g) {
+    var a = s.createElement(o), m = s.getElementsByTagName(t)[0];
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+})(window, document, 'span', 'script', 'http://www1.pconline.com.cn/api/libs/jquery/jquery-1.7.2.min.js');
+```
+
 发现 Chrome 控制台内置了 $ 方法：
 
 ```javascript

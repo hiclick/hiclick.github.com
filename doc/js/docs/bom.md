@@ -1,9 +1,65 @@
 # JavaScript - BOM
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+* 浏览器的JavaScript引擎
+* 定时器
+* window对象
+* History对象
+* Ajax
+* window.postMessage方法
+* Web Storage：浏览器端数据储存机制
+* IndexedDB：浏览器端数据库
+* Web Notification API
+* Performance API
+* 移动设备API
 
-## 二级标题一
+## 定时器
 
-## 二级标题二
+**setTimeout**
 
-## 二级标题三
+Syntax:
+
+```javascript
+var timerId = setTimeout(func|code, delay)
+```
+
+Sample:
+
+```javascript
+function f(){
+  console.log(2);
+}
+
+setTimeout(f,1000);
+```
+
+```javascript
+setTimeout(function() {
+  myFunc("one", "two", "three");
+}, 1000);
+```
+
+**setInterval**
+
+Sample:
+
+```javascript
+<input type="button" onclick="clearInterval(timer)" value="stop">
+
+<script>
+  var i = 1;
+  var timer = setInterval(function() {
+    console.log(2);
+  }, 1000);
+</script>
+```
+
+```javascript
+function f(){
+    for (var i=0;i<arguments.length;i++){
+        console.log(arguments[i]);
+    }
+}
+
+setInterval(f, 1000, "Hello World");
+```
+
