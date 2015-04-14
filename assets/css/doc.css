@@ -413,6 +413,20 @@ table.dataintable td {
     padding: 0 5px 0 5px;
 }
 
-p code {
+p code, li code {
     background-color: #eee;
+    padding: 1px 5px 1px 5px;
+}
+
+#content blockquote {
+    border-left: 2px solid #6ce26c;
+    color: #888;
+    font-style: normal;
+    padding: 0 3px 0 5px;
+    display: block;
+    vertical-align: baseline;
+    background: #fbfbfb;
+    margin-left: 0;
+    margin-right: 0;
+
 }

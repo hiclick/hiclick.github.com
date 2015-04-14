@@ -36,6 +36,56 @@ Alias /phpmyadmin "c:/wamp-2.1/apps/phpmyadmin3.3.9/"
 
 ### Mac Apache
 
+**使用手记**
+
+启动/停止命令
+
+```bash
+sudo apachectl start
+sudo apachectl stop
+sudo apachectl restart
+```
+
+配置PHP
+
+```bash
+sudo mate /etc/apache2/httpd.conf
+```
+
+```apacheconf
+#LoadModule php5_module libexec/apache2/libphp5.so
+```
+
+```bash
+sudo cp /etc/php.ini.default /etc/php.ini
+sudo mate /etc/php.ini
+```
+
+通过下面两项来调整PHP提交文件的最大值，如phpMyAdmin中导入数据的最大值：
+
+```ini
+upload_max_filesize = 20M
+post_max_size = 8M
+```
+
+DokuWiki Conf
+
+```apacheconf
+<!--/etc/apache2/other/wiki.conf-->
+<Directory /Library/WebServer/Documents/wiki>
+    order deny,allow
+    allow from all
+</Directory>
+
+<LocationMatch "/wiki/(data|conf|bin|inc)/">
+    order allow,deny
+    deny from all
+    satisfy all
+</LocationMatch>
+```
+
+**配置Jekyll 本地环境**
+
 1.&nbsp;建立软链接
 
 ```bash

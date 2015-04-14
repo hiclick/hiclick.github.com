@@ -1,9 +1,10 @@
 # Emmet
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+Emmet (previously known as Zen Coding) is a web-developer's toolkit that can greatly improve your HTML & CSS workflow.
 
-## 二级标题一
+http://docs.emmet.io/
 
-## 二级标题二
+http://docs.emmet.io/cheat-sheet/
 
-## 二级标题三
+https://github.com/emmetio/emmet
+

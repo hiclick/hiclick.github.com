@@ -1,9 +1,19 @@
 # Soft - Photo
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+## 截屏软件
 
-## 二级标题一
+* Faststone Capture
+* HyperSnap
+* PicPick
+* Skitch
+* Snagit
+* Snip
 
-## 二级标题二
+## 图像浏览
 
-## 二级标题三
+* ACDSee
+* IrfanView
+* Picasa
+* Xee
+* XnView
+* iPhoto
