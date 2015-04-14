@@ -2,7 +2,9 @@
 
 ## Utility
 
-NirCmd
+* NirCmd
+* Total Commander
+* BeyondCompare
 
 ## Compress
 

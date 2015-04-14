@@ -34,6 +34,26 @@ Alias /phpmyadmin "c:/wamp-2.1/apps/phpmyadmin3.3.9/"
 </Directory>
 ```
 
+列目录图标：
+
+httpd.conf
+
+```apacheconf
+# Fancy directory listings
+Include conf/extra/httpd-autoindex.conf
+```
+
+```apacheconf
+Alias /icons/ "c:/wamp-2.1/bin/apache/Apache2.2.17/icons/"
+
+<Directory "c:/wamp-2.1/bin/apache/Apache2.2.17/icons/">
+    Options Indexes MultiViews
+    AllowOverride None
+    Order allow,deny
+    Allow from all
+</Directory>
+```
+
 ### Mac Apache
 
 **使用手记**
@@ -258,7 +278,7 @@ chown -R Christen:admin /Users/Christen/Documents/app/git/hiclick.github.com/
 
 ## Resin
 
-Resin是CAUCHO公司（http://www.caucho.com/）的产品，是一个非常流行的支持 Servlets 和 JSP 的引擎，速度非常快。
+Resin是[CAUCHO公司]（http://www.caucho.com/）的产品，是一个非常流行的支持 Servlets 和 JSP 的引擎，速度非常快。
 
 Resin本身包含了一个支持HTTP/1.1的WEB服务器。虽然它可以显示动态内容，但是它显示静态内容的能力也非常强，速度直逼Apache。
 许多站点都是使用该WEB服务器构建的。
