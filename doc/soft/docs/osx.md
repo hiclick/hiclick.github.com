@@ -9,7 +9,7 @@
 http://vbird.dic.ksu.edu.tw/
 
 ```bash
-alias lm='ls -al' # 命令別名設定
+alias lm = 'ls -al' # 命令別名設定
 ```
 
 ### 用户组维护
