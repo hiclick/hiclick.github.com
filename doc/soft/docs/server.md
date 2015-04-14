@@ -258,6 +258,12 @@ chown -R Christen:admin /Users/Christen/Documents/app/git/hiclick.github.com/
 
 ## Resin
 
+Start in Mac:
+
+```bash
+~/Documents/app/java/bbs6/httpd-bbs6.sh
+```
+
 ## Tomcat
 
 ## Jetty

@@ -334,6 +334,12 @@ https://www.atlassian.com/software/confluence
 
 Confluence is where you create, organize and discuss work with your team.
 
+Start in Mac:
+
+```bash
+cd /opt/confluence-std/bin/ && ./startup.sh
+```
+
 ### Blog
 
 * Wordpress
