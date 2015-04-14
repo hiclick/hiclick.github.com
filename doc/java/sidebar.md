@@ -98,8 +98,14 @@
 1. [Persisting Data with JPA](#docs/jfw-persisting-data-with-jpa)
 1. [Securing Your Application](#docs/jfw-securing-your-application)
 
+### Groovy
+1. [Overview](#docs/groovy/overview)
+
+### Scala
+1. [Overview](#docs/scala/overview)
+
 ### Android
-1. [Overview](#docs/android-overview)
+1. [Overview](#docs/android/overview)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
