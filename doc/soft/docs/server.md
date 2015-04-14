@@ -258,11 +258,102 @@ chown -R Christen:admin /Users/Christen/Documents/app/git/hiclick.github.com/
 
 ## Resin
 
-Start in Mac:
+Resin是CAUCHO公司（http://www.caucho.com/）的产品，是一个非常流行的支持 Servlets 和 JSP 的引擎，速度非常快。
+
+Resin本身包含了一个支持HTTP/1.1的WEB服务器。虽然它可以显示动态内容，但是它显示静态内容的能力也非常强，速度直逼Apache。
+许多站点都是使用该WEB服务器构建的。
+
+1. WatchDog 的端口，默认6600
+2. Server 监控端口，默认6800
+3. HTTP 端口，默认8080
+
+### Mac
+
+Start memcached:
 
 ```bash
-~/Documents/app/java/bbs6/httpd-bbs6.sh
+$ memcached -d -m 10 -u root -l 127.0.0.1 -p 11211 -c 256 -P /tmp/memcached.pid
 ```
+
+Start in Mac:
+
+httpd-bbs6.sh
+
+```bash
+/opt/resin/bin/httpd.sh -conf /Users/Christen/Documents/app/java/bbs6/resin-bbs6.xml
+
+```
+```bash
+$ ~/Documents/app/java/bbs6/httpd-bbs6.sh
+```
+
+resin-bbs6.xml
+
+```markup
+<resin xmlns="http://caucho.com/ns/resin" xmlns:resin="http://caucho.com/ns/resin/core">
+
+    <log name="" level="info" path="stdout:"/>
+
+    <cluster id="">
+        <server id="">
+            <http port="3000"/>
+        </server>
+
+        <resin:import path="${resin.home}/conf/app-default.xml"/>
+
+        <!--><resin:import path="${resin.home}/conf/r-route.conf.xml"/>-->
+
+        <web-app-default>
+            <servlet servlet-name="directory" servlet-class="com.caucho.servlets.DirectoryServlet">
+                <init enable="true"/>
+            </servlet>
+        </web-app-default>
+
+        <host id="" root-directory=".">
+
+            <!-- passport
+            <database jndi-name="jdbc/common2DataSource">
+                <driver type="oracle.jdbc.driver.OracleDriver">
+                    <url>jdbc:oracle:thin:@192.168.74.5:1521:test745</url>
+                    <user>common_app</user>
+                    <password>common_app</password>
+                </driver>
+            </database>  -->
+
+            <!--
+            <database jndi-name="jdbc/game111011DataSource">
+                    <driver type="com.mysql.jdbc.Driver">
+                        <url>jdbc:mysql://localhost/play?characterEncoding=GBK</url>
+                        <user>root</user>
+                        <password>waaigh</password>
+                    </driver>
+            </database>-->
+
+            <database jndi-name="jdbc/bbs6">
+                <driver user="root" password="fj" url="jdbc:mysql://127.0.0.1/bbs6" type="com.mysql.jdbc.Driver"/>
+            </database>
+
+            <web-app id="/docs" root-directory="${resin.root}/webapps/resin-doc"/>
+
+            <!-- pcauto.com.cn -->
+            <web-app id="/bbs" document-directory="/Users/Christen/Documents/app/java/bbs6/web" lazy-init="false"/>
+            <web-app id="/play" document-directory="/Users/Christen/Documents/app/java/play/web" lazy-init="false"/>
+            <!-- pconline.com.cn -->
+            <!-- legacy -->
+            <!-- temp -->
+        </host>
+    </cluster>
+
+</resin>
+```
+
+### Win
+
+```powershell
+e:\webdev\app-server\resin-pro-4.0.28\resin.exe start -conf e:\webdev\workspace\2012\pinkey\my-conf.xml
+```
+
+start参数会以守护模式启动Resin，不合适开发调试，但是做为普通J2EE&HTTP Server，非常不错。
 
 ## Tomcat
 
