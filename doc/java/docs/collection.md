@@ -1,9 +1,8 @@
 # Java - Collection
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+* Apache Commons Collections
+* Guava (formerly "Google Collections")
 
-## 二级标题一
+http://stackoverflow.com/a/1444467/4766670
 
-## 二级标题二
-
-## 二级标题三
+https://github.com/google/guava
