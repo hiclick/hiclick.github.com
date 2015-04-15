@@ -2,6 +2,9 @@
 
 ## 总有你鼓励
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52
+src="http://music.163.com/outchain/player?type=2&id=120887&auto=0&height=32"></iframe>
+
 歌曲名：总有你鼓励
 
 歌手：[李克勤 谭咏麟](http://music.163.com/#/song?id=113051) ∈ [《左麟右李04开心演唱会》](http://music.163.com/#/album?id=11110)
@@ -13,6 +16,9 @@
 作曲：李子恒 吴奇隆
 
 华语：[祝你一路顺风](http://music.163.com/#/song?id=156956)（主唱：吴奇隆）∈ [《追风少年》](http://music.163.com/#/album?id=15796)
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52
+src="http://music.163.com/outchain/player?type=2&id=156956&auto=0&height=32"></iframe>
 
 ```java
 也许一生到底

@@ -428,5 +428,10 @@ p code, li code {
     background: #fbfbfb;
     margin-left: 0;
     margin-right: 0;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
 
+#content iframe {
+    margin-left: -10px;
 }

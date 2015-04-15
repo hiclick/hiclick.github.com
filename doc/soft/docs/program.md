@@ -297,9 +297,196 @@ PyCharm由JetBrains打造，VS2010的重构插件Resharper就是出自JetBrains�
 
 ## Version Control
 
-* CVS
-* SVN
-* Git
+### CVS
+
+CVS(Concurrent Versions System) is a version control system, an important component of Source Configuration Management (SCM). Using it, you can record the history of sources files, and documents. It fills a similar role to the free software RCS, PRCS, and Aegis packages.
+
+CVS is a production quality system in wide use around the world, including many free software projects.
+
+Significant advantages over RCS: [here](http://www.nongnu.org/cvs/).
+
+Updated: $Date: 2006/12/03 18:54:47
+
+一个古老的版本控制系统，但我最初学习编程的时候，用的正是这个。
+
+早期很多开源或者自由软件项目都使用CVS作为其程序员之间的中心点，以便能够综合各程序员的改进和更改。这些项目包括：Gnome、KDE、GIMP、Wine等。
+CVS的使用获GNU通用公共许可证授权。
+
+<blockquote>
+In the world of open source software, the Concurrent Version System (CVS) has long been the tool of choice for version
+control. And rightly so. CVS itself is free software, and its non-restrictive modus operandi and support for networked
+operation – which allow dozens of geographically dispersed programmers to share their work – fits the collaborative nature
+of the open-source world very well. CVS and its semi-chaotic development model have become cornerstones of open-source.
+</blockquote>
+
+— Collins-Sussman, Version Control with Subversion For Subversion 1.1, 2005
+
+* CVS不支持文件的复制和重命名
+* 没有原子性提交（Atomic commit）
+* CVS只支持文字文件
+
+现已被Git和Subversion取代。
+
+### Git
+
+* [如何高效利用 GitHub](http://www.oschina.net/news/38185/use-github-effective)
+* [Git 简易指南简体中文](http://rogerdudler.github.com/git-guide/index.zh.html)
+* [Pro Git Book 中文版](https://github.com/progit/progit/tree/master/zh)
+* [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
+
+if you Got:
+
+```bash
+git push origin master
+Permission denied (publickey).
+fatal: The remote end hung up unexpectedly
+```
+
+[Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys) may help.
+
+Command
+
+```bash
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:chenzixin/PyKite.git
+git push -u origin master
+```
+
+GitHub
+
+GitHub是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom Preston-Werner 三位开发者在 2008 年 4 月创办。迄今拥有 59 名全职
+员工，主要提供基于 git 的版本托管服务。
+
+在此之前，它是由 Tom 与 Chris 在本地程序员聚会中，开始的一个用于托管 git 的项目。正如每个伟大的传奇都开始于一场冒险，Tom 在这篇文章我
+如何辞掉微软 30 万年薪邀约，创办 GitHub 中谈到：
+
+<blockquote>
+当我老去，回顾一生，我想说，"哇，那是一场冒险"；而不是，"哇，我真的很安稳。"
+</blockquote>
+
+另一位创始人 Chris 也详细描述了 GitHub 初创的前因后果，他说道：
+
+<blockquote>
+Do whatever you want.
+</blockquote>
+
+于是，在 2008 年 4 月 10 号这一天，GitHub 正式成立。
+
+今天，GitHub 已是：
+
+一个拥有 143 万开发者的社区。其中不乏 Linux 发明者 [Torvalds](https://github.com/torvalds) 这样的顶级黑客，以及 Rails 创始人 [DHH](https://github.com/dhh) 这样的年轻极客。
+
+这个星球上最流行的开源托管服务。目前已托管 431 万 git 项目，不仅越来越多知名开源项目迁入 GitHub，比如 Ruby on Rails、jQuery、Ruby、
+Erlang/OTP；近三年流行的开源库往往在 GitHub 首发，例如：[BootStrap](https://github.com/twitter/bootstrap)、[Node.js](https://github.com/joyent/node)、[CoffeScript](https://github.com/jashkenas/coffee-script) 等。
+
+Alexa 全球排名 414 的网站。
+
+完败 Google Code。
+
+[GitHub Pages: Websites for you and your projects](https://pages.github.com/)
+
+### Subversion
+
+Subversion is an open source version control system. Founded in 2000 by CollabNet, Inc., the Subversion project and
+software have seen incredible success over the past decade. Subversion has enjoyed and continues to enjoy widespread
+adoption in both the open source arena and the corporate world.
+
+**Guide**
+
+1. svn repo-browser
+2. create folder
+3. check out to local
+4. cut.svn to the project home
+5. svn update
+6. svn add
+7. ignore work classes etc.
+8. commit all
+
+For HR: http://www.chenzixin.com/static/tutorial/svn/
+
+**Sample**
+
+```bash
+# svn checkout PATH (path是服务器上的目录)
+svn co https://svn.sinaapp.com/olservice
+
+# svn add FILE
+svn add test.php
+svn add \*.php
+
+# svn commit -m "LogMessage" [-N] [--no-unlock] PATH (如果选择了保持锁，就使用 --no-unlock 开关)
+svn ci -m "add test file for my test" test.php
+
+# svn lock -m "LockMessage" [--force] PATH
+svn lock -m "lock test file" test.php
+svn unlock PATH
+
+# svn update -r m PATH
+svn update -r 200 test.php
+svn update test.php
+svn up
+
+# svn delete PATH -m "delete test fle" (简写：svn del/remove/rm)
+svn delete test.txt
+
+svn log PATH
+svn info PATH
+svn diff PATH (简写：svn di)
+svn diff -r m:n PATH (对版本m和版本n比较差异)
+svn help
+svn help ci
+```
+
+**删除 Subversion 文件**
+
+```powershell
+rem Deprecated
+for /r . %%a in (.) do @if exist "%%a\.svn" rd /s /q "%%a\.svn"
+```
+
+### Mercurial
+
+Powered by Atlassian.
+
+http://mercurial.selenic.com/
+
+Mercurial 是一种轻量级分布式版本控制系统，采用 Python 语言实现，易于学习和使用，扩展性强。相对于传统的版本控制，具有如下优点：
+
+**更轻松的管理**
+
+传统的版本控制系统使用集中式的 repository，一些和 repository相关的管理就只能由管理员一个人进行。由于采用了分布式的模型，Mercurial 中就没有这样的困扰，每个用户管理自己的 repository，管理员只需协调同步这些repository。
+
+**更健壮的系统**
+
+分布式系统比集中式的单服务器系统更健壮，单服务器系统一旦服务器出现问题整个系统就不能运行了，分布式系统通常不会因为一两个节点而受到影响。
+
+**对网络的依赖性更低**
+
+由于同步可以放在任意时刻进行，Mercurial 甚至可以离线进行管理，只需在有网络连接时同步。
+
+Clone a project and push changes
+
+```bash
+$ hg clone http://selenic.com/repo/hello
+$ cd hello
+$ (edit files)
+$ hg add (new files)
+$ hg commit -m 'My changes'
+$ hg push
+```
+
+Create a project and commit
+
+```bash
+$ hg init (project-directory)
+$ cd (project-directory)
+$ (add some files)
+$ hg add
+$ hg commit -m 'Initial commit'
+```
 
 ## Test
 
