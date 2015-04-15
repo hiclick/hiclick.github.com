@@ -17,8 +17,47 @@ brew install nginx
 
 http://vbird.dic.ksu.edu.tw/
 
+如果不清楚某个命令的参数意义，可用 ```man COMMAND``` 查看帮助。
+
 ```bash
-alias lm = 'ls -al' # 命令別名設定
+cat ~/.bash_profile
+# 等号两端不能有空格
+export PATH=${PATH}:/opt/scala/scala-2.9.2/bin
+export PATH=${PATH}:/opt/groovy/bin
+export PATH=${PATH}:/System/Library/Frameworks/Python.framework/Versions/2.7/bin
+source ~/.bash_profile
+```
+
+```bash
+alias lm='ls -al' # 命令別名設定 等号两端不能有空格
+alias la='ls -a'
+alias df='df -h'
+alias rm='rm -i'
+alias ..='cd ..'
+```
+
+```bash
+sudo cp /etc/hosts /etc/hosts.bak
+sudo wget https://smarthosts.googlecode.com/svn/trunk/hosts -O /etc/hosts.conf
+```
+
+```bash
+rm -rf groovy-2.0.6
+```
+
+```bash
+#IP
+ifconfig
+#Gateway
+netstat -rn
+#DNS
+cat /etc/resolv.conf
+#Proxy
+export HTTP_PROXY="127.0.0.1:8087"
+```
+
+```bash
+ln -s -f /usr/local/git/bin/git /usr/bin/git
 ```
 
 ### Group

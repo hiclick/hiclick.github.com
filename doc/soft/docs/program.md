@@ -447,6 +447,24 @@ rem Deprecated
 for /r . %%a in (.) do @if exist "%%a\.svn" rd /s /q "%%a\.svn"
 ```
 
+```java
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteSVN]
+@="删除SVN配置文件"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DeleteSVN\command]
+@="cmd.exe /c \"TITLE Removing SVN Folders in %1 && COLOR 9A && FOR /r \"%1\" %%f IN (.svn) DO RD /s /q \"%%f\" \""
+```
+
+作者：Jon Galloway
+
+```bash
+find . -type d -name ".svn"|xargs rm -rf
+```
+
+
+
 ### Mercurial
 
 Powered by Atlassian.
