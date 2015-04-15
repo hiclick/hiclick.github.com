@@ -4,7 +4,7 @@ Scala 势头很好，风光远盛 Groovy。
 
 http://www.scala-lang.org/download/
 
-## 2.8.2
+## Scala 2.8.2
 
 scala-2.8.2.final-devel-docs.tar
 
@@ -12,13 +12,17 @@ scala-2.8.2.final-sources.tar
 
 scala-2.8.2.final.tar
 
-## 2.9.2
+## Scala 2.9.2
 
 scala-sources-2.9.2.tar
 
 scala-2.9.2.tar
 
-## 2.11.6
+旧版的完整资源包，官网已经关闭直接下载，档案存在：
+
+百度云 <i class="fa fa-cloud"></i> ```soft``` 账号：```软件 > Mac > Program > scala```。
+
+## Scala 2.11.6
 
 scala-2.11.6.tgz
 
@@ -72,5 +76,49 @@ name.find        name.join        name.rsplit      name.zfill
 name.format      name.ljust       name.rstrip
 name.index       name.lower       name.split
 In [2]: name.
+```
+
+```scala
+object Hello extends App {
+
+  val name = "Christen"
+
+  println(name.toUpperCase)
+  println(name.toLowerCase)
+}
+```
+
+```scala
+object Hello {
+
+  val name = "Christen"
+
+  def main(args: Array[String]) {
+    println(name.toUpperCase)
+    println(name.toLowerCase)
+
+  }
+}
+```
+
+## Play
+
+Play 2.3.8
+
+including Activator 1.3.2
+
+1MB - Windows, Mac and Linux - JDK6+
+
+Offline Distribution (408M)
+
+```java
+$  play  play
+       _            _
+ _ __ | | __ _ _  _| |
+| '_ \| |/ _' | || |_|
+|  __/|_|\____|\__ (_)
+|_|            |__/
+
+play! 2.0.4, http://www.playframework.org
 ```
 

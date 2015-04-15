@@ -1,5 +1,12 @@
 # CSS
 
+Font Awesome
+
+```markup
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+<i class="fa fa-cloud"></i>
+```
+
 层叠样式表，一种用来为结构化文档（如HTML文档或XML应用）添加样式（字体、间距和颜色等）的计算机语言，由W3C定义和维护。
 
 目前最新版本是CSS2.1，为W3C的推荐标准。CSS3现在已被大部分现代浏览器支持，而下一版的CSS4仍在开发过程中。

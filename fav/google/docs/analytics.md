@@ -49,5 +49,7 @@ Kiehl's Hack
 </script>
 ```
 
-为何是```//www.google-analytics.com/analytics.js'''，没有 ```http:```？
+Q：为何是 ```//www.google-analytics.com/analytics.js```，没有 ```http:```？
+
+A：如果指定 ```http```，在 ```https``` 应用中，无法加载 GA。Google speed libraries 中的大部分框架，都有 ```https``` 版本。
 
