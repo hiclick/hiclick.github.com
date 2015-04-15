@@ -1,5 +1,18 @@
 # Soft - Program
 
+## Cache
+
+### Memcached
+
+Start memcached in Mac:
+
+```bash
+$ memcached -d -m 10 -u root -l 127.0.0.1 -p 11211 -c 256 -P /tmp/memcached.pid
+```
+
+
+### Redis
+
 ## HTML Editor
 
 * CKeditor
@@ -339,6 +352,55 @@ Start in Mac:
 ```bash
 cd /opt/confluence-std/bin/ && ./startup.sh
 ```
+
+启动 Confluence 出错：
+
+```bash
+$ cd /opt/confluence-std/bin/ && ./startup.sh
+If you encounter issues starting up Confluence Standalone, please see the Installation guide at http://confluence.atlassian.com/display/DOC/Confluence+Installation+Guide
+Using CATALINA_BASE:   /opt/confluence-std
+Using CATALINA_HOME:   /opt/confluence-std
+Using CATALINA_TMPDIR: /opt/confluence-std/temp
+Using JRE_HOME:        /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
+Using CLASSPATH:       /opt/confluence-std/bin/bootstrap.jar
+```
+提示信息不明，但无法访问应用。
+
+```bash
+$ java -version
+java -version
+java version "1.7.0_17"
+Java(TM) SE Runtime Environment (build 1.7.0_17-b02)
+Java HotSpot(TM) 64-Bit Server VM (build 23.7-b01, mixed mode)
+$ cd /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home/bin
+java version "1.6.0_65"
+Java(TM) SE Runtime Environment (build 1.6.0_65-b14-462-11M4609)
+Java HotSpot(TM) 64-Bit Server VM (build 20.65-b04-462, mixed mode)
+```
+
+```bash
+$ ./catalina.sh version
+Server version: Apache Tomcat/6.0.32
+```
+
+catalina 参数：
+
+```bash
+run => Start Catalina in the current window
+start => Start Catalina in a separate window
+stop => Stop Catalina, waiting up to 5 seconds for the process to end
+```
+
+用 run 参数启动，发现问题：
+
+```bash
+StandardServer.await: create[8000]:
+    java.net.BindException: Address already in use
+```
+
+原来 [Tomcat](http://tomcat.apache.org/tomcat-6.0-doc/index.html) 启动会占用两个端口：8000 8080
+
+修正端口冲突，问题解决。
 
 ### Blog
 

@@ -289,12 +289,6 @@ Resin本身包含了一个支持HTTP/1.1的WEB服务器。虽然它可以显示�
 
 ### Mac
 
-Start memcached:
-
-```bash
-$ memcached -d -m 10 -u root -l 127.0.0.1 -p 11211 -c 256 -P /tmp/memcached.pid
-```
-
 Start in Mac:
 
 httpd-bbs6.sh

@@ -1,9 +1,29 @@
 # Flash - Loading Assets
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+## Loading SWFs and Images
 
-## 二级标题一
+## Loading Data
 
-## 二级标题二
+AS3.0 提交数据
 
-## 二级标题三
+```actionscript
+var url:String = "http://localhost/test.php";   //执行操作数据库的php文件
+var requestData:URLRequest = new URLRequest(url);   //新建URLRequest对象，用来获取flash中textArea的数据
+var loader:URLLoader = new URLLoader();   //建立URLLoader对象，用来发送flash中textArea的数据
+sub_btn.addEventListener(MouseEvent.CLICK,addData); //为button附事件对象，点击按钮执行addData函数
+
+function addData(e:Event){
+       requestData.data = String;   //.data 为URLRequest一个属性分三种大家可以查手册查到
+       requestData.method = URLRequestMethod.POST;   //.method 也为 URLLoader的一个属性值
+       var urlvariables:URLVariables = new URLVariables(); //建立URLVariables对象，
+       urlvariables.name = uname.text; //通过cc参数传递 txtcontent里的数据
+       trace(urlvariables.name)
+       requestData.data = urlvariables;//讲urlvariables的数据赋值给.data
+       loader.load(requestData); //开始发送数据
+}
+```
+
+## Communicating with Loaded SWFs
+
+## Additional Online Resources
+

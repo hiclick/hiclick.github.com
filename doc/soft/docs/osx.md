@@ -45,7 +45,8 @@ when desired, afterward  returning  control to the script.
 ```bash
 #!/usr/bin/expect -f
 set password "fj"
-set timeout 10 # default
+# default 10
+set timeout 1
 
 spawn sudo nginx
 expect "Please enter your password:"
@@ -60,6 +61,39 @@ Tips: Put ```interact``` at the end of the script, which returns control to the 
 
 * [Linux Expect SSH hangs](http://stackoverflow.com/a/19277901/4766670)
 * [send: spawn id exp7 not open](http://stackoverflow.com/a/18812736/4766670)
+
+2015年4月15日，启动成功，不过第一次也出错了：
+
+```bash
+$  bash  ./nginx.sh
+wrong # args: should be "set varName ?newValue?"
+    while executing
+"set timeout 10 # default"
+    (file "./nginx.sh" line 3)
+```
+
+这一行本是这么写的：```set timeout 10 # default```，搜索了下：
+
+<blockquote>
+Tcl中的注释符是 '#'，'#' 和直到所在行结尾的所有字符都被Tcl看作注释，Tcl解释器对注释将不作任何处理。不过，要注意的是，'#' 必须出现
+在Tcl解释器期望命令的第一个字符出现的地方，才被当作注释。
+如果 '#' 出现在命令的中间，Tcl解释器把它和后面的字符当作命令的参数处理，从而导致错误。
+</blockquote>
+
+问题解决。
+
+Tcl是一种很通用的脚本语言，它几乎在所有的平台上都可以解释运行，功能强大。是Tool command language的缩写，发音为 "tickle”。
+
+```python
+#这个是注释
+set foo 0; #这个也是注释
+set foo 0 #这个不是注释
+```
+
+<blockquote>
+Expectk is a mixture of Expect and Tk.  It behaves just like Expect and Tk's wish.  Expect can also be used directly in
+C  or  C++  (that  is,without Tcl).
+</blockquote>
 
 #### sudo -S
 
@@ -91,6 +125,7 @@ chmod -R 755 bootstrap-3.2.0/
 644的权限就是：rw-r–r–。第一位6等于4+2+0，所以就是rw-，所有者有读取、写入的权限；第二位4也是4+0+0，r–，同组用户具有读取的权限；第三位
 4，代表公共用户有读取的权限。
 
-## User Interface
+## Application
 
-### Font
+### Forklift
+

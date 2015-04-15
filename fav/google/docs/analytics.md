@@ -25,7 +25,6 @@ The parameters in brackets can be customised:
 Kiehl's Hack
 
 ```markup
-
 <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -49,3 +48,6 @@ Kiehl's Hack
     }
 </script>
 ```
+
+为何是```//www.google-analytics.com/analytics.js'''，没有 ```http:```？
+
