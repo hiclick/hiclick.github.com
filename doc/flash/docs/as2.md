@@ -1,8 +1,8 @@
 # Flash - ActionScript 2.0
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+## 秒针流量监测
 
-## 二级标题一
+### 动态版
 
 ```actionscript
 this._lockroot=true;
@@ -34,6 +34,13 @@ if (! mz_f) {
 }
 ```
 
-## 二级标题二
+### 静态版
 
-## 二级标题三
+```actionscript
+if (firstFlag == undefined) {
+    var firstFlag = true;
+    var impURL = "http://g.cn.miaozhen.com/x.gif?k=2001941&p=6rKCa&rt=2&ns=[M_ADIP]&ni=[M_IESID]&v=[M_LOC]&o=";
+    this.createEmptyMovieClip("dumy",this.getNextHighestDepth());
+    dumy.loadMovie(impURL);
+}
+```
