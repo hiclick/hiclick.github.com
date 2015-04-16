@@ -32,3 +32,4 @@
 ## 鸣谢
 - [Frank](http://www.ruanyifeng.com/home.html)
 - [Prism](http://christen.cn/doc/prism.html)
+- [Sinppets](http://christen.cn/doc/syntax.html)
