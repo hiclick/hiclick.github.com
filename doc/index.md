@@ -14,14 +14,14 @@ tagline: Keep Thinking, Keep Writing
 * [PHP](php/)
 * [Python](python/)
 * [Ruby](ruby/)
-* [Advertising Optimization](ado/)
 * [Hardware](hard/)
 * [Software](soft/)
 * [Note Template](note/)
+* [AD Optimization](ado/)
 
 ***
 
 阮一峰：[ECMAScript 6 Primer](ecma/)
 
-试验室：[Syntax](ecma/syntax.html) [Html2MarkDown](h2d.html)
+试验室：[Syntax](note/syntax.html) [Html2MarkDown](h2d.html)
 
