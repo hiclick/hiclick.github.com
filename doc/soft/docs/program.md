@@ -524,6 +524,8 @@ $ hg commit -m 'Initial commit'
 * GeSHi
 * Google Code Prettify
 * SyntaxHighlighter
+* [Pygments](http://pygments.org/languages/)
+* [Prism](http://prismjs.com/)
 
 ## Knowledge Management
 

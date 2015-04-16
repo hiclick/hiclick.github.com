@@ -4,6 +4,7 @@ Font Awesome
 
 ```markup
 <i class="fa fa-cloud"></i>
+<sup><i class="fa fa-external-link fa-fw"></i></sup>
 ```
 
 层叠样式表，一种用来为结构化文档（如HTML文档或XML应用）添加样式（字体、间距和颜色等）的计算机语言，由W3C定义和维护。
