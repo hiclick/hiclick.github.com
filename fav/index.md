@@ -17,5 +17,3 @@ tagline: About me
 
 ***
 
-试验室：[Syntax](ecma/syntax.html)
-

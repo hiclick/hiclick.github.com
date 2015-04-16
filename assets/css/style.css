@@ -272,3 +272,16 @@ http://www.neoease.com/a-tag-css-design/
     text-decoration: none;
 }
 
+#portfolio a {
+    color: #4a4a4a;
+    text-decoration: none;
+}
+
+#portfolio a:visited {
+    color: #4a4a4a;
+}
+
+#portfolio a:hover {
+    color: #4a4a4a;
+    text-decoration: none;
+}
