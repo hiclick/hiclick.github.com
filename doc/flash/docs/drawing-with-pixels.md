@@ -7,6 +7,38 @@
 
 NascomASLib Contributors.
 
+An open source AS3 library that provides a couple of interesting graphic effects such as pixelate and rippler.
+
+[Creation of realistic Flash water ripples with AS3](http://www.emanueleferonato.com/2011/01/19/creation-of-realistic-flash-water-ripples-with-as3/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
+[Water ripples revisited (AS3-only version)](http://www.derschmale.com/2008/08/03/water-ripples-revisited-as3-only-version/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
+Another NascomASLib Tool: UploadPostHelper
+
+Sample <i class="fa fa-pencil"></i>:
+
+将图片与图片名等不同类型数据传到服务器
+
+```actionscript
+import be.nascom.flash.net.upload.UploadPostHelper;
+
+var request:URLRequest = new URLRequest(UPLOAD_PAGE);
+request.contentType = "multipart/form-data; boundary=" + UploadPostHelper.getBoundary();
+request.method = URLRequestMethod.POST;
+var variables:URLVariables = new URLVariables();
+variables.uid = 1;
+variables.filename = fnTxt.text;
+variables.wish = alarm_mc.alarm.wishTxt.text;
+request.data = UploadPostHelper.getPostData(fnTxt.text, bytes, "pic", variables);
+var loader:URLLoader = new URLLoader();
+loader.dataFormat = URLLoaderDataFormat.BINARY;
+loader.addEventListener(Event.COMPLETE, uploadCompleteHandler);
+loader.addEventListener(IOErrorEvent.IO_ERROR, uploadErrorHandler);
+loader.load(request);
+```
+
+这是我起意研究 Flex + SWC 的开始，便至今未找到 NascomASLib 的文档 <i class="fa fa-calendar"></i>。
+
 Rippler Sample:
 
 ```actionscript

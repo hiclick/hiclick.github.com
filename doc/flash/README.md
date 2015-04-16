@@ -1,5 +1,14 @@
 # Flash
 
+Flash CS6 不支持 Retina Flash CC 又弃用了这些[功能](https://helpx.adobe.com/cn/flash/using/writing-scripts.html)：<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
+* （Flash Professional CC 中已弃用）检查语法和标点
+* （Flash Professional CC 中已弃用）导入和导出脚本
+* （Flash Professional CC 中已弃用）导入和导出脚本的编码
+* （Flash Professional CC 中已弃用）在动作面板中固定脚本
+
+
+
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德

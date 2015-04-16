@@ -1,5 +1,13 @@
 # Flash - Libs
 
+## TweenLite
+
+http://greensock.com/
+
+https://github.com/greensock/GreenSock-AS3/
+
+https://github.com/dborisenko/twitter-actionscript-api/
+
 ## as3corelib
 
 The corelib project is an ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript 3. These include classes for MD5 and SHA 1 hashing, Image encoders, and JSON serialization as well as general String, Number and Date APIs.
@@ -12,7 +20,7 @@ https://github.com/mikechambers/as3corelib <sup><i class="fa fa-external-link fa
 
 最新版本的下载，已不再包含 swc，只能将 Source 文件拷至项目中。
 
-Google Code 上还能下载到 ```as3corelib-.93.zip Deprecated	May 2010```，包含 swc 和 doc，甚好。
+[Google Code](https://code.google.com/p/as3corelib/) 上还能下载到 ```as3corelib-.93.zip Deprecated	May 2010```，包含 swc 和 doc，甚好。
 
 可在这里查看文档：
 
