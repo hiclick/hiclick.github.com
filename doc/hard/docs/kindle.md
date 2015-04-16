@@ -8,7 +8,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 ```
 
-## Kindle Fire
+## Kindle Fire HDX
 
 商店的[威动视频播放器](http://cn.vidon.me/vidon_player.htm)，有两个版本：
 
@@ -17,7 +17,7 @@
 
 结合官网和亚马逊商店，可以推测：
 
-HD 为 Pad 适配版，非 HD 为 Phone 适配版，实测，Phone 版体验更好，盖因后发布？
+HD 为 Pad 适配版，非 HD 为 Phone 适配版，实测，Phone 版体验更好，因为后发？
 
 微博亦然。
 

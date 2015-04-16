@@ -22,6 +22,11 @@ XHTML 于2000年的1月26日成为 W3C 标准。
 
 ## Miscellaneous
 
+### Easyicon
+
+[Easyicon](http://www.easyicon.net/) - Search 500,000+ (PNG,ICO,ICNS) free icons, desktop icons, icons Download.
+
+
 ### How can I make a redirect page?
 
 ** Using Meta **
