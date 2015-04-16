@@ -5,6 +5,10 @@
 
 ## Water Effect
 
+Source Code: [Here](http://christen.cn/lab/flash/graphics/2015-04-16-rippler-effect.html)
+
+Download: [Rippler.as](http://christen.cn/lab/flash/graphics/Rippler.as)
+
 NascomASLib Contributors.
 
 An open source AS3 library that provides a couple of interesting graphic effects such as pixelate and rippler.
