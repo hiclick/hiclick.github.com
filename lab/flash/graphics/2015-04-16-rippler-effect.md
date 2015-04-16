@@ -5,7 +5,7 @@ tagline: Flash Lab
 ---
 {% include JB/setup %}
 
-## NascomASLib Contributors.
+## NascomASLib Contributors
 
 {% highlight actionscript %}
 
