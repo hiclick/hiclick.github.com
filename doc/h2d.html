@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Html 2 MarkDown"
+---
+
+<div class="page">
+
+    <h3>Html2MarkDown</h3>
+    <hr>
+    <script type="text/javascript" src="/assets/js/to-markdown.js"></script>
+
+    <h4>HTML input:</h4>
+
+    <label>
+        <textarea class="input" cols="100" rows="10"></textarea>
+    </label>
+
+    <h4>Markdown output:</h4>
+
+    <label>
+        <textarea class="output" onclick="javascript:this.select();" cols="100" rows="10"></textarea>
+    </label>
+
+
+    <script>jQuery(function () {
+        var $input = jQuery('.input');
+
+        function updateOutput() {
+            jQuery('.output').text(toMarkdown($input.val()));
+        }
+
+        updateOutput();
+        $input.keyup(function () {
+            updateOutput();
+        });
+    });
+    </script>
+
+    <br><br>
+    <div><i class="fa fa-github fa-2x"></i> <a href="https://github.com/domchristie/to-markdown">domchristie/to-markdown</a></div>
+    <br>
+
+</div>
