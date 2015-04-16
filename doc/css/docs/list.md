@@ -6,14 +6,14 @@ The CSS list properties allow you to:
 * Set different list item markers for unordered lists
 * Set an image as the list item marker
 
-[W3schools](http://www.w3schools.com/css/css_list.asp)<sup><i class="ext-link"></i></sup>
+[W3schools](http://www.w3schools.com/css/css_list.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-[Maxdesign Listutorial](http://css.maxdesign.com.au/listutorial/)<sup><i class="ext-link"></i></sup>
+[Maxdesign Listutorial](http://css.maxdesign.com.au/listutorial/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 
 ## list-style
 
-[Mozilla Developer Network list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)<sup><i class="ext-link"></i></sup>
+[Mozilla Developer Network list-style](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 
 ## list-style-image
@@ -23,7 +23,7 @@ The CSS list properties allow you to:
 
 ## list-style-type
 
-[W3school](http://www.w3school.com.cn/cssref/pr_list-style-type.asp)<sup><i class="ext-link"></i></sup>
+[W3school](http://www.w3school.com.cn/cssref/pr_list-style-type.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 ```css
 ul.circle {list-style-type:circle}

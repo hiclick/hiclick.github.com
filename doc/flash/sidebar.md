@@ -19,6 +19,7 @@
 1. [Video](#docs/video)
 1. [Loading Assets](#docs/loading-assets)
 1. [XML](#docs/xml)
+1. [Libs](#docs/libs)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)

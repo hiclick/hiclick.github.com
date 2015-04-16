@@ -17,7 +17,7 @@ __Focus__
 
 * Advertising Optimization
 * HTML5 / Flash / JavaScript / CSS
-* Java / Groovy / Python / Ruby / PHP / Objective-C
+* Java (Scala / Groovy) / Python / Ruby / PHP
 
 __Resume__
 

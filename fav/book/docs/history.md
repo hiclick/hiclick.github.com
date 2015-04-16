@@ -5,12 +5,12 @@
 
 历史的第二个含义，即对过去事件的记录和研究，又称为“历史学”，或简称“史学”。
 
--- [维基百科](http://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2)<sup><i class="ext-link"></i></sup>
+-- [维基百科](http://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 
 ## 袁腾飞讲汉末三国（上下）
 
-[豆瓣](http://book.douban.com/subject/25858046/)<sup><i class="ext-link"></i></sup>
+[豆瓣](http://book.douban.com/subject/25858046/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 介质：有声
 

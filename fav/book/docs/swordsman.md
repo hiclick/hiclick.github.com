@@ -6,11 +6,11 @@
 武侠小说的历史背景多为中国古代，尤以改朝换代、汉族与胡族战争之乱世为多，故而时势造英雄；也有以描述帮派斗争为主，而没有强调时代。盖因乱世之中，
 人更加需要以武力证明自身价值。以武学为中心，是武侠小说独特的文化特征，兼以中国古代医学、佛学、道家、易术及各种神秘学等。因此，武侠小说中人物的价值观，乃至于整部作品的精神基调，是建立在武学的基本思想上的。
 
--- [维基百科](http://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BF%A0%E5%B0%8F%E8%AA%AA)<sup><i class="ext-link"></i></sup>
+-- [维基百科](http://zh.wikipedia.org/wiki/%E6%AD%A6%E4%BF%A0%E5%B0%8F%E8%AA%AA)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 ## 笑傲江湖
 
-[豆瓣](http://book.douban.com/subject/1002299/)<sup><i class="ext-link"></i></sup>
+[豆瓣](http://book.douban.com/subject/1002299/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 介质：有声 桑小玲 赵语婴 播讲
 
@@ -21,7 +21,7 @@
 
 ## 飞狐外传
 
-[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="ext-link"></i></sup>
+[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 介质：有声 桑小玲 播讲
 
@@ -32,9 +32,9 @@
 
 ## 鸳鸯刀
 
-[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="ext-link"></i></sup>
+[豆瓣](http://book.douban.com/subject/1052380/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-[维基](http://zh.wikipedia.org/wiki/%E9%B8%B3%E9%B8%AF%E5%88%80)<sup><i class="ext-link"></i></sup>
+[维基](http://zh.wikipedia.org/wiki/%E9%B8%B3%E9%B8%AF%E5%88%80)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 介质：有声 桑小玲 播讲
 

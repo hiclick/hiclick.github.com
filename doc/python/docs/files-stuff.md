@@ -13,7 +13,7 @@
 
 SYNTAX:
 
-参考：[tutorialspoint](http://www.tutorialspoint.com/python/python_files_io.htm)<sup><i class="ext-link"></i></sup>
+参考：[tutorialspoint](http://www.tutorialspoint.com/python/python_files_io.htm)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 ```python
 file object = open(file_name [, access_mode][, buffering])
@@ -113,8 +113,8 @@ EXAMPLE:
 
 参考：
 
-* [Refer to relative paths of resources](http://stackoverflow.com/a/1270970)<sup><i class="ext-link"></i></sup>
-* [Open file in a relative location in Python](http://stackoverflow.com/a/7166139)<sup><i class="ext-link"></i></sup>
+* [Refer to relative paths of resources](http://stackoverflow.com/a/1270970)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+* [Open file in a relative location in Python](http://stackoverflow.com/a/7166139)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 
 
