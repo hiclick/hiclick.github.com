@@ -24,7 +24,7 @@ Powered by [Pygments](http://pygments.org/languages/)<sup><span class="fa fa-ext
 ﹢－× ÷ ± ≈ ≠ ≡ √ ╳ ≤ ≥ ≦ ≧ ∪ ∩ ∈ m⊥n ∞ ℃
 ◐ ☞ ㊣ ☜ ◑
 ♠ ♣ ♥ ♦ ♤ ♧ ♡ ♢
-♂ ➹ ♀♩ ♪ ♫ ♬
+♂ ➹ ♀ ♩ ♪ ♫ ♬
 ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ
 Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ
 ⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ ㉑ ㉒ ㉓ ㉔ ㉕
