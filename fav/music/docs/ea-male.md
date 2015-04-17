@@ -1,9 +1,29 @@
 # 音乐 - 欧美 男歌手
 
-广陵散相传是东汉末年流行于广陵（今江苏扬州）的民间乐曲，当时用琴、筝、笙、筑等乐器演奏。汉代应璩与刘孔才的信说“听广陵之清散”。广陵散描写战国时代铸剑工匠之子聂政为报严仲子知遇之恩，刺死韩相侠累，然后自杀的故事，因此通常认为是“聂政刺韩相”的别名。
+## [Lady](http://music.163.com/#/song?id=27147458)
 
-## 二级标题一
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52
+src="http://music.163.com/outchain/player?type=2&id=27147458&auto=0&height=32"></iframe>
 
-## 二级标题二
+歌手：[Kenny Rogers](http://music.163.com/artist?id=37524)
 
-## 二级标题三
+专辑：[Greatest Country Hits](http://music.163.com/album?id=2587700)
+
+发行时间：1990-08-20
+
+发行公司： Curb Records
+
+```java
+Lady
+On your night the shining harber
+And I love you
+You have made me what I am
+And I am yours
+My love,there's so many ways
+I want to say I love you
+Let me hold you in my arms forever more
+You have gone and made me such a fool
+I am so lost in your love
+And all we belong together
+Won't you believe in my soul
+```

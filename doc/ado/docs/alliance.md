@@ -15,3 +15,5 @@ test.trace8.test15.:100;
 test.trace10.test15.:100;
 test.trace12.test15.:100;
 ```
+
+广告发布后 00 15 30 45 这几个分钟数进行任务分派。

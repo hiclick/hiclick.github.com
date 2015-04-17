@@ -4,11 +4,11 @@
 15 Must-Know Chrome DevTools Tips and Tricks
 
 
-当 DevTools 被打开的时候，按 Ctrl + P（command + P），就能快速搜寻和打开你项目的文件。
+当 DevTools 被打开的时候，按<kbd>Ctrl</kbd> + <kbd>P</kbd>（<kbd>command</kbd> + <kbd>P</kbd>），就能快速搜寻和打开你项目的文件。
 
 在页面已经加载的文件中搜寻一个特定的字符串，快捷键是 Ctrl + Shift + F (command + option + F)，支持正则表达式。
 
-在Sources标签中打开一个文件之后，按 Ctrl + O (command  + O)，输入 ```: 和 行数```，可跳转到文件中的任意一行。
+在Sources标签中打开一个文件之后，按 Ctrl + O (command  + O)，输入<span class="key">:</span>和<span class="key">行数</span>，可跳转到文件中的任意一行。
 
 
 DevTools控制台支持一些变量和函数来选择DOM元素：

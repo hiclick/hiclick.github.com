@@ -1,12 +1,10 @@
 # 音乐 - 粤语 女歌手
 
 
-## 天下浪子不独你一人
+## [天下浪子不独你一人](http://music.163.com/#/song?id=300528)
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52
 src="http://music.163.com/outchain/player?type=2&id=300528&auto=0&height=32"></iframe>
-
-歌曲名：[天下浪子不独你一人](http://music.163.com/#/song?id=300528)
 
 歌手：[吴倩莲](http://music.163.com/#/artist?id=9631)
 
@@ -83,6 +81,8 @@ src="http://music.163.com/outchain/player?type=2&id=300528&auto=0&height=32"></i
 
 ```javascript
 jQuery(".list_M_con").find(".list_M_w170").find("a").text(); //Sina
+    ↓
+jQuery(".list_M_con .list_M_w170 a").text();
 ```
 
 1. 不会哭于你面前 - 杨采妮
@@ -102,12 +102,10 @@ jQuery(".list_M_con").find(".list_M_w170").find("a").text(); //Sina
 1. 似是故人来 - 梅艳芳
 1. 破例 - 黎姿
 
-## 赤裸的秘密
+## [赤裸的秘密](http://music.163.com/#/song?id=25863561)
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52
 src="http://music.163.com/outchain/player?type=2&id=25863561&auto=0&height=32"></iframe>
-
-歌曲名：[赤裸的秘密](http://music.163.com/#/song?id=25863561)
 
 专辑：[关于她的爱情故事](http://music.163.com/#/album?id=2335589)
 
