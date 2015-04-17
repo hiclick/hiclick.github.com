@@ -21,7 +21,7 @@ Powered by [Pygments](http://pygments.org/languages/)<sup><span class="fa fa-ext
 
 {% highlight html %}
 ↖ ↑ ↗ ← ↹ → ↙ ↓ ↘ ↕ ↔ ➳ ➴ ➶ ➸ ➷ ➹ ➙ ➘ ➚
-◐ ☞ ㊣ ☜ ◑ ♠ ♣ ♥ ♦ ♤ ♧ ♡ ♢ ♂ ♀ ♩ ♪ ♫ ♬
+◐ ◑ ☞ ☜ ◆ ◇ □ ■ ☆ ★ ♠ ♣ ♥ ♦ ♤ ♧ ♡ ♢ ♂ ♀ ♩ ♪ ♫ ♬
 ﹢－× ÷ ± ≈ ≠ ≡ √ ╳ ≤ ≥ ≦ ≧ ∪ ∩ ∈ m⊥n ∞ ℃ ㏑ ㏒
 ㎅ ㎆ ㎇ ㎍ ㎎ ㎏ ㎛ ㎜ ㎝ ㎞ ㎟ ㎠ ㎡ ㎢ ㎣ ㎤ ㎥ ㎦ ㎧ ㎨
 ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ
@@ -34,6 +34,6 @@ Powered by [Pygments](http://pygments.org/languages/)<sup><span class="fa fa-ext
 ㋀㋁㋂㋃㋄㋅㋆㋇㋈㋉㋊㋋
 ㍘㍙㍚㍛㍜㍝㍞㍟㍠㍡㍢㍣㍤㍥㍦㍧㍨㍩㍪㍫㍬㍭㍮㍯㍰
 ㏠㏡㏢㏣㏤㏥㏦㏧㏨㏩㏪㏫㏬㏭㏮㏯㏰㏱㏲㏳㏴㏵㏷㏸㏹㏺㏻㏼㏽㏾
-㊒㊖㊔ ㊐㊊㊰ ㊎㊍㊌㊋㊏ ㊤㊥㊦㊧㊨ ㊜㊙㊚㊛ ㊩㊪㊑㊓ ㊫㊘㊝㊡ ㊬㊭㊮㊯ ㊕㊗㊠㊢ ㍿㊞㊟
+㊒㊖㊔ ㊐㊊㊰ ㊎㊍㊌㊋㊏ ㊤㊥㊦㊧㊨ ㊜㊙㊚㊛ ㊩㊪㊑㊓ ㊫㊘㊝㊡ ㊬㊭㊮㊯ ㊕㊗㊠㊢ ㍿㊣㊞㊟
 {% endhighlight %}
 
