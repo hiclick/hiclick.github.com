@@ -6,6 +6,17 @@
 
 ## Array 对象
 
+从数组中随机抽取子组的方法：
+
+```javascript
+function randArray(m, len) {
+    m.sort(function () {
+        return Math.random() - 0.5;
+    });
+    return m.slice(0, len);
+}
+```
+
 整理豆瓣记录的我读过的书：
 
 ```javascript
