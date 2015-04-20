@@ -513,13 +513,15 @@ $ hg commit -m 'Initial commit'
 
 ## Syntax Highlight
 
-* Ace
-* CodeMirror
+* [Ace](https://github.com/ajaxorg/ace)
+* [CodeMirror](http://codemirror.net/) ([RunJS](http://runjs.cn/) / [LESS](http://www.ostools.net/less) / [Markdown](http://www.ostools.net/markdown))
 * GeSHi
 * Google Code Prettify
-* SyntaxHighlighter
+* [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/)
 * [Pygments](http://pygments.org/languages/)
-* [Prism](http://prismjs.com/)
+* [Prism](http://prismjs.com/examples.html)
+
+注：SyntaxHighlighter高亮HTML不需要转义。
 
 ## Knowledge Management
 
