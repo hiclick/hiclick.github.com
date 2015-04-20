@@ -181,4 +181,15 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 ### Mac
 
-暂未实操，待后补。
+Unless you have intentionally changed your Java path, Java is most likely installed here:
+
+```bash
+/Library/Java/JavaVirtualMachines/<java version>/.
+```
+
+Add the following lines to your ```~/.bash_profile``` to add Java to your PATH:
+
+```bash
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+```

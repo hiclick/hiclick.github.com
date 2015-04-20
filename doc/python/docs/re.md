@@ -8,7 +8,7 @@ docs: 2.7.3-docs/library/re.html
 编辑器中的模式匹配和编译器中的词法分析。1980年，一些复杂的正则表达语句开始出现在Perl中，使用了由[Henry Spencer](https://en.wikipedia.org/wiki/Henry_Spencer)实现的正则表达解析器。
 而Henry Spencer后来写了更高效的正则解析器Tcl，Tcl混合使用了NFA（非确定有限自动机）/DFA（确定有限自动机）来实现正则表达语法。
 
-<blockquote>TextPro正则表达式的搜索引掣是在Henry Spencer的源代码的基础上，经过大量的增改，尤其是增强了对中文的支持。</blockquote>
+>TextPro正则表达式的搜索引掣是在Henry Spencer的源代码的基础上，经过大量的增改，尤其是增强了对中文的支持。
 
 主要部分：
 

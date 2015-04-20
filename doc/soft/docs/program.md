@@ -312,12 +312,10 @@ Updated: $Date: 2006/12/03 18:54:47
 早期很多开源或者自由软件项目都使用CVS作为其程序员之间的中心点，以便能够综合各程序员的改进和更改。这些项目包括：Gnome、KDE、GIMP、Wine等。
 CVS的使用获GNU通用公共许可证授权。
 
-<blockquote>
-In the world of open source software, the Concurrent Version System (CVS) has long been the tool of choice for version
+>In the world of open source software, the Concurrent Version System (CVS) has long been the tool of choice for version
 control. And rightly so. CVS itself is free software, and its non-restrictive modus operandi and support for networked
 operation – which allow dozens of geographically dispersed programmers to share their work – fits the collaborative nature
 of the open-source world very well. CVS and its semi-chaotic development model have become cornerstones of open-source.
-</blockquote>
 
 — Collins-Sussman, Version Control with Subversion For Subversion 1.1, 2005
 
@@ -363,15 +361,11 @@ GitHub是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom 
 在此之前，它是由 Tom 与 Chris 在本地程序员聚会中，开始的一个用于托管 git 的项目。正如每个伟大的传奇都开始于一场冒险，Tom 在这篇文章我
 如何辞掉微软 30 万年薪邀约，创办 GitHub 中谈到：
 
-<blockquote>
-当我老去，回顾一生，我想说，"哇，那是一场冒险"；而不是，"哇，我真的很安稳。"
-</blockquote>
+>当我老去，回顾一生，我想说，"哇，那是一场冒险"；而不是，"哇，我真的很安稳。"
 
 另一位创始人 Chris 也详细描述了 GitHub 初创的前因后果，他说道：
 
-<blockquote>
-Do whatever you want.
-</blockquote>
+>Do whatever you want.
 
 于是，在 2008 年 4 月 10 号这一天，GitHub 正式成立。
 

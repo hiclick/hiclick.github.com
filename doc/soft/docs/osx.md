@@ -113,11 +113,9 @@ wrong # args: should be "set varName ?newValue?"
 
 这一行本是这么写的：```set timeout 10 # default```，搜索了下：
 
-<blockquote>
-Tcl中的注释符是 '#'，'#' 和直到所在行结尾的所有字符都被Tcl看作注释，Tcl解释器对注释将不作任何处理。不过，要注意的是，'#' 必须出现
-在Tcl解释器期望命令的第一个字符出现的地方，才被当作注释。
-如果 '#' 出现在命令的中间，Tcl解释器把它和后面的字符当作命令的参数处理，从而导致错误。
-</blockquote>
+
+>Tcl中的注释符是 '#'，'#' 和直到所在行结尾的所有字符都被Tcl看作注释，Tcl解释器对注释将不作任何处理。不过，要注意的是，'#' 必须出现在Tcl解释器期望命令的第一个字符出现的地方，才被当作注释。如果 '#' 出现在命令的中间，Tcl解释器把它和后面的字符当作命令的参数处理，从而导致错误。
+
 
 问题解决。
 
@@ -129,10 +127,8 @@ set foo 0; #这个也是注释
 set foo 0 #这个不是注释
 ```
 
-<blockquote>
-Expectk is a mixture of Expect and Tk.  It behaves just like Expect and Tk's wish.  Expect can also be used directly in
+>Expectk is a mixture of Expect and Tk.  It behaves just like Expect and Tk's wish.  Expect can also be used directly in
 C  or  C++  (that  is,without Tcl).
-</blockquote>
 
 #### sudo -S
 

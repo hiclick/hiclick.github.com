@@ -51,13 +51,43 @@
 
 ## Font
 
+### Typekit
+
+Adobe Typekit is a subscription font service that brings thousands of fonts from foundry partners into one library for quick
+browsing, easy use on the web or in applications, and endless typographic inspiration.
+
+[Adobe收购网络字体服务提供商Typekit](http://tech.sina.com.cn/it/2011-10-04/12416140852.shtml)
+
+可惜在国内被墙，打开极慢：
+
+```markup
+<script src="http://use.typekit.com/uxj6dew.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+```
+Ext JS 的文档中，有引用这个字体库，不得已删除之。
+
+### Google Fonts
+
+https://www.google.com/fonts
+
+```markup
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+```
+```css
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+```
+
+
 ## Reader
 
 * Adobe Digital Editions
 * Adobe Reader
 * Advanced PDF Password Recovery
 * Foxit Reader
-* -Google Reader-
+* ~~Google Reader~~
 * Liferea
 * PDF-XChange Viewer
 * Sumatra PDF

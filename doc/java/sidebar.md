@@ -31,6 +31,7 @@
 1. [Datetime](#docs/datetime)
 1. [Deployment](#docs/deployment)
 1. [Localization](#docs/localization)
+1. [Library](#docs/library)
 
 
 ### JSP
