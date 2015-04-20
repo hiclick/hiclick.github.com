@@ -5,15 +5,24 @@ tagline: About me
 ---
 {% include JB/setup %}
 
-* [Auto](auto/)
-* [Baby](baby/)
+## Portfolio
 * [Book](book/)
-* [Cloud](cloud/)
-* [Google](google/)
-* [Mobile](mobile/)
-* [Movie](movie/)
 * [Music](music/)
 * [Photo](photo/)
+* [Movie](movie/)
+* [Auto](auto/)
+* [Baby](baby/)
+
+## About
+* [Mobile](mobile/)
+* [Google](google/)
+
+## Work
+* [Cloud](cloud/)
 
 ***
+
+一个深广的心灵总是把兴趣的领域推广到无数事物上去。
+
+——黑格尔
 

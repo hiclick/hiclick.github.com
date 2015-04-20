@@ -5,7 +5,7 @@ tagline: Learning to Write
 ---
 {% include JB/setup %}
 
-## Ext JS
+## Ext
 
 1. [Hello](ext/hello.html)
 
@@ -14,3 +14,5 @@ tagline: Learning to Write
 1. [Emmet](ace/index.html)
 1. [JavaScript](ace/js.html)
 1. [Highlight](ace/highlighter.html)
+
+Christen Web Lab
