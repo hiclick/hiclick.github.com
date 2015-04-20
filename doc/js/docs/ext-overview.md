@@ -117,18 +117,22 @@ Now we’ll need to create an index.html file that references the JavaScript and
 ```markup
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Welcome to Ext JS!</title>
-        <link rel="stylesheet" type="text/css" href="/{SDKLocation}/build/packages/ext-theme-neptune/build/resources/ext-theme-neptune-all.css">
-        <script type="text/javascript" src="/{SDKLocation}/build/ext-all.js"></script>
-        <script type="text/javascript" src="/{SDKLocation}/build/packages/ext-theme-neptune/build/ext-theme-neptune.js"></script>
+<head>
+    <title>Hello</title>
 
-        <script type ="text/javascript" src="app.js"></script>
-    </head>
-    <body></body>
+    <link rel="stylesheet" href="/assets/js/ext-5.1.0/packages/ext-theme-crisp/build/resources/ext-theme-crisp-all.css">
+    <script src="/assets/js/ext-5.1.0/ext-all.js"></script>
+    <script src="/assets/js/ext-5.1.0/packages/ext-theme-crisp/build/ext-theme-crisp.js"></script>
+
+</head>
+<body>
+<div id="main"></div>
+<script src="js/hello.js"></script>
+</body>
 </html>
 ```
 
+Preview: [Here](/lab/hello.html)
 
 
 <i class="fa fa-stack-overflow"></i> [Include EXTJS 5 library in web application](http://stackoverflow.com/a/28051326/4766670)
