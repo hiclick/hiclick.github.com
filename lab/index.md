@@ -9,10 +9,12 @@ tagline: Learning to Write
 
 1. [Hello](ext/hello.html)
 
-## ACE
+## Ace
 
 1. [Emmet](ace/index.html)
 1. [JavaScript](ace/js.html)
 1. [Highlight](ace/highlighter.html)
+
+***
 
 Christen Web Lab
