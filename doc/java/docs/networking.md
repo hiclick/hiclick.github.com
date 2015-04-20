@@ -27,13 +27,13 @@ Supported protocols include:
 
 ## Accessing FTP sites in a Java program
 
-[Java FTP Tips](http://www.nsftools.com/tips/JavaFtp.htm) and I hava copied the code [here](http://christen.cn/lab/java/networking/2015-04-06-java-ftp.html).
+[Java FTP Tips](http://www.nsftools.com/tips/JavaFtp.htm) and I hava copied the code here:
 
 * [FTPConnection.java](http://christen.cn/doc/java/docs/attachment/FTPConnection.java)
 * [TestFTP.java](http://christen.cn/doc/java/docs/attachment/TestFTP.java)
 
 
-[FTP文件上传与下载](http://blog.csdn.net/zlb824/article/details/7742959)
+CSDN：[FTP文件上传与下载](http://blog.csdn.net/zlb824/article/details/7742959)
 
 Q: What Java FTP client library should I use? <sup>[\[1\]](http://stackoverflow.com/a/295269/4766670)</sup>
 

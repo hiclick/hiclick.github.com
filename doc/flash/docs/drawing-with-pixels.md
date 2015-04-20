@@ -5,10 +5,6 @@
 
 ## Water Effect
 
-Source Code: [Here](http://christen.cn/lab/flash/graphics/2015-04-16-rippler-effect.html)
-
-Download: [Rippler.as](http://christen.cn/lab/flash/graphics/Rippler.as)
-
 NascomASLib Contributors.
 
 An open source AS3 library that provides a couple of interesting graphic effects such as pixelate and rippler.
@@ -17,9 +13,11 @@ An open source AS3 library that provides a couple of interesting graphic effects
 
 [Water ripples revisited (AS3-only version)](http://www.derschmale.com/2008/08/03/water-ripples-revisited-as3-only-version/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
+Source Code Download: [Rippler.as](http://christen.cn/doc/flash/docs/attachment/Rippler.as)
+
 Another NascomASLib Tool: UploadPostHelper
 
-Sample <i class="fa fa-pencil"></i>:
+<i class="fa fa-pencil"></i> Sample:
 
 将图片与图片名等不同类型数据传到服务器
 
@@ -41,7 +39,7 @@ loader.addEventListener(IOErrorEvent.IO_ERROR, uploadErrorHandler);
 loader.load(request);
 ```
 
-这是我起意研究 Flex + SWC 的开始，便至今未找到 NascomASLib 的文档 <i class="fa fa-calendar"></i>。
+这是我起意研究 Flex + SWC 的开始，便至今未找到 NascomASLib 的文档。
 
 Rippler Sample:
 
