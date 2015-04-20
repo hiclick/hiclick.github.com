@@ -21,3 +21,16 @@ You can download current library from links below, or you can directly link your
 
 Demo: http://lib.ivank.net/?p=demos <sup><i class="fa fa-external-link fa-fw"></i></sup>
 
+## Underscore
+
+Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you
+would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go
+along with jQuery's tux, and Backbone.js's suspenders.
+
+Underscore provides 80-odd functions that support both the usual functional suspects: ```map```, ```select```, ```invoke``` — as well as
+more specialized helpers: function binding, javascript templating, deep equality testing, and so on. It delegates to
+built-in functions, if present, so modern browsers will use the native implementations of ```forEach```, ```map```, ```reduce```, ```filter```,
+```every```, ```some``` and ```indexOf```.
+
+http://documentcloud.github.io/underscore/
+

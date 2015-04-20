@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Static Code highlighter using Ace</title>
+    <meta name="author" content="Matthew Kastor">
+    <style type="text/css">
+        .code {
+            width: 50%;
+            white-space: pre-wrap;
+            border: solid lightgrey 1px
+        }
+    </style>
+</head>
+<body>
+
+<h2>Client Side Syntax Highlighting</h2>
+
+<p>Syntax highlighting using Ace language modes and themes.</p>
+
+<div class="code" ace-mode="ace/mode/css" ace-theme="ace/theme/chrome" ace-gutter="true">
+.code {
+    width: 50%;
+    white-space: pre-wrap;
+    border: solid lightgrey 1px
+}
+
+</div>
+
+<pre class="code" ace-mode="ace/mode/javascript" ace-theme="ace/theme/chrome">
+function wobble (flam) {
+    return flam.wobbled = true;
+}
+
+</pre>
+
+
+<div class="code" ace-mode="ace/mode/java" ace-theme="ace/theme/chrome" ace-gutter="true">
+package com.chenzixin.hire;
+
+/**
+ * Created with IntelliJ IDEA.
+ * User: Christen
+ * Date: 15-3-18
+ * Time: 上午11:54
+ */
+
+class Hexy {
+    public static void main(String[] args) {
+        Integer i = 42;
+        String s = (i < 40) ? "life" : (i > 50) ? "universe" : "everything";
+        System.out.println(s);
+
+        try { int x = Integer.parseInt("two"); }
+        catch (IllegalArgumentException e){
+            e.printStackTrace();
+        }
+    }
+}
+</div>
+
+
+<!-- load ace -->
+<script src="/assets/js/ace/ace.js"></script>
+<!-- load ace static_highlight extension -->
+<script src="/assets/js/ace/ext-static_highlight.js"></script>
+<script>
+    var highlight = ace.require("ace/ext/static_highlight")
+    var dom = ace.require("ace/lib/dom")
+    function qsa(sel) {
+        return Array.apply(null, document.querySelectorAll(sel));
+    }
+
+    qsa(".code").forEach(function (codeEl) {
+        highlight(codeEl, {
+            mode: codeEl.getAttribute("ace-mode"),
+            theme: codeEl.getAttribute("ace-theme"),
+            startLineNumber: 1,
+            showGutter: codeEl.getAttribute("ace-gutter"),
+            trim: true
+        }, function (highlighted) {
+            
+        });
+    });
+</script>
+
+</body>
+</html>

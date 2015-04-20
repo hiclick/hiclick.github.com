@@ -132,7 +132,7 @@ Now we’ll need to create an index.html file that references the JavaScript and
 </html>
 ```
 
-Preview: [Here](/lab/hello.html)
+Preview: [Here](/lab/ext/hello.html)
 
 
 <i class="fa fa-stack-overflow"></i> [Include EXTJS 5 library in web application](http://stackoverflow.com/a/28051326/4766670)

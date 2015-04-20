@@ -38,7 +38,7 @@
 1. [Overview](#docs/node/overview)
 
 ### ExtJS
-1. [Overview](#docs/ext-overview)
+1. [Overview](#docs/ext/overview)
 
 ### Mootools
 1. [Overview](#docs/mt-overview)
