@@ -2,7 +2,7 @@
 
 ## 概述
 
-ExtJs最开始基于YUI技术，由开发人员 JackSlocum开发，通过参考JavaSwing等机制来组织可视化组件，无论从UI界面上CSS样式的应用，到数据解析上的
+ExtJs最开始基于YUI技术，由开发人员Jack Slocum开发，通过参考Java Swing等机制来组织可视化组件，无论从UI界面上CSS样式的应用，到数据解析上的
 异常处理， 都可算是一款不可多得的JavaScript客户端技术的精品。
 
 * 2007: ExtJS 2.0
