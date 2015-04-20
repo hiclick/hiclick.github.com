@@ -6,10 +6,11 @@
 
 ## 目录
 
-### CSS 选择器
-1. [前言](#README)
-1. [滤镜](#docs/filter)
-1. [选择器](#docs/selectors)
+### CSS 基础
+1. [Preface](#README)
+1. [Reset](#docs/reset)
+1. [Filter](#docs/filter)
+1. [Selector](#docs/selectors)
 
 ### CSS 参考手册
 1. [动画](#docs/animation)
