@@ -1,0 +1,45 @@
+---
+layout: prism
+title: Test Prism
+tagline: Write beautiful code
+---
+
+<div class="page">
+
+<h3>高亮Python</h3>
+
+<pre>
+<code class="language-python">
+# -*- coding:utf-8 -*-
+ 
+def getPrime(maxNum):
+    aList = [x for x in range(0, maxNum)]
+    prime = []
+    for i in range(2, len(aList)):
+        if aList[i] != 0:
+            prime.append(aList[i])
+            clear(aList[i], aList, maxNum)
+    return prime
+ 
+ 
+def clear(aPrime, aList, maxNum):
+    for i in range(2, int((maxNum / aPrime) + 1)):
+        if not aPrime * i > maxNum - 1:
+            aList[i * aPrime] = 0
+ 
+print getPrime(500)
+</code>
+</pre>
+<h3>高亮HTML</h3>
+<pre>
+<code class="language-markup">
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushXml.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushJScript.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushAS3.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushCss.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushJava.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushPython.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushSql.js&quot;&gt;&lt;/script&gt;
+</code>
+</pre>
+</div>
