@@ -28,7 +28,7 @@
 
 移动设备之间同步阅读的方法 ```〖发送至Kindle〗电子邮箱```：
 
-Kindle个人文档服务可以让您轻松地随身携带个人文档，不再需要打印。您和您认可的发件人可以将文档发送到您的〖发送至Kindle〗电子邮箱，
+[Kindle个人文档服务](https://www.amazon.cn/gp/help/customer/display.html?nodeId=200767340)可以让您轻松地随身携带个人文档，不再需要打印。您和您认可的发件人可以将文档发送到您的〖发送至Kindle〗电子邮箱，
 该文档即可自动传送到您的Kindle。
 
 Kindle个人文档服务支持Kindle Android, Kindle iPhone, Kindle iPad阅读软件。
