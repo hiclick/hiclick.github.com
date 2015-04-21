@@ -521,7 +521,143 @@ $ hg commit -m 'Initial commit'
 * [Pygments](http://pygments.org/languages/)
 * [Prism](http://prismjs.com/examples.html)
 
-注：SyntaxHighlighter高亮HTML不需要转义。
+SyntaxHighlighter高亮HTML不需要转义 <i class="fa fa-thumbs-o-up"></i> :
+
+```markup
+<!-- Core JS -->
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shCore.js"></script>
+<!-- Include Brushes -->
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushXml.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushJScript.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushAS3.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushCss.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushJava.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushPython.js"></script>
+<script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/scripts/shBrushSql.js"></script>
+<!-- Core CSS -->
+<link href="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/styles/shCore.css" rel="stylesheet" type="text/css" />
+<!-- Default Theme -->
+<link href="http://www1.pconline.com.cn/api/libs/syntaxhighlighter/3_0_83/styles/shThemeDefault.css" rel="stylesheet" type="text/css" />
+
+<!-- Content to Highlight -->
+<pre class="brush: js">
+    /**
+     * SyntaxHighlighter
+     */
+    function foo()
+    {
+        if (counter <= 10)
+            return;
+        // it works!
+    }
+</pre>
+
+<!-- Run the Highlighter -->
+<script type="text/javascript">
+    SyntaxHighlighter.defaults['toolbar'] = false;
+    SyntaxHighlighter.all()
+</script>
+```
+
+Pygments 用例：
+
+```markup
+{% highlight html %}
+<i class="fa fa-cloud"></i>
+<i class="fa fa-github fa-2x"></i>
+<sup><i class="fa fa-external-link fa-fw"></i></sup>
+{% endhighlight %}
+```
+
+Prism 用例：
+
+```markup
+<link rel="stylesheet" href="/assets/css/prism.css">
+<script src="/assets/js/prism.js"></script>
+
+<style type="text/css">
+    pre {
+        width: 800px;
+    }
+</style>
+
+<h2>Prism: Highlight Lab</h2>
+
+<hr>
+
+<pre>
+
+<code class="language-python">
+    #!/usr/bin/python
+    # -*- coding: utf-8 -*-
+
+    from datetime import date
+    import os
+    import re
+    import sys
+
+    u_title = raw_input("Please ENTER the Title:\n")
+    p_title = re.sub(r'\s+', '-', u_title.strip())
+
+    # check len
+    if len(p_title) < 2:
+    # raise Exception('Too Short!')
+    sys.exit('Too Short!')
+
+    # post
+    rakecmd = "rake post title=" + "'" + p_title + "'"
+    os.popen(rakecmd)
+
+    # print
+    now = date.today()
+    p_date = now.strftime("%Y-%m-%d")
+
+    # info
+    print 'File has been Created:\n' './_posts/'+ p_date + '-' + p_title.lower() + '.md'
+    print 'Done...'
+</code>
+</pre>
+
+<pre>
+<code class="language-markup">
+    &lt;!doctype html>
+    &lt;html lang="en">
+    &lt;head>
+        &lt;meta charset="UTF-8">
+        &lt;title>Document&lt;/title>
+    &lt;/head>
+    &lt;body>
+    Sorry this page does not exist =(
+    &lt;/body>
+    &lt;/html>
+</code>
+</pre>
+
+<pre>
+<code class="language-javascript">
+    let ps = document.querySelectorAll('p');
+
+    Array.from(ps).forEach(function (p) {
+        console.log(p);
+    });
+</code>
+</pre>
+
+<pre>
+<code class="language-actionscript">
+    var shad:DropShadowFilter = new DropShadowFilter(2, 45, 0x000000, 25, 3, 3, 2, 2);
+    var txt:TextField = new TextField();
+</code>
+</pre>
+
+<pre>
+<code class="language-bash">
+    $ source nvm.sh
+    $ nvm use 0.12
+    $ node --harmony
+</code>
+</pre>
+```
 
 ## Knowledge Management
 

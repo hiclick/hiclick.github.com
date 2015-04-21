@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>手机号抽奖程序</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" href="http://www1.pconline.com.cn/api/libs/bootstrap/3_2_0/css/bootstrap.min.css"/>
+    <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://www1.pconline.com.cn/api/libs/bootstrap/3_2_0/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        <!--
+        // global variables
+        var timer;
+        var flag = new Array(100);
+        var existingnum = new Array(100);
+        var clickTimes = 0;
+        var randnum;
+        var cellnum = 1;
+        var mobile = [];
+        // set data here!!
+        mobile[0] = 13020000100;
+        mobile[1] = 13020000101;
+        mobile[2] = 13020000102;
+        mobile[3] = 13020000103;
+        mobile[4] = 13020000104;
+        mobile[5] = 13020000105;
+        mobile[6] = 13020000106;
+        mobile[7] = 13020000107;
+        mobile[8] = 13020000108;
+        mobile[9] = 13020000109;
+        mobile[10] = 13020000110;
+        mobile[11] = 13020000111;
+        mobile[12] = 13020000112;
+        mobile[13] = 13020000113;
+        mobile[14] = 13020000114;
+        mobile[15] = 13020000115;
+        mobile[16] = 13020000116;
+        mobile[17] = 13020000117;
+        mobile[18] = 13020000118;
+        mobile[19] = 13020000119;
+        mobile[20] = 13020000120;
+        mobile[21] = 13020000121;
+        mobile[22] = 13020000122;
+        mobile[23] = 13020000123;
+        mobile[24] = 13020000124;
+        mobile[25] = 13020000125;
+        mobile[26] = 13020000126;
+        mobile[27] = 13020000127;
+        mobile[28] = 13020000128;
+        mobile[29] = 13020000129;
+        mobile[30] = 13020000130;
+        mobile[31] = 13020000131;
+        mobile[32] = 13020000132;
+        mobile[33] = 13020000133;
+        mobile[34] = 13020000134;
+        mobile[35] = 13020000135;
+        mobile[36] = 13020000136;
+        mobile[37] = 13020000137;
+        mobile[38] = 13020000138;
+        mobile[39] = 13020000139;
+        mobile[40] = 13020000140;
+        mobile[41] = 13020000141;
+        mobile[42] = 13020000142;
+        mobile[43] = 13020000143;
+        mobile[44] = 13020000144;
+        mobile[45] = 13020000145;
+        mobile[46] = 13020020146;
+
+        var num = mobile.length - 1;
+
+        function getRandNum() {
+            num = parseInt(num);
+            var y = GetRnd(0, num);
+            document.getElementById("result").value = mobile[y];
+        }
+
+        function start() {
+            clearInterval(timer);
+            timer = setInterval('change()', 50);
+        }
+
+        function ok() {
+            clearInterval(timer);
+        }
+
+        function GetRnd(m, n) {
+            randnum = parseInt(Math.random() * (n - m + 1));
+            return randnum;
+        }
+
+        function setTimer() {
+            time = setInterval("getRandNum()", 10);
+            document.getElementById("start").disabled = true;
+            document.getElementById("end").disabled = false;
+        }
+
+        function clearTimer() {
+            noDupNum();
+            clearInterval(time);
+            document.getElementById("start").disabled = false;
+            document.getElementById("end").disabled = true;
+            setValues();
+        }
+
+        function noDupNum() {
+            // to remove the selected mobile phone number
+            mobile.removeEleAt(randnum);
+
+            // to reorganize the mobile number array!!
+            var o = 0;
+            for (p = 0; p < mobile.length; p++) {
+                if (typeof mobile[p] != "undefined") {
+                    mobile[o] = mobile[p];
+                    o++;
+                }
+            }
+            num = mobile.length - 1;
+        }
+
+        // method to remove the element in the array
+        Array.prototype.removeEleAt = function (dx) {
+            if (isNaN(dx) || dx > this.length) {
+                return false;
+            }
+            this.splice(dx, 1);
+        };
+
+        // set mobile phone numbers to the table cell
+        function setValues() {
+            document.getElementById(cellnum).value =
+                    document.getElementById("result").value;
+            cellnum++;
+        }
+        //-->
+    </script>
+
+    <style type="text/css">
+        .lucky {
+            border:0;
+        }
+    </style>
+</head>
+<body>
+    <div id="main" class="container">
+
+            <h1>Lucky Draw</h1>
+
+        <!--<p>http://v3.bootcss.com/css/#grid</p>-->
+
+            <p>
+
+                <label for="result"></label><input id="result" type="text" size="30"
+                       style="height:130px;width:756px;border:1px solid #ccc;font-size:60px;color:#f00" readonly/></p>
+
+            <p>
+                <button type="button" class="btn btn-success" id="start" onclick="setTimer()">Start</button>
+                <button type="button" class="btn btn-danger" id="end" onclick="clearTimer()" disabled>Pause</button>
+
+            </p>
+             <p> </p>
+            <p><strong>First Prize（10）</strong></p>
+            <table class="table-bordered">
+                <tr>
+                    <td><label for="36"></label><input name="text36" type="text" id="36" class="lucky" readonly /></td>
+                    <td><label for="37"></label><input name="text37" type="text" id="37" class="lucky" readonly /></td>
+                    <td><label for="38"></label><input name="text38" type="text" id="38" class="lucky" readonly /></td>
+                    <td><label for="39"></label><input name="text39" type="text" id="39" class="lucky" readonly /></td>
+                    <td><label for="40"></label><input name="text40" type="text" id="40" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="41"></label><input name="text41" type="text" id="41" class="lucky" readonly /></td>
+                    <td><label for="42"></label><input name="text42" type="text" id="42" class="lucky" readonly /></td>
+                    <td><label for="43"></label><input name="text43" type="text" id="43" class="lucky" readonly /></td>
+                    <td><label for="44"></label><input name="text44" type="text" id="44" class="lucky" readonly /></td>
+                    <td><label for="45"></label><input name="text45" type="text" id="45" class="lucky" readonly /></td>
+                </tr>
+            </table>
+            <p></p>
+            <p><strong>Second Prize（15）</strong></p>
+            <table class="table-bordered">
+                <tr>
+                    <td><label for="21"></label><input name="text21" type="text" id="21" class="lucky" readonly /></td>
+                    <td><label for="22"></label><input name="text22" type="text" id="22" class="lucky" readonly /></td>
+                    <td><label for="23"></label><input name="text23" type="text" id="23" class="lucky" readonly /></td>
+                    <td><label for="24"></label><input name="text24" type="text" id="24" class="lucky" readonly /></td>
+                    <td><label for="25"></label><input name="text25" type="text" id="25" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="26"></label><input name="text26" type="text" id="26" class="lucky" readonly /></td>
+                    <td><label for="27"></label><input name="text27" type="text" id="27" class="lucky" readonly /></td>
+                    <td><label for="28"></label><input name="text28" type="text" id="28" class="lucky" readonly /></td>
+                    <td><label for="29"></label><input name="text29" type="text" id="29" class="lucky" readonly /></td>
+                    <td><label for="30"></label><input name="text30" type="text" id="30" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="31"></label><input name="text31" type="text" id="31" class="lucky" readonly /></td>
+                    <td><label for="32"></label><input name="text32" type="text" id="32" class="lucky" readonly /></td>
+                    <td><label for="33"></label><input name="text33" type="text" id="33" class="lucky" readonly /></td>
+                    <td><label for="34"></label><input name="text34" type="text" id="34" class="lucky" readonly /></td>
+                    <td><label for="35"></label><input name="text35" type="text" id="35" class="lucky" readonly /></td>
+                </tr>
+            </table>
+
+             <p></p>
+            <p><strong>Third Prize（20）</strong></p>
+            <table class="table-bordered">
+                <tr>
+                    <td><label for="1"></label><input name="text1" type="text" id="1" class="lucky" readonly /></td>
+                    <td><label for="2"></label><input name="text2" type="text" id="2" class="lucky" readonly /></td>
+                    <td><label for="3"></label><input name="text3" type="text" id="3" class="lucky" readonly /></td>
+                    <td><label for="4"></label><input name="text4" type="text" id="4" class="lucky" readonly /></td>
+                    <td><label for="5"></label><input name="text5" type="text" id="5" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="6"></label><input name="text6" type="text" id="6" class="lucky" readonly /></td>
+                    <td><label for="7"></label><input name="text7" type="text" id="7" class="lucky" readonly /></td>
+                    <td><label for="8"></label><input name="text8" type="text" id="8" class="lucky" readonly /></td>
+                    <td><label for="9"></label><input name="text9" type="text" id="9" class="lucky" readonly /></td>
+                    <td><label for="10"></label><input name="text10" type="text" id="10" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="11"></label><input name="text11" type="text" id="11" class="lucky" readonly /></td>
+                    <td><label for="12"></label><input name="text12" type="text" id="12" class="lucky" readonly /></td>
+                    <td><label for="13"></label><input name="text13" type="text" id="13" class="lucky" readonly /></td>
+                    <td><label for="14"></label><input name="text14" type="text" id="14" class="lucky" readonly /></td>
+                    <td><label for="15"></label><input name="text15" type="text" id="15" class="lucky" readonly /></td>
+                </tr>
+                <tr>
+                    <td><label for="16"></label><input name="text16" type="text" id="16" class="lucky" readonly /></td>
+                    <td><label for="17"></label><input name="text17" type="text" id="17" class="lucky" readonly /></td>
+                    <td><label for="18"></label><input name="text18" type="text" id="18" class="lucky" readonly /></td>
+                    <td><label for="19"></label><input name="text19" type="text" id="19" class="lucky" readonly /></td>
+                    <td><label for="20"></label><input name="text20" type="text" id="20" class="lucky" readonly /></td>
+                </tr>
+            </table>
+
+        </div>
+</body>
+</html>
