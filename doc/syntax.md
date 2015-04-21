@@ -5,10 +5,6 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 ---
 {% include JB/setup %}
 
-Powered by [Pygments](http://pygments.org/languages/)<sup><span class="fa fa-external-link fa-fw"></span></sup>
-
-----
-
 ### Font Awesome:
 
 {% highlight html %}
