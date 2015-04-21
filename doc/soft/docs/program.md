@@ -295,6 +295,14 @@ PyCharm由JetBrains打造，VS2010的重构插件Resharper就是出自JetBrains�
 同时支持Google App Engine，PyCharm支持IronPython。这些功能在先进代码分析程序的支持下，使 PyCharm 成为 Python 专业开发人员和刚起步人
 员使用的有力工具。
 
+* [IntelliJ IDEA](http://www.jetbrains.com/idea)
+* [PhpStorm](http://www.jetbrains.com/phpstorm)
+* [PyCharm](http://www.jetbrains.com/pycharm)
+* [RubyMine](http://www.jetbrains.com/ruby)
+* [WebStorm](http://www.jetbrains.com/webstorm)
+* [AppCode](http://www.jetbrains.com/objc)
+* [CLion](http://www.jetbrains.com/clion)
+
 ## Version Control
 
 ### CVS
