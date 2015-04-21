@@ -89,6 +89,8 @@ http://www.amazon.com/gp/kindle/pc/download
 >
 >If so, you can easily update your country for your Amazon account.
 
+贫贱不能移 <i class="fa fa-frown-o"></i>
+
 Kindle for PC 能阅读你在亚马逊商店中购买的电子书，但不能同步阅读你在 Kindle Paper White 中的自制、破解电子书。
 
 同步阅读只能在移动设备之间生效。
