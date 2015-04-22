@@ -55,7 +55,7 @@ function myFunction() {
 }
 ```
 
-Maybe Best:
+Maybe Best: <i class="fa fa-jsfiddle"></i> [JSFiddle](https://jsfiddle.net/rpbpkgu5/4/)
 
 ```javascript
 var myFunction = (function(){
@@ -67,7 +67,6 @@ var myFunction = (function(){
     };
 })();
 ```
-
 
 <i class="fa fa-stack-overflow"></i> [onclick javascript function needs to “turn on and off” div](http://stackoverflow.com/a/29735551/4766670)
 
