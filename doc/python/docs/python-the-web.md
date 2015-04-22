@@ -1,9 +1,6 @@
 # Python - Python and the Web
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
 
-## 二级标题一
+## Django
 
-## 二级标题二
-
-## 二级标题三
+[How To Tango With Django 1.7](http://www.tangowithdjango.com/book17/index.html)

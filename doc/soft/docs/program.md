@@ -465,8 +465,6 @@ Windows Registry Editor Version 5.00
 find . -type d -name ".svn"|xargs rm -rf
 ```
 
-
-
 ### Mercurial
 
 Powered by Atlassian.
@@ -751,12 +749,39 @@ StandardServer.await: create[8000]:
 
 ### Blog
 
+传统：
+
 * Wordpress
 * Sablog-X
 * Drupal
 * Joomla
 * Typecho
-* Octopress
+
+新式：
+
+* FarBox
+* Jekyll
+* Ghost
+* Marboo
+* Hexo
+* Medium
+* Logdown
+* Prose
+
+Cool:
+
+* Create content in markdown or textile.
+* Manage everything with git.
+* Publish from terminal.
+* No database.
+* No hosting headaches.
+
+Jekyll Guide:
+
+http://jekyllrb.com/docs/templates/
+
+
+[知乎讨论](http://www.zhihu.com/question/21981094)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 ### Note
 
