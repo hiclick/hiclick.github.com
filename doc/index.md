@@ -23,5 +23,5 @@ tagline: Keep Thinking, Keep Writing
 
 阮一峰：[ECMAScript 6 Primer](ecma/)
 
-试验室：[HTML 2 MarkDown](h2d.html)
+试验室：[HTML 2 MarkDown](/lab/tool/h2d.html)
 
