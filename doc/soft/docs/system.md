@@ -83,7 +83,27 @@ body {
 
 ## Reader
 
-* Adobe Digital Editions
+### Adobe Digital Editions
+
+Official Site: http://www.adobe.com/solutions/ebook/digital-editions.html
+
+* A richer reading experience with EPUB 3 support
+* Searching eBooks
+* Accessibility
+* Better visibility with Full Screen
+* Go Multi-lingual
+* Bookmarking, Highlights & Notes
+* Transfer of eBooks between Devices
+* Borrowing eBooks
+* File Organization of All eBooks
+* Printing
+* Multiple File formats
+
+<i class="fa fa-download"></i> Download Digital Edition 4.0.3 [_Macintosh (19.2MB)_](http://download.adobe.com/pub/adobe/digitaleditions/ADE_4.0_Installer.dmg)
+
+<i class="fa fa-download"></i> Download Digital Edition 4.0.3 [_Windows (7.7MB)_](http://download.adobe.com/pub/adobe/digitaleditions/ADE_4.0_Installer.exe)
+
+
 * Adobe Reader
 * Advanced PDF Password Recovery
 * Foxit Reader

@@ -1,8 +1,5 @@
 # JavaScript - DOM
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
-
-
 ## click
 
 ### Toggle an Element
@@ -55,7 +52,7 @@ function myFunction() {
 }
 ```
 
-Maybe Best: <i class="fa fa-jsfiddle"></i> [JSFiddle](https://jsfiddle.net/rpbpkgu5/4/)
+Maybe the Best: <i class="fa fa-jsfiddle"></i> [JSFiddle](https://jsfiddle.net/rpbpkgu5/4/)
 
 ```javascript
 var myFunction = (function(){
