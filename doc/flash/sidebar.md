@@ -19,6 +19,7 @@
 1. [Video](#docs/video)
 1. [Loading Assets](#docs/loading-assets)
 1. [XML](#docs/xml)
+1. [Flex](#docs/flex)
 1. [Libs](#docs/libs)
 
 ## 其他

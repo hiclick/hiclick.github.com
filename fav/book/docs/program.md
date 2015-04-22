@@ -29,9 +29,10 @@
 ## Programming Groovy: Dynamic Productivity for the Java Developer
 ## Groovy入门经典
 ## Java2核心技术卷Ⅱ：高级特性
-## JAVA2核心技术卷Ⅰ：基础知识
+## Java2核心技术卷Ⅰ：基础知识
 ## Spring2.0 技术手册
 ## JSP2.0 技术手册
 ## PHP 和 MySQL Web开发
 ## Tomcat 与 JavaWeb 开发技术详解
 ## 沸腾十五年：中国互联网1995-2009
+## 新浪之道：门户网站新闻频道的运营
