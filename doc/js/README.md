@@ -2,6 +2,11 @@
 
 阮一峰：[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference
+
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德

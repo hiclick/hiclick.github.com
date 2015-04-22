@@ -41,7 +41,7 @@
 1. [Overview](#docs/ext/overview)
 
 ### Mootools
-1. [Overview](#docs/mt-overview)
+1. [Overview](#docs/moo/overview)
 
 ### AngularJS
 1. [Overview](#docs/aj-overview)

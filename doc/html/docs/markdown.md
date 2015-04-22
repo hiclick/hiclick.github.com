@@ -1,19 +1,49 @@
 # HTML5 - Markdown
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+[Markdown](http://en.wikipedia.org/wiki/Markdown) is a markup language with plain text formatting syntax designed so that
+it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme
+files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-https://www.zybuluo.com/mdeditor
+Home page: http://daringfireball.net/projects/markdown/syntax
+
+Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
+
+## Syntax
+
+Markdown 语法说明：http://wowubuntu.com/markdown/
+
+Github Markdown Basics：https://help.github.com/articles/markdown-basics/
+
+Github Markdown Cheatsheet：https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+## Editor
+
+* MarkdownPad （Windows）
+* Mou (OS X)
+
+## Online Editor
 
 https://stackedit.io/editor
 
-http://www.zhihu.com/question/20409634
+https://github.com/benweet/stackedit
 
-----
+国内作品：
+
+http://tool.oschina.net/markdown
+
+https://www.zybuluo.com/mdeditor
+
+[怎样引导新手使用 Markdown？](http://www.zhihu.com/question/20409634)
+
+## Plugin
+
+* Thunderbird
+* Chrome
+* Intellij IDEA
 
 Markdown Here: http://markdown-here.com/get.html
 
-
-How to Install in Thunderbird
+**How to Install in Thunderbird**
 
 1. Download and save the file to your hard disk.
 1. In Mozilla Thunderbird, open Add-ons from the Tools menu.

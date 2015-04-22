@@ -778,7 +778,11 @@ Cool:
 
 Jekyll Guide:
 
-http://jekyllrb.com/docs/templates/
+* http://jekyllrb.com/docs/templates/
+* http://jekyllbootstrap.com/
+
+* http://joshualande.com/jekyll-github-pages-poole/
+* http://learn.andrewmunsell.com/learn/jekyll-by-example/tutorial
 
 
 [知乎讨论](http://www.zhihu.com/question/21981094)<sup><i class="fa fa-external-link fa-fw"></i></sup>

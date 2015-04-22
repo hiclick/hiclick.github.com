@@ -2,6 +2,10 @@
 
 参考：SitePoint HTML5 & CSS3 for the Real World 2nd Edition
 
+Useful Resources:
+
+http://www.w3schools.com/
+
 **浣溪沙·当时只道是寻常**
 
 清·纳兰性德
