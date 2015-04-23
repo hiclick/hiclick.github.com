@@ -1,5 +1,7 @@
 # JavaScript - DOM
 
+API: http://chenzixin.com/static/docs/jsdom/ <sup><i class="fa fa-external-link fa-fw"></i></sup>
+
 ## click
 
 ### Toggle an Element
