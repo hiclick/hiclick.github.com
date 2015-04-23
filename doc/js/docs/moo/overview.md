@@ -1,12 +1,17 @@
 # Mootools - Overview
 
-Home:
+<i class="fa fa-home fa-2x"></i>
 
 http://mootools.net/
 
 https://github.com/mootools/mootools-core
 
 https://github.com/mootools/mootools-more
+
+```markup
+<script type="text/javascript" src="http://cdn.bootcss.com/mootools/1.5.1/mootools-core-full-compat.min.js"></script>
+<script type="text/javascript" src="http://cdn.bootcss.com/mootools-more/1.5.1/mootools-more-full-compat.js"></script>
+```
 
 
 Learn:
