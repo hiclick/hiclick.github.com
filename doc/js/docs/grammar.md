@@ -178,5 +178,7 @@ _.unescape("&lt;h3&gt;test&lt;/h3&gt;")
 
 也可用 Sublime Text 或者  Intellij IDEA 替换，然后选择高亮工具。
 
+不过用 SyntaxHighlighter 高亮代码，不用完全转义，我之前测试的时候，只转义`左括号`，今天发现官方的例子，亦是如此。
+
 <i class="fa fa-stack-overflow"></i> [Difference between Url Encode and HTML encode](http://stackoverflow.com/a/1812486/4766670)
 

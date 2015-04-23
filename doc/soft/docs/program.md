@@ -527,7 +527,34 @@ $ hg commit -m 'Initial commit'
 * [Pygments](http://pygments.org/languages/)
 * [Prism](http://prismjs.com/examples.html)
 
-SyntaxHighlighter高亮HTML不需要转义 <i class="fa fa-thumbs-o-up"></i> :
+~~SyntaxHighlighter高亮HTML不需要转义 <i class="fa fa-thumbs-o-up"></i> :~~
+
+
+[SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/manual/upgrading.html)<sup><i class="fa fa-external-link fa-fw"></i></sup>高亮HTML代码，经不完全测试，如果没有`<html>`标签，是不用转义的，为了安全，还是统一转义为佳。WordPress插件之所以
+不用转义，可能是插件内部处理过。听[4what](http://www.4what.cn/sample/css/iframe-transparent-bg.html)<sup><i class="fa fa-external-link fa-fw"></i></sup>说，1.5 + shLegacy.js + textarea ，可不转义，但是还是太麻烦。
+
+推荐方法：只转义左扩号，用编辑器的 查找 + 替换 即可。
+
+用例：
+
+HTML:
+
+```markup
+<pre  class="highlight: [1,21]; brush:html">
+&lt;!doctype html>
+&lt;html lang="en">
+&lt;head>
+    &lt;meta charset="UTF-8">
+    &lt;title>Document&lt;/title>
+&lt;/head>
+&lt;body>
+Sorry this page does not exist =(
+&lt;/body>
+&lt;/html>
+</pre>
+```
+
+JavaScript:
 
 ```markup
 <!-- Core JS -->
@@ -581,49 +608,6 @@ Prism 用例：
 <link rel="stylesheet" href="/assets/css/prism.css">
 <script src="/assets/js/prism.js"></script>
 
-<style type="text/css">
-    pre {
-        width: 800px;
-    }
-</style>
-
-<h2>Prism: Highlight Lab</h2>
-
-<hr>
-
-<pre>
-
-<code class="language-python">
-    #!/usr/bin/python
-    # -*- coding: utf-8 -*-
-
-    from datetime import date
-    import os
-    import re
-    import sys
-
-    u_title = raw_input("Please ENTER the Title:\n")
-    p_title = re.sub(r'\s+', '-', u_title.strip())
-
-    # check len
-    if len(p_title) < 2:
-    # raise Exception('Too Short!')
-    sys.exit('Too Short!')
-
-    # post
-    rakecmd = "rake post title=" + "'" + p_title + "'"
-    os.popen(rakecmd)
-
-    # print
-    now = date.today()
-    p_date = now.strftime("%Y-%m-%d")
-
-    # info
-    print 'File has been Created:\n' './_posts/'+ p_date + '-' + p_title.lower() + '.md'
-    print 'Done...'
-</code>
-</pre>
-
 <pre>
 <code class="language-markup">
     &lt;!doctype html>
@@ -646,13 +630,6 @@ Prism 用例：
     Array.from(ps).forEach(function (p) {
         console.log(p);
     });
-</code>
-</pre>
-
-<pre>
-<code class="language-actionscript">
-    var shad:DropShadowFilter = new DropShadowFilter(2, 45, 0x000000, 25, 3, 3, 2, 2);
-    var txt:TextField = new TextField();
 </code>
 </pre>
 

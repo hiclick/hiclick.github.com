@@ -32,8 +32,6 @@
 1. [Effects](#docs/jquery/effects)
 1. [UI](#docs/jquery/ui)
 
-
-
 ### Node
 1. [Overview](#docs/node/overview)
 
