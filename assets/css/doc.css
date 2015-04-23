@@ -434,6 +434,7 @@ p code, li code {
     padding: 1px 5px 1px 5px;
 }
 
+/**
 #content blockquote {
     border-left: 2px solid #6ce26c;
     color: #888;
@@ -447,9 +448,29 @@ p code, li code {
     text-align: justify;
     text-justify: inter-ideograph;
 }
+*/
 
 #content iframe {
     margin-left: -10px;
     margin-top: 10px;
     margin-bottom: -10px;
+}
+
+hr {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+#content blockquote {
+    background: #FAFAFA;
+    border-left: 4px solid #D6D6D6;
+    border-right: 4px solid #D6D6D6;
+    border-radius: 14px;
+    margin-bottom: 24px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 8px;
+    font-style: italic;
 }

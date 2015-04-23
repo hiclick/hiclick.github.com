@@ -325,7 +325,7 @@ control. And rightly so. CVS itself is free software, and its non-restrictive mo
 operation – which allow dozens of geographically dispersed programmers to share their work – fits the collaborative nature
 of the open-source world very well. CVS and its semi-chaotic development model have become cornerstones of open-source.
 
-— Collins-Sussman, Version Control with Subversion For Subversion 1.1, 2005
+>— Collins-Sussman, Version Control with Subversion For Subversion 1.1, 2005
 
 * CVS不支持文件的复制和重命名
 * 没有原子性提交（Atomic commit）
@@ -610,34 +610,34 @@ Prism 用例：
 
 <pre>
 <code class="language-markup">
-    &lt;!doctype html>
-    &lt;html lang="en">
-    &lt;head>
-        &lt;meta charset="UTF-8">
-        &lt;title>Document&lt;/title>
-    &lt;/head>
-    &lt;body>
-    Sorry this page does not exist =(
-    &lt;/body>
-    &lt;/html>
+&lt;!doctype html>
+&lt;html lang="en">
+&lt;head>
+    &lt;meta charset="UTF-8">
+    &lt;title>Document&lt;/title>
+&lt;/head>
+&lt;body>
+Sorry this page does not exist =(
+&lt;/body>
+&lt;/html>
 </code>
 </pre>
 
 <pre>
 <code class="language-javascript">
-    let ps = document.querySelectorAll('p');
+let ps = document.querySelectorAll('p');
 
-    Array.from(ps).forEach(function (p) {
-        console.log(p);
-    });
+Array.from(ps).forEach(function (p) {
+    console.log(p);
+});
 </code>
 </pre>
 
 <pre>
 <code class="language-bash">
-    $ source nvm.sh
-    $ nvm use 0.12
-    $ node --harmony
+$ source nvm.sh
+$ nvm use 0.12
+$ node --harmony
 </code>
 </pre>
 ```

@@ -1,6 +1,8 @@
 # Flash - Flex
 
-Official Website: http://flex.apache.org/index.html
+<i class="fa fa-home fa-2x"></i> 
+
+http://flex.apache.org/index.html
 
 http://flex.apache.org/about-whatis.html
 
@@ -14,9 +16,9 @@ OR you can compile it with Adobe AIR to make native applications on Windows, Mac
 
 ## Download
 
-http://flex.apache.org/download-binaries.html
+<i class="fa fa-download"></i> http://flex.apache.org/download-binaries.html
 
-http://mirrors.hust.edu.cn/apache/flex/
+<i class="fa fa-university"></i> http://mirrors.hust.edu.cn/apache/flex/
 
 **Current Release (4.14.1)**
 
@@ -62,4 +64,4 @@ MD5：
 
 Docs:
 
-http://mirrors.hust.edu.cn/apache/flex/4.14.0/docs/
+<i class="fa fa-book"></i> http://mirrors.hust.edu.cn/apache/flex/4.14.0/docs/

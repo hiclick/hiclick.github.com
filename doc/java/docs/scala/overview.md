@@ -2,9 +2,9 @@
 
 Scala 势头很好，风光远盛 Groovy。
 
-http://www.scala-lang.org/download/ <sup><i class="fa fa-external-link fa-fw"></i></sup>
+<i class="fa fa-download"></i> http://www.scala-lang.org/download/ <sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-http://plugins.jetbrains.com/plugin/1347?pr=idea <sup><i class="fa fa-external-link fa-fw"></i></sup>
+<i class="fa fa-plug"></i> http://plugins.jetbrains.com/plugin/1347?pr=idea <sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 ## 源起
 
@@ -125,7 +125,7 @@ object Hello {
 
 ### Play
 
-Play 2.3.8
+[Play 2.3.8](https://www.playframework.com/) <sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 including Activator 1.3.2
 
@@ -143,4 +143,3 @@ $  play  play
 
 play! 2.0.4, http://www.playframework.org
 ```
-
