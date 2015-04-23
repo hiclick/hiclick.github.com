@@ -390,6 +390,14 @@ Alexa 全球排名 414 的网站。
 
 [GitHub Pages: Websites for you and your projects](https://pages.github.com/)
 
+搭建网站，如果用master分支，仓库必须起名叫`USERNAME.github.io`，访问页面为：
+
+http://username.github.io
+
+如果你想自定义名字，也可以，不过只能用`gh-pages`分支，比如你的`blog`仓库的`gh-pages`分支是博客内容，则访问页面为：
+
+http://username.github.io/blog/
+
 ### Subversion
 
 Subversion is an open source version control system. Founded in 2000 by CollabNet, Inc., the Subversion project and
