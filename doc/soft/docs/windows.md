@@ -24,6 +24,24 @@ C:\Users\Username\AppData\Roaming\VDiskSyn
 
 目录。
 
+## 程序 功能
+
+### Telnet
+
+Windows 7 / 8 默认关闭了 Telnet 的功能，打开方法：
+
+```java
+Control Panel\All Control Panel Items\Programs and Features
+```
+
+左侧菜单：`Turn Windows features on or off`，打开 Telnet 即可，分 Sever 和 Client。
+ 
+添加成功之后，通过 cmd.exe 或者 powershell.exe 都可以使用。但遭遇一个意外：
+
+在 4what 的机器上，通过 运行 cmd.exe 使用 Telnet 没问题，但通过 Total Commander 工具栏启动 cmd.exe，仍提示：
+
+>‘telnet' 不是内部或外部命令，也不是可运行的程序或批处理文件。
+
 ## 批处理
 
 批处理文件，在DOS和Windows系统中，.bat 文件是可执行文件，由一系列命令构成，其中可以包含对其他程序的调用。这个文件的每一行都是一条DOS命令。
