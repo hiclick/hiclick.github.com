@@ -38,7 +38,7 @@ Control Panel\All Control Panel Items\Programs and Features
  
 添加成功之后，通过 cmd.exe 或者 powershell.exe 都可以使用。但遭遇一个意外：
 
-在 4what 的机器上，通过 运行 cmd.exe 使用 Telnet 没问题，但通过 Total Commander 工具栏启动 cmd.exe，仍提示：
+在 4what 的机器上，通过 运行 <i class="fa fa-arrow-circle-right"></i> cmd.exe 使用 Telnet 没问题，但通过 Total Commander 工具栏 <i class="fa fa-arrow-circle-right"></i> cmd.exe，仍提示：
 
 >‘telnet' 不是内部或外部命令，也不是可运行的程序或批处理文件。
 
