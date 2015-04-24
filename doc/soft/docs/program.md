@@ -442,6 +442,14 @@ svn up
 # svn delete PATH -m "delete test fle" (简写：svn del/remove/rm)
 svn delete test.txt
 
+$ svn mv install.php.bak.php install.php         
+A         install.php
+D         install.php.bak.php
+$  1  svn ci -m "date install file"
+Adding         install.php
+Deleting       install.php.bak.php
+Committed revision 12.
+
 svn log PATH
 svn info PATH
 svn diff PATH (简写：svn di)

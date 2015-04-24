@@ -13,6 +13,35 @@ brew --help
 brew install nginx
 ```
 
+### zsh
+
+<i class="fa fa-question fa-2x"></i> Mac OS X 打开终端后不执行`.bash_profile`文件
+
+需要每次打开都执行一次`source ~/.bash_profile`真是麻烦，有别的办法吗？
+
+终端 zsh
+
+临时解决方案：
+
+如果你的默认shell是bash ，那么把
+
+```bash
+. ~/.bash_profile
+```
+
+追加到 `~/.bashrc` 末尾，bash开启时会自动执行`.bashrc`这个文件
+
+如果是其他的 比如 zsh， 那么追加到 `~/.zshrc` 末尾
+
+其他类推
+
+但：
+
+[SegmentFault leohacker](http://segmentfault.com/q/1010000002413991/a-1020000002414549)：
+
+不可取的。`.profile`文件和`.bashrc`文件的用意就是在不同的时刻触发，profile文件的作用是针对整个账号而言的设置，rc文件是针对一次shell的启动有效。
+将你需要每次启动的东西放在 bashrc / zshrc中就可以了。现在一般profile文件中不放什么设置。
+
 ### Shell
 
 http://vbird.dic.ksu.edu.tw/
