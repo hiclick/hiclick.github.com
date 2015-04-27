@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <title>All about chicken</title>
     <link href="css/reset.css" rel="stylesheet" />
-    
+    <meta name="author" content="Aditya Bhargava">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -15,7 +15,7 @@
 <script>hljs.initHighlightingOnLoad();</script>
 
     <link href="css/style.css" rel="stylesheet" />
-<link href='http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,800italic,300,400,800' rel='stylesheet' type='text/css'>    
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,800italic,300,400,800' rel='stylesheet' type='text/css'>    
 
 
   </head>
@@ -28,32 +28,31 @@
     <div id="impress">
     <div class='step' >
     
-<h1>Here&#39;s Ruby code!</h1>
-<pre><code class='prettyprint '>def fib x
-  return x if x &lt; 2
-  fib(x - 1) + fib(x - 2)
-end
+<h1>Just because</h1>
+
+<h2>my middle name</h2>
+
+<p>is <strong>Pancake</strong>,</p>
+
+<blockquote>
+<p>doesn&#39;t mean you can put syrup on me before I&#39;m ready to come out of the oven.</p>
+</blockquote>
+<pre><code class='prettyprint '>mdpress++
 </code></pre></div>
-      <div class='step' >
+      <div class='step'  data-x='1000'>
     
-<h1>Here&#39;s Java code!</h1>
-<pre><code class='prettyprint java'>/**
- *  Create a new array of doubles that is a copy of 
- *  a given array.
- *  @param source the array that is to be copied; the 
- *  value can be null
- *  @return a copy of source; if source is null, then 
- *  the return value is also null
- */
-public static double[]  copy( double[] source ) {
-    if ( source == null )
-       return null;
-    double[]  cpy;  // A copy of the source array.
-    cpy = new double[source.length];
-    System.arraycopy( source, 0, cpy, 0, source.length );
-    return cpy;
-}
-</code></pre>
+<h1>Let&#39;s Make Lists!</h1>
+
+<ol>
+<li>Chicken</li>
+<li><em>Emphasized Chicken</em></li>
+<li><a href="http://github.com/egonschiele/mdpress">Chicken Link</a></li>
+</ol>
+
+<ul>
+<li>unordered <code class='inline prettyprint'>chicken = 1</code></li>
+</ul>
+
       </div>
     <script src="js/impress.js"></script>
     <script>impress().init();</script>

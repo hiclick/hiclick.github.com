@@ -10,12 +10,11 @@ body {
 
 body {
 	min-height: 740px;
-	color:#fff;
-    background: linear-gradient(top,  #000 0%,#636172 100%); 
-    background: -moz-linear-gradient(top, #000 0%, #636172 100%);
-    background: -webkit-linear-gradient(top,  #000 0%,#636172 100%);
-    background: -ms-linear-gradient(top, rgb(0, 0, 0), rgb(99, 97, 116));
-    background: -o-linear-gradient(top, rgb(0, 0, 0), rgb(99, 97, 116));
+	background: -moz-radial-gradient(50% 50%, farthest-side, #fff, #efefef);
+	background: -webkit-gradient(radial, 50% 50%, 250, 50% 50%, 750, from(#fff), to(#efefef));
+	background: -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+	background: -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+	background: radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
 	pointer-events: none;	/* Fix Body Click */
 }
 
