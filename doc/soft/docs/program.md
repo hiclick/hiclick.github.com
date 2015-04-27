@@ -361,7 +361,9 @@ git remote add origin git@github.com:chenzixin/PyKite.git
 git push -u origin master
 ```
 
-GitHub
+### GitHub
+
+#### Summary
 
 GitHub是一家公司，位于旧金山，由 Chris Wanstrath, PJ Hyett 与 Tom Preston-Werner 三位开发者在 2008 年 4 月创办。迄今拥有 59 名全职
 员工，主要提供基于 git 的版本托管服务。
@@ -397,6 +399,38 @@ http://username.github.io
 如果你想自定义名字，也可以，不过只能用`gh-pages`分支，比如你的`blog`仓库的`gh-pages`分支是博客内容，则访问页面为：
 
 http://username.github.io/blog/
+
+#### Client
+
+我在用 GitHub for Mac 提交代码的时候，登录用户是 chenzixin，但是代码提交记录里，我的名字却链向了另外一个 GitHub 账号，我怀疑过是我的
+Mac 环境问题，再或者就是我的账号设置问题。
+
+```bash
+update
+jsoops authored 6 hours ago
+```
+
+对应的HTML代码：
+
+```markup
+<a href="/hiclick/hiclick.github.com/commits/master?author=jsoops" aria-label="View all commits by chenzixin"
+   class="commit-author tooltipped tooltipped-s" rel="contributor">jsoops</a>
+authored
+<time datetime="2015-04-27T02:30:04Z" is="relative-time" title="2015年4月27日 上午10:30 格林尼治标准时间+0800">6 hours ago</time>
+```
+
+今天在台式机Windows8上测试代码提交，签名没错，于是确认是本地环境的问题，既有了方向，查找问题就简单多了，解决解决：
+
+```bash
+cat ~/.gitconfig
+
+[user]
+	email = 84856@163.com # 这个是我 jsoops 账号的主邮件
+	name = chenzixin
+```
+
+修正即可。
+
 
 ### Subversion
 

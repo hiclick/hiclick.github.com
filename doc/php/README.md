@@ -1,5 +1,28 @@
 # PHP
 
+突然想起，我和PHP其实大有渊源。
+
+2007年3月，我在给领导的一封周结中，提到我在自学PHP，希望通过简单的编程，提升北京技术支持的力度和效果。
+
+丛生知道后，转告我，公司的方向是Java，如果你愿意学习Java，可以到上海贵堂的团队参加培训。
+
+于是，才有我现在的工作。
+
+我现在还保存着当时购买的PHP大部头书：
+
+《Addison-Wesley - PHP and MySQL Web Development 3th Edition》 中文版。
+
+今天，4what 问我，有没有 PHP 的面试题？我发给他三本电子书：
+
+* Sams Teach Yourself PHP, MySQL and Apache All in One, 5th Edition
+* PHP Cookbook
+* Plug-In PHP 100 Power Solutions
+
+英文的，顺便可以考考应聘者的英文水平，如果不太在乎这个素质，可将题干翻译为中文，关键是这类书，有问题，有代码解决方案，足够测试。
+
+2015年4月27日
+
+***
 
 **浣溪沙·当时只道是寻常**
 
