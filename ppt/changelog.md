@@ -8,17 +8,17 @@
   
   附报错代码：
 
-```
-➜  Grails  mdpress -l
-deckjs
-default
-impress
-obtvse
-➜  Grails  mdpress code.md 
-/Users/Christen/.rvm/gems/ruby-1.9.3-p392/gems/mdpress-0.0.18/bin/mdpress:90:in `render': private method `render' called for #<RedcarpetCompat:0x007fc5139c3990> (NoMethodError)
-from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/gems/mdpress-0.0.18/bin/mdpress:160:in `<top (required)>'
-from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/mdpress:19:in `load'
-from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/mdpress:19:in `<main>'
-from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/ruby_noexec_wrapper:14:in `eval'
-from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/ruby_noexec_wrapper:14:in `<main>'
-```
+  ```
+  ➜  Grails  mdpress -l
+  deckjs
+  default
+  impress
+  obtvse
+  ➜  Grails  mdpress code.md 
+  /Users/Christen/.rvm/gems/ruby-1.9.3-p392/gems/mdpress-0.0.18/bin/mdpress:90:in `render': private method `render' called for #  <RedcarpetCompat:0x007fc5139c3990> (NoMethodError)
+  from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/gems/mdpress-0.0.18/bin/mdpress:160:in `<top (required)>'
+  from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/mdpress:19:in `load'
+  from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/mdpress:19:in `<main>'
+  from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/ruby_noexec_wrapper:14:in `eval'
+  from /Users/Christen/.rvm/gems/ruby-1.9.3-p392/bin/ruby_noexec_wrapper:14:in `<main>'
+  ```
