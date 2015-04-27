@@ -1,5 +1,8 @@
 # Python - re
 
+
+JGsoft.RegexBuddy.v3.5.0.Retail-ZWT
+
 This module provides regular expression matching operations similar to those found in Perl. Both patterns and strings to be searched can be Unicode strings as well as 8-bit strings.
 
 docs: 2.7.3-docs/library/re.html

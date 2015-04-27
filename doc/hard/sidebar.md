@@ -33,9 +33,11 @@
 ### 移动
 1. [iPhone](#docs/iphone)
 1. [iPad](#docs/ipad)
+1. [iPod](#docs/ipod)
 1. [Kindle](#docs/kindle)
 1. [Surface](#docs/surface)
 1. [Recorder](#docs/recorder)
+1. [Walkman](#docs/walkman)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
