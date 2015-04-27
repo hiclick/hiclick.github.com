@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link href="css/reset.css" rel="stylesheet" />
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="shortcut icon" href="css/favicon.png" />
+    <link rel="apple-touch-icon" href="css/apple-touch-icon.png" />
+    <!-- Code Prettifier: -->
+<link href="css/highlight.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+    <link href="css/style.css" rel="stylesheet" />
+<link href='http://fonts.useso.com/css?family=Open+Sans:300italic,400italic,800italic,300,400,800' rel='stylesheet' type='text/css'>    
+
+
+  </head>
+
+  <body>
+  <div class="fallback-message">
+  <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+  <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+  </div>
+    <div id="impress">
+    <div class='step' >
+    
+<h1>Here&#39;s Ruby code!</h1>
+<pre><code class='prettyprint '>def fib x
+  return x if x &lt; 2
+  fib(x - 1) + fib(x - 2)
+end
+</code></pre></div>
+      <div class='step' >
+    
+<h1>Here&#39;s Java code!</h1>
+<pre><code class='prettyprint java'>/**
+ *  Create a new array of doubles that is a copy of 
+ *  a given array.
+ *  @param source the array that is to be copied; the 
+ *  value can be null
+ *  @return a copy of source; if source is null, then 
+ *  the return value is also null
+ */
+public static double[]  copy( double[] source ) {
+    if ( source == null )
+       return null;
+    double[]  cpy;  // A copy of the source array.
+    cpy = new double[source.length];
+    System.arraycopy( source, 0, cpy, 0, source.length );
+    return cpy;
+}
+</code></pre>
+      </div>
+    <script src="js/impress.js"></script>
+    <script>impress().init();</script>
+  </body>
+</html>
+    
