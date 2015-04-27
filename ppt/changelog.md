@@ -4,7 +4,7 @@
   今天把 mdpress 拷到 Note 项目，本意是展示汪国真的诗歌，但发现问题：
   * 似乎只能在`mdpress`目录中运行，其它目录会报错
   * `highlight_styles`里的样式，也未引用，删除之后发布页面，可以正常浏览内容
-  * 
+
   ```
   ➜  Grails  mdpress -l
   deckjs
