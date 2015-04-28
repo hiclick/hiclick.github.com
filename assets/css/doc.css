@@ -391,7 +391,7 @@ kbd {
   color: #666;
 }
 
-table.dataintable {
+table.dataintable, table.confluenceTable {
     margin-top: 10px;
     border-collapse: collapse;
     border: 1px solid #aaa;
@@ -404,7 +404,7 @@ tr {
     border-color: inherit;
 }
 
-table.dataintable th {
+table.dataintable th, table.confluenceTable th{
     vertical-align: baseline;
     padding: 5px 15px 5px 6px;
     background-color: #d5d5d5;
@@ -412,7 +412,7 @@ table.dataintable th {
     text-align: left;
 }
 
-table.dataintable td {
+table.dataintable td, table.confluenceTable td{
     vertical-align: text-top;
     padding: 6px;
     /*background-color: #efefef;*/
