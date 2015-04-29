@@ -7,7 +7,7 @@
 ## 目录
 1. [序言](#README)
 1. [摇号](#docs/lottery)
-1. [知识](#docs/knowledge)
+1. [功课](#docs/knowledge)
 1. [选车](#docs/select)
 1. [驾驶](#docs/drive)
 1. [保养](#docs/maintenance)
