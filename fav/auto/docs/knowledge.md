@@ -9,11 +9,13 @@
 
 ***
 
-本轮功课，是买车之前必修。课程内容来自网络，重点围绕 [A3 / CLA 220 4MATIC / ATS-L](http://car.autohome.com.cn/duibi/chexing/carids=18513,21579,19862)。
-
+本轮功课，是买车之前必修。课程内容来自网络，重点围绕 [A3 / ~~CLA 220 4MATIC~~ / Q3 / ATS-L](http://car.autohome.com.cn/duibi/chexing/carids=18513,19464,19862,0)。
+ 
 奥迪A3进口 2014款 Limousine 40 TFSI S line 豪华型 <i class="fa fa-arrow-circle-right"></i> A 厂商指导价：33.43万
 
-奔驰CLA级 2015款 CLA 220 4MATIC <i class="fa fa-arrow-circle-right"></i> B 厂商指导价：31.80万
+~~奔驰CLA级 2015款 CLA 220 4MATIC <i class="fa fa-arrow-circle-right"></i> B 厂商指导价：31.80万~~
+
+2015款 35 TFSI quattro 豪华型 <i class="fa fa-arrow-circle-right"></i> Q 厂商指导价：39.68万
 
 凯迪拉克ATS-L 2014款 28T 豪华型  <i class="fa fa-arrow-circle-right"></i> C 厂商指导价：37.88万
 
@@ -32,7 +34,8 @@
 喜欢全景天窗
 
 * A：</i><i class="fa fa-frown-o"></i>
-* B：<i class="fa fa-smile-o"></i>
+* ~~B：<i class="fa fa-smile-o"></i>~~
+* Q：<i class="fa fa-smile-o"></i>
 * C：<i class="fa fa-frown-o"></i>
 
 有天窗就有机会漏水，这个要注意。
@@ -186,8 +189,9 @@
 ### 车身结构
 
 * A：4466\*1796\*1404(-218 ~ +019 ~ -019)	
-* B：4684\*1777\*1423(+000 ~ +000 ~ +000)
+* ~~B：4684\*1777\*1423(+000 ~ +000 ~ +000)~~
 * C：4730\*1824\*1421(+046 ~ +047 ~ -002)
+* Q: 4385\*1831\*1589
 
 爷爷在世的时候曾经说过，两头抹的车是好车，一般平的车则是普通的车。在老人的眼中，轿车才是上档次的，班车一般都不太好，只是他当时应该还没有
 见过两厢车，SUV等等，但多半也没有对两头抹的三厢车印象好。
