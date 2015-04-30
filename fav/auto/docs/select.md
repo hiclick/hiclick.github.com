@@ -186,30 +186,30 @@
 
 ## 奔驰
 
-[车家进口奔驰 B200](http://www.autohome.com.cn/398/#levelsource=000000000_0&pvareaid=101594)
+[车家 奔驰进口-奔驰CLA级](http://www.autohome.com.cn/2966/)
 
-奔驰B级竞品口碑排行第3名
+奔驰CLA级竞品口碑排行第5名
 
 <table class="confluenceTable"><tbody>
 <tr>
-<td>宝马2系</td>
-<td> 4.63分</td>
+<td>凯迪拉克ATS-L</td>
+<td>4.57分</td>
 </tr>
 <tr>
-<td>奥迪A3 </td>
-<td> 4.56分</td>
+<td>奔驰C级 </td>
+<td>4.56分</td>
 </tr>
 <tr>
-<td>奔驰B级 </td>
-<td> 4.55分</td>
+<td>奥迪A4L </td>
+<td>4.50分</td>
 </tr>
 <tr>
-<td>奔驰GLA </td>
-<td>4.52分</td>
+<td>宝马3系 </td>
+<td>4.36分</td>
 </tr>
 <tr>
-<td>奔驰A级 </td>
-<td>4.21分</td>
+<td>奔驰CLA级 </td>
+<td>4.35分</td>
 </tr>
 </tbody></table>
 
@@ -218,63 +218,87 @@
 <table class="confluenceTable"><tbody>
 <tr>
 <td>空间</td>
-<td>4.80分</td>
-<td>   第1名</td>
+<td>	3.91分</td>
+<td>	第5名</td>
 </tr>
 <tr>
 <td>动力</td>
-<td>4.43分</td>
-<td>   第4名</td>
+<td>	3.89分</td>
+<td>	第5名</td>
 </tr>
 <tr>
 <td>操控</td>
-<td>4.58分</td>
-<td>   第4名</td>
+<td>	4.61分</td>
+<td>	第4名</td>
 </tr>
 <tr>
 <td>油耗</td>
-<td>4.53分</td>
-<td>   第2名</td>
+<td>	4.09分</td>
+<td>	第4名</td>
 </tr>
 <tr>
 <td>舒适性</td>
-<td>   3.99分</td>
-<td>   第4名</td>
+<td>	3.94分</td>
+<td>	第4名</td>
 </tr>
 <tr>
 <td>外观</td>
-<td>4.77分</td>
-<td>   第5名</td>
+<td>	5.00分</td>
+<td>	第1名</td>
 </tr>
 <tr>
 <td>内饰</td>
-<td>4.89分</td>
-<td>   第2名</td>
+<td>	4.56分</td>
+<td>	第4名</td>
 </tr>
 <tr>
 <td>性价比</td>
-<td>   4.40分</td>
-<td>   第3名</td>
+<td>	4.82分</td>
+<td>	第1名</td>
 </tr>
 </tbody></table>
 
-### 2015款 B 200 豪华型
+更快捷的管理Confluence样式：
 
-* 车身尺寸：4398\*1786\*1558
-* 综合油耗：6.6L/100km
-* 车身结构：5门5座两厢车
-* 驱动方式：前置前驱
+```javascript
+jQuery(".confluenceTable").find("td").removeClass("confluenceTd") //so...so...
+jQuery(".confluenceTable").find("td").removeAttr("class") // Good!
+```
+
+### 2015款 CLA 220 4MATIC
+
+* 口碑评分：4.25分
+* 车主油耗：11.6L/100km
+* 车身尺寸：4684\*1777\*1423
+* 车身结构：4门5座三厢车
+* 驱动方式：前置四驱
 * 整车质保：三年不限公里
-* 发 动 机：1.6T 156马力 L4
+* 发 动 机：2.0T 184马力 L4
 * 变 速 箱：7挡双离合
 
 官方网站，都不知如何查找经销商：（
 
-奔驰B系列，只有两厢版，我们都只喜欢三厢，Pass。
+不相信北汽奔驰的品质，进口奔驰，能买得起的只有 A级，B级，GLA 200，但前两个系列都只有两厢车，GLA比宝马X1还要小，不考虑。
 
-北京奔驰的C系列，虽然也能勉力购得，但是对国产奔驰的品质还是有怀疑。
+CLA 系列，拥有：
 
-暂定不考虑奔驰，真正力有不逮。
+* 适时四驱
+* 全景天窗
+* [防爆轮胎](http://car.autohome.com.cn/shuyu/detail_16_17_424.html)
+* [怀挡设计](http://www.autohome.com.cn/tech/201406/810340.html)
+* 流线车身
+
+以我目前对汽车的了解，最称心意。
+
+奔驰的标志，我通常能看到三种：
+
+* 立标
+* 大标
+* 钻石中网
+
+我个人偏爱 大标，但是现在这种钻石中网越来越受追捧。
+
+但是：购车部分车型可能加价4.00万：（
 
 ### 4S店
 
@@ -299,7 +323,10 @@
 
 地址： 北京市东城区广渠门内大街88号奔驰展厅
 
+乖车： 2路，在 沙滩路口南站 下车，步行至 鹏龙星徽崇文门 1.5公里 全程约1小时10分钟
+
 销售热线：010-5782 6700
+
 营业时间：8:30-20:30
 
 
@@ -313,7 +340,9 @@
 
 鹏龙大道奔驰**3S店**（No Survey）位于南三环玉泉营桥西南角，该项目总投资1亿元人民币，总建筑面积约2万平米，是目前全国规模最大的奔驰3S店之一。
 
-乘坐 300快内 (或 300内 / 678路)，在 玉泉营桥西站 下车
+乘坐 300快内 (或 300内 / 678路)，在 玉泉营桥西站 下车 全程约30分钟
+
+其它车辆： 运通103线，839路，973路，998路，820路，988路，896路，特8内，678路
 
 #### [百得利之星奔驰](http://www.bjbetterlife.mercedes-benz.com.cn/content/china/retail-abc/bjbetterlife/zh/desktop/passenger-cars.html)
 
