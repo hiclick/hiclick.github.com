@@ -91,6 +91,10 @@ Shiraz Red
 
 对新手而言，直行一般都不会有问题，重点注意的是拐弯儿。
 
+**盲区**
+
+[A柱盲区](http://club.autohome.com.cn/bbs/thread-c-633-25206668-1.html#8) <sup><i class="fa fa-external-link fa-fw"></i></sup>
+
 ### 第二天
 
 今天在沙子口起步，没有问师傅的姓名，印象很好，特别是教会了我三样终身受用的技巧。
