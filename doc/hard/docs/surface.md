@@ -8,6 +8,8 @@ Q：Surface Pro 如何关闭 Fn + F1 组合键，恢复 F1 ~ F12 为 Windows 默
 
 A：按 Fn + Caps 就可以开闭这个选项。
 
+***
+
 Q：How to add a printer?
 
 A：Follow the instructions:
@@ -19,3 +21,9 @@ A：Follow the instructions:
 1. Device Type: TCP/IP Device
 1. Hostname or IP address: 192.168.99.173
 1. Next...
+
+系统能识别打印机型号：HP Officejet 6500 E709a Series
+
+安装成功之后，会提示我们测试打印。
+
+已知：Windows 8 / Mac 安装该款打印机，不需要驱动程序包，直接网络安装即可。
