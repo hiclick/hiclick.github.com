@@ -369,6 +369,12 @@ NEW NET NBA NPC NFS NCD NUT
 
 不得不吐槽一下车管所的系统，你已经成功击败12306：推荐我使用IE6浏览器进行操作。
 
+最后一步是打印申请表，SFP 默认打印成 [XPS](http://zh.wikipedia.org/wiki/XML%E7%BA%B8%E5%BC%A0%E8%A7%84%E8%8C%83)<sup><i class="fa fa-external-link fa-fw"></i></sup> 文件。
+
+XPS是XML Paper Specification的简称，它是微软公司开发的一种文档保存与查看的规范。人们认为XPS是Adobe公司的[PDF](http://zh.wikipedia.org/wiki/%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F)<sup><i class="fa fa-external-link fa-fw"></i></sup>。但是，
+XPS是一个静态文档格式，其本身不包括类似于PDF所具有的[动态特性](http://jingyan.baidu.com/season/45752)<sup><i class="fa fa-external-link fa-fw"></i></sup>。XPS文档实际上是一个包含组成文档的各个文档的ZIP文档。这些文档包括每页的XML置标文档、
+嵌入的图像与字体以及数字版权管理信息。
+
 ### 提车
 
 #### 专业版
