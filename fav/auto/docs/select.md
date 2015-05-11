@@ -347,6 +347,28 @@ NEW NET NBA NPC NFS NCD NUT
 * 暂住证/居住证号
 * 邮寄地址 邮编
 
+选号的过程颇为心塞，周六因为没有记下暂住证号，不敢真的点确定，万一被恭喜了，要等五天才能再选。试了半个小时，辛苦编了一个周的号，几乎全部被占用。
+
+这个号可能将伴随我十几年，甚至更长的时间，晚上也睡不安稳，五点起来继续编，却发现系统挂了：
+
+> Internal Server Error
+  
+>  The server encountered an internal error or misconfiguration and was unable to complete your request.
+  
+>  Please contact the server administrator, you@your.address and inform them of the time the error occurred, and anything you might have done that may have caused the error.
+  
+>  More information about this error may be available in the server error log.
+  
+>  ***
+  
+>  IBM_HTTP_Server Server at wwxh.bjjtgl.gov.cn Port 80
+
+八点十分，4S店发来暂住证编号，但车管所的系统依然挂起。打电话咨询，九点前语音提示不在工作时间，九点后提示座席全忙。
+
+直到中午12点左右，系统恢复，之后的选号过程还算顺利，结果也让人欣喜。
+
+不得不吐槽一下车管所的系统，你已经成功击败12306：推荐我使用IE6浏览器进行操作。
+
 ### 提车
 
 #### 专业版
