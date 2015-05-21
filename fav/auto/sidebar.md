@@ -9,7 +9,9 @@
 1. [摇号](#docs/lottery)
 1. [功课](#docs/knowledge)
 1. [选车](#docs/select)
+1. [磨合](#docs/newcar)
 1. [驾驶](#docs/drive)
+1. [保险](#docs/insurance)
 1. [保养](#docs/maintenance)
 
 
