@@ -1,10 +1,29 @@
 # Flash - Libs
 
-## TweenLite
+## TweenMax
 
-http://greensock.com/
+<i class="fa fa-home fa-2x"></i> http://greensock.com/
+
+https://greensock.com/gsap-as
+
+https://greensock.com/getting-started-as
+
+在外购广告的流量监测中，我使用了 TweenMax 库，没有深入研究，只是添加一些简单的动画效果，看起来像个广告。
+
+```actionscript
+import gs.TweenMax;
+import gs.easing.*;
+
+TweenMax.to(logo, 1, {x: 20, y: 15, ease:Bounce.easeIn});
+TweenMax.to(auto, 1, {x: 640, y: 20, scaleX: 0.6, scaleY: 0.6, onComplete: showAD});
+```
+
+
+<i class="fa fa-github fa-2x"></i> https://github.com/greensock
 
 https://github.com/greensock/GreenSock-AS3/
+
+## Twitter
 
 https://github.com/dborisenko/twitter-actionscript-api/
 
