@@ -4,6 +4,10 @@
 
 ## Drawing shapes
 
+### 常规的填充绘制
+
+1\. 绘制矩形
+
 ```actionscript
 // ActionScript 3.0
 var movieClip:MovieClip = new MovieClip();
@@ -14,6 +18,8 @@ movieClip.x = 10;
 movieClip.y = 10;
 addChild(movieClip);
 ```
+
+AS 2.0 版本
 
 ```actionscript
 // ActionScript 2.0
@@ -26,4 +32,35 @@ movieClip.lineTo(0, 80);
 movieClip.endFill();
 movieClip._x = 10;
 movieClip._y = 10;
+```
+
+2\. 绘制中也矩形
+
+```actionscript
+/**
+ * Created with IntelliJ IDEA.
+ * User: Christen
+ * Date: 15-4-24
+ * Time: 上午10:35
+ */
+package {
+import flash.display.MovieClip;
+import flash.display.Shape;
+
+public class Main extends MovieClip {
+
+    public function Main() {
+        init();
+    }
+
+    private function init():void {
+        var shape:Shape = new Shape();
+        shape.graphics.beginFill(0xff0000, 1);
+        shape.graphics.drawRect(0, 0, 100, 100);
+        shape.graphics.drawCircle(50, 50, 40);
+        shape.graphics.endFill();
+        addChild(shape);
+    }
+}
+}
 ```

@@ -15,12 +15,12 @@
 ## jQuery in Action
 ## Flash ActionScript3.0 动画高级教程
 ## FlashA ctionScript3.0 动画教程
-## 精通 Hibernate：Java对象持久化技术详解.
+## 精通 Hibernate：Java对象持久化技术详解
 ## 精通 Struts：基于MVC的JavaWeb设计与开发
 ## Java 语言入门
 ## JDO 开发
 ## Flash ActionScript3 殿堂之路
-## JavaScript DOM 编程艺术（第2版）
+## JavaScript DOM 编程艺术 第2版
 ## 点石成金：访客至上的网页设计秘笈
 ## Spring in Action
 ## Learning ActionScript3.0: A Beginner'sGuide
