@@ -1,16 +1,18 @@
 # Java 环境
 
-Your First Cup! 
+Enjoy your First Cup! 
 
 ## 程序安装
 
 ### Windows
 
-直接到[官方](http://www.oracle.com/technetwork/java/javase/archive-139210.html)下载 exe 文件安装，目前我司使用的Java版本为：
+直接到[Oracle Java Archive](http://www.oracle.com/technetwork/java/javase/archive-139210.html)下载 exe 文件安装，目前我司使用的Java版本为：
 
 [Java SE 6](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase6-419409.html)
 
 Java 下载首页：[Java SE Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+下载需要Oracle账号：84856@163.com / #Oracle2015
 
 在这里下可以下载其它Oracle产品：
 

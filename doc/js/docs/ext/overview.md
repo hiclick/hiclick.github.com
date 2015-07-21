@@ -106,7 +106,7 @@ to create the best cross-platform applications using nothing but a browser, and 
 
 * [Sencha Cmd Documentation for Sencha Ext JS](http://docs.sencha.com/cmd/5.x/intro_to_cmd.html)
 * [Sencha Cmd Documentation for Sencha Touch](http://docs.sencha.com/touch/#!/guide/command)
-* [Getting started with Ext JS 5](http://docs.sencha.com/extjs/5.1/getting_started/getting_started.html)
+* [Getting started with Ext JS 5](http://docs.sencha.com/extjs/5.1/getting_started/getting_started.html) (Hover Logo to get the offline docs download link)
 
 不过官方也提供了传统应用的教程：
 
