@@ -1,4 +1,4 @@
-<!--
+ï»¿<!--
 var refer=true;
 function combo() {
 if (refer) {
@@ -12,13 +12,13 @@ refer=true;
 }
 document.write("<table frame=hsides rules=none class=tmenu1 border=1 cellspacing=2 cellpadding=1 bordercolorlight=#ffffff bordercolordark=#666666>")
 document.write("<tr>")
-document.write("<td><img src=image/xing.gif border=0 alt=Ê¹ÓÃËµÃ÷¡î´ò¿ª/¹Ø±Õ onclick='combo()'></td>")
+document.write("<td><img src=image/xing.gif border=0 alt=ä½¿ç”¨è¯´æ˜â˜†æ‰“å¼€/å…³é—­ onclick='combo()'></td>")
 document.write("</tr>")
 document.write("</table>")
 document.write("<div id='contents' class='menu'>")
 document.write("<table class=tmenu2 border=0 cellspacing=0 cellpadding=0 bordercolorlight=#ffffff bordercolordark=#666666>")
 document.write("<tr align=center>")
-document.write("<td>·­Ò³¼ü£º£¨¡û£©ÉÏÒ³£¬£¨¡ú£©ÏÂÒ³£¬£¨del£©Ä¿Â¼<br>×ÊÁÏÊÕ¼¯ÓÚÍøÉÏ£¬°æÈ¨ÊôÓÚÔ­×÷Õß£¬ÇëÎğÓÃÓÚÉÌÒµ´«²¥¡£</td>")
+document.write("<td>ç¿»é¡µé”®ï¼šï¼ˆâ†ï¼‰ä¸Šé¡µï¼Œï¼ˆâ†’ï¼‰ä¸‹é¡µï¼Œï¼ˆdelï¼‰ç›®å½•<br>èµ„æ–™æ”¶é›†äºç½‘ä¸Šï¼Œç‰ˆæƒå±äºåŸä½œè€…ï¼Œè¯·å‹¿ç”¨äºå•†ä¸šä¼ æ’­ã€‚</td>")
 document.write("</tr>")
 document.write("</table>")
 document.write("</div>")

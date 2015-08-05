@@ -1,5 +1,5 @@
-<!--
-var message="¡¶Áú´²¡· 2008.6"
+ï»¿<!--
+var message="ã€Šé¾™åºŠã€‹ 2008.6"
 var neonbasecolor="#646178"
 var neontextcolor="#211e3e"
 var flashspeed=123

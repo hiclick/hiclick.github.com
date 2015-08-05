@@ -1,4 +1,4 @@
-<!--
+ï»¿<!--
 function Time(){
 if (!document.layers&&!document.all)
 return
@@ -13,13 +13,13 @@ var hours=Timer.getHours()
 var minutes=Timer.getMinutes()
 var seconds=Timer.getSeconds()
 var noon="AM" 
-if (todayDate.getDay() == 0) day = "ÐÇÆÚÈÕ"
-if (todayDate.getDay() == 1) day = "ÐÇÆÚÒ»"
-if (todayDate.getDay() == 2) day = "ÐÇÆÚ¶þ"
-if (todayDate.getDay() == 3) day = "ÐÇÆÚÈý"
-if (todayDate.getDay() == 4) day = "ÐÇÆÚËÄ"
-if (todayDate.getDay() == 5) day = "ÐÇÆÚÎå"
-if (todayDate.getDay() == 6) day = "ÐÇÆÚÁù"
+if (todayDate.getDay() == 0) day = "æ˜ŸæœŸæ—¥"
+if (todayDate.getDay() == 1) day = "æ˜ŸæœŸä¸€"
+if (todayDate.getDay() == 2) day = "æ˜ŸæœŸäºŒ"
+if (todayDate.getDay() == 3) day = "æ˜ŸæœŸä¸‰"
+if (todayDate.getDay() == 4) day = "æ˜ŸæœŸå››"
+if (todayDate.getDay() == 5) day = "æ˜ŸæœŸäº”"
+if (todayDate.getDay() == 6) day = "æ˜ŸæœŸå…­"
 if (hours>12){
 noon="PM"
 hours=hours-12
@@ -30,7 +30,7 @@ if (minutes<=9)
 minutes="0"+minutes
 if (seconds<=9)
 seconds="0"+seconds
-myclock=year+"Äê"+month+"ÔÂ"+date+"ÈÕ"+" "+day+" "+hours+":"+minutes+":"+seconds+" "+noon
+myclock=year+"å¹´"+month+"æœˆ"+date+"æ—¥"+" "+day+" "+hours+":"+minutes+":"+seconds+" "+noon
 if (document.layers){
 document.layers.position.document.write(myclock)
 document.layers.position.document.close()
