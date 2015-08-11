@@ -506,10 +506,11 @@ hr {
     background: #FAFAFA;
     border-left: 4px solid #D6D6D6;
     border-right: 4px solid #D6D6D6;
-    border-radius: 14px;
-    margin-bottom: 24px;
+    border-radius: 10px;
+    margin-bottom: 20px;
     margin-left: 0;
     margin-right: 0;
-    padding: 8px;
-    font-style: italic;
+    padding: 5px;
+    font-size: 13px;
+    /*font-style: italic;*/
 }
