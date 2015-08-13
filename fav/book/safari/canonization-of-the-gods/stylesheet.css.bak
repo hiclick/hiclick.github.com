@@ -1,0 +1,121 @@
+.bqbt {
+    display: block;
+    font-size: 1.66667em;
+    line-height: 1.2;
+    text-indent: 0;
+    margin: 1em 0 0.5em
+    }
+.bqzz {
+    display: block;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    word-wrap: break-word;
+    margin: 0 5pt
+    }
+.calibre1 {
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block
+    }
+.calibre3 {
+    height: auto;
+    width: auto
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre6 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 1px
+    }
+.mulu {
+    display: block;
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.mulu1 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0;
+    margin: 0.2em 0 0
+    }
+.normaltext {
+    display: block;
+    text-indent: 2em;
+    margin: 0
+    }
+.normaltext1 {
+    display: block;
+    font-size: 0.83333em;
+    text-indent: 2em;
+    margin: 0
+    }
+.normaltext2 {
+    display: block;
+    font-size: 0.83333em;
+    text-indent: 2em;
+    margin: 10pt 0
+    }
+.normaltexta {
+    display: block;
+    font-size: 0.83333em;
+    text-indent: 0;
+    margin: 0
+    }
+.normaltextb {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-indent: 0;
+    margin: 5pt 0
+    }
+.normaltextc {
+    display: block;
+    text-indent: 0;
+    margin: 0 0 0 0.5em
+    }
+.table {
+    border-collapse: separate;
+    border-spacing: 2px;
+    display: table;
+    font-size: 0.83333em;
+    margin-bottom: 1em;
+    margin-top: 0;
+    text-indent: 2em;
+    width: 100%
+    }
+.title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.tpzz {
+    height: auto;
+    vertical-align: text-top;
+    width: auto
+    }
