@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+       <meta name="dtb:uid" content="http://www.hxa7241.org/articles/content/epup-guide_hxa7241_2007_1.epub"/>
+    </head>
+    <docTitle>
+       <text>Atlas Shrugged</text>
+    </docTitle>
+    <navMap>
+      <navPoint id="tp" playOrder="1">
+         <navLabel>
+            <text>Title Page</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_tp_r1.html"/>
+      </navPoint>
+      <navPoint id="cop" playOrder="2">
+         <navLabel>
+            <text>Copyright Page</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_cop_r1.html"/>
+      </navPoint>
+      <navPoint id="ded" playOrder="3">
+         <navLabel>
+            <text>Dedication</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_ded_r1.html"/>
+      </navPoint>
+      <navPoint id="itr" playOrder="4">
+         <navLabel>
+            <text>Introduction</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_itr_r1.html"/>
+      </navPoint>
+      <navPoint id="p01" playOrder="5">
+         <navLabel>
+            <text>PART I - NON-CONTRADICTION</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_p01_r1.html"/>
+      <navPoint id="c01" playOrder="6">
+         <navLabel>
+            <text>CHAPTER I - THE THEME</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c01_r1.html"/>
+      </navPoint>
+      <navPoint id="c02" playOrder="7">
+         <navLabel>
+            <text>CHAPTER II - THE CHAIN</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c02_r1.html"/>
+      </navPoint>
+      <navPoint id="c03" playOrder="8">
+         <navLabel>
+            <text>CHAPTER III - THE TOP AND THE BOTTOM</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c03_r1.html"/>
+      </navPoint>
+      <navPoint id="c04" playOrder="9">
+         <navLabel>
+            <text>CHAPTER IV - THE IMMOVABLE MOVERS</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c04_r1.html"/>
+      </navPoint>
+      <navPoint id="c05" playOrder="10">
+         <navLabel>
+            <text>CHAPTER V - THE CLIMAX OF THE D&#8216;ANCONIAS</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c05_r1.html"/>
+      </navPoint>
+      <navPoint id="c06" playOrder="11">
+         <navLabel>
+            <text>CHAPTER VI - THE NON-COMMERCIAL</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c06_r1.html"/>
+      </navPoint>
+      <navPoint id="c07" playOrder="12">
+         <navLabel>
+            <text>CHAPTER VII - THE EXPLOITERS AND THE EXPLOITED</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c07_r1.html"/>
+      </navPoint>
+      <navPoint id="c08" playOrder="13">
+         <navLabel>
+            <text>CHAPTER VIII - THE JOHN GALT LINE</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c08_r1.html"/>
+      </navPoint>
+      <navPoint id="c09" playOrder="14">
+         <navLabel>
+            <text>CHAPTER IX - THE SACRED AND THE PROFANE</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c09_r1.html"/>
+      </navPoint>
+      <navPoint id="c10" playOrder="15">
+         <navLabel>
+            <text>CHAPTER X - WYATT&#8217;S TORCH</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c10_r1.html"/>
+      </navPoint>
+      </navPoint>
+      <navPoint id="p02" playOrder="16">
+         <navLabel>
+            <text>PART II - EITHER-OR</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_p02_r1.html"/>
+      <navPoint id="c11" playOrder="17">
+         <navLabel>
+            <text>CHAPTER I - THE MAN WHO BELONGED ON EARTH</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c11_r1.html"/>
+      </navPoint>
+      <navPoint id="c12" playOrder="18">
+         <navLabel>
+            <text>CHAPTER II - THE ARISTOCRACY OF PULL</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c12_r1.html"/>
+      </navPoint>
+      <navPoint id="c13" playOrder="19">
+         <navLabel>
+            <text>CHAPTER III - WHITE BLACKMAIL</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c13_r1.html"/>
+      </navPoint>
+      <navPoint id="c14" playOrder="20">
+         <navLabel>
+            <text>CHAPTER IV - THE SANCTION OF THE VICTIM</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c14_r1.html"/>
+      </navPoint>
+      <navPoint id="c15" playOrder="21">
+         <navLabel>
+            <text>CHAPTER V - ACCOUNT OVERDRAWN</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c15_r1.html"/>
+      </navPoint>
+      <navPoint id="c16" playOrder="22">
+         <navLabel>
+            <text>CHAPTER VI - MIRACLE METAL</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c16_r1.html"/>
+      </navPoint>
+      <navPoint id="c17" playOrder="23">
+         <navLabel>
+            <text>CHAPTER VII - THE MORATORIUM ON BRAINS</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c17_r1.html"/>
+      </navPoint>
+      <navPoint id="c18" playOrder="24">
+         <navLabel>
+            <text>CHAPTER VIII - BY OUR LOVE</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c18_r1.html"/>
+      </navPoint>
+      <navPoint id="c19" playOrder="25">
+         <navLabel>
+            <text>CHAPTER IX - THE FACE WITHOUT PAIN OR FEAR OR GUILT</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c19_r1.html"/>
+      </navPoint>
+      <navPoint id="c20" playOrder="26">
+         <navLabel>
+            <text>CHAPTER X - THE SIGN OF THE DOLLAR</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c20_r1.html"/>
+      </navPoint>
+      </navPoint>
+      <navPoint id="p03" playOrder="27">
+         <navLabel>
+            <text>PART III - A IS A</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_p03_r1.html"/>
+      <navPoint id="c21" playOrder="28">
+         <navLabel>
+            <text>CHAPTER I - ATLANTIS</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c21_r1.html"/>
+      </navPoint>
+      <navPoint id="c22" playOrder="29">
+         <navLabel>
+            <text>CHAPTER II - THE UTOPIA OF GREED</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c22_r1.html"/>
+      </navPoint>
+      <navPoint id="c23" playOrder="30">
+         <navLabel>
+            <text>CHAPTER III - ANTI-GREED</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c23_r1.html"/>
+      </navPoint>
+      <navPoint id="c24" playOrder="31">
+         <navLabel>
+            <text>CHAPTER IV - ANTI-LIFE</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c24_r1.html"/>
+      </navPoint>
+      <navPoint id="c25" playOrder="32">
+         <navLabel>
+            <text>CHAPTER V - THEIR BROTHERS&#8217; KEEPERS</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c25_r1.html"/>
+      </navPoint>
+      <navPoint id="c26" playOrder="33">
+         <navLabel>
+            <text>CHAPTER VI - THE CONCERTO OF DELIVERANCE</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c26_r1.html"/>
+      </navPoint>
+      <navPoint id="c27" playOrder="34">
+         <navLabel>
+            <text>CHAPTER VII - &#8220;THIS IS JOHN GALT SPEAKING&#8221;</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c27_r1.html"/>
+      </navPoint>
+      <navPoint id="c28" playOrder="35">
+         <navLabel>
+            <text>CHAPTER VIII - THE EGOIST</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c28_r1.html"/>
+      </navPoint>
+      <navPoint id="c29" playOrder="36">
+         <navLabel>
+            <text>CHAPTER IX - THE GENERATOR</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c29_r1.html"/>
+      </navPoint>
+      <navPoint id="c30" playOrder="37">
+         <navLabel>
+            <text>CHAPTER X - IN THE NAME OF THE BEST WITHIN US</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_c30_r1.html"/>
+
+      </navPoint>
+      </navPoint>
+      <navPoint id="ata" playOrder="38">
+         <navLabel>
+            <text>ABOUT THE AUTHOR</text>
+         </navLabel>
+         <content src="rand_9781101137192_oeb_ata_r1.html"/>
+      </navPoint>
+    </navMap>
+</ncx>

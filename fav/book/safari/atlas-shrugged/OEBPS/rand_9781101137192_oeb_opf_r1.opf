@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:title>Atlas Shrugged</dc:title>
+      <dc:creator>Ayn Rand</dc:creator>
+      <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+      <dc:format/>
+      <dc:date>NONE</dc:date>
+      <dc:subject/>
+      <dc:description/>
+      <dc:rights>NONE</dc:rights>
+      <dc:identifier id="bookid">9781101137192</dc:identifier>
+      <dc:language>en</dc:language>
+  </metadata>
+  <manifest>
+    <item href="page-template.xpgt" id="pt" media-type="application/vnd.adobe-page-template+xml"/>
+    <item href="rand_9781101137192_oeb_css_r1.css" id="style" media-type="text/css"/>
+    <item href="rand_9781101137192_msr_cvi_r1.jpg" id="coverimagestandard" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_msr_cvt_r1.jpg" id="thumbimagestandard" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_msr_ppl_r1.jpg" id="PPCthumbnailimage" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_cover_r1.html" id="cover" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_toc_r1.html" id="toc" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="rand_9781101137192_oeb_fm1_r1.html" id="fm1" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_tp_r1.html" id="tp" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_ded_r1.html" id="ded" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_itr_r1.html" id="itr" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_p01_r1.html" id="p01" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c01_r1.html" id="c01" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c02_r1.html" id="c02" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c03_r1.html" id="c03" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c04_r1.html" id="c04" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c05_r1.html" id="c05" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c06_r1.html" id="c06" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c07_r1.html" id="c07" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c08_r1.html" id="c08" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c09_r1.html" id="c09" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c10_r1.html" id="c10" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_p02_r1.html" id="p02" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c11_r1.html" id="c11" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c12_r1.html" id="c12" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c13_r1.html" id="c13" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c14_r1.html" id="c14" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c15_r1.html" id="c15" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c16_r1.html" id="c16" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c17_r1.html" id="c17" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c18_r1.html" id="c18" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c19_r1.html" id="c19" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c20_r1.html" id="c20" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_p03_r1.html" id="p03" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c21_r1.html" id="c21" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c22_r1.html" id="c22" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c23_r1.html" id="c23" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c24_r1.html" id="c24" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c25_r1.html" id="c25" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c26_r1.html" id="c26" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c27_r1.html" id="c27" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c28_r1.html" id="c28" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c29_r1.html" id="c29" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_c30_r1.html" id="c30" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_ata_r1.html" id="ata" media-type="application/xhtml+xml"/>
+    <item href="rand_9781101137192_oeb_cop_r1.html" id="cop" media-type="application/xhtml+xml"/>
+      <item href="rand_9781101137192_oeb_001_r1.jpg" id="rand_9781101137192_oeb_001_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_003_r1.jpg" id="rand_9781101137192_oeb_003_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_004_r1.jpg" id="rand_9781101137192_oeb_004_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_005_r1.jpg" id="rand_9781101137192_oeb_005_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_006_r1.jpg" id="rand_9781101137192_oeb_006_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_007_r1.jpg" id="rand_9781101137192_oeb_007_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_008_r1.jpg" id="rand_9781101137192_oeb_008_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_009_r1.jpg" id="rand_9781101137192_oeb_009_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_010_r1.jpg" id="rand_9781101137192_oeb_010_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_011_r1.jpg" id="rand_9781101137192_oeb_011_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_012_r1.jpg" id="rand_9781101137192_oeb_012_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_013_r1.jpg" id="rand_9781101137192_oeb_013_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_014_r1.jpg" id="rand_9781101137192_oeb_014_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_015_r1.jpg" id="rand_9781101137192_oeb_015_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_016_r1.jpg" id="rand_9781101137192_oeb_016_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_017_r1.jpg" id="rand_9781101137192_oeb_017_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_018_r1.jpg" id="rand_9781101137192_oeb_018_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_019_r1.jpg" id="rand_9781101137192_oeb_019_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_020_r1.jpg" id="rand_9781101137192_oeb_020_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_021_r1.jpg" id="rand_9781101137192_oeb_021_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_022_r1.jpg" id="rand_9781101137192_oeb_022_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_023_r1.jpg" id="rand_9781101137192_oeb_023_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_024_r1.jpg" id="rand_9781101137192_oeb_024_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_025_r1.jpg" id="rand_9781101137192_oeb_025_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_026_r1.jpg" id="rand_9781101137192_oeb_026_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_027_r1.jpg" id="rand_9781101137192_oeb_027_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_028_r1.jpg" id="rand_9781101137192_oeb_028_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_029_r1.jpg" id="rand_9781101137192_oeb_029_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_030_r1.jpg" id="rand_9781101137192_oeb_030_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_031_r1.jpg" id="rand_9781101137192_oeb_031_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_032_r1.jpg" id="rand_9781101137192_oeb_032_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_033_r1.jpg" id="rand_9781101137192_oeb_033_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_034_r1.jpg" id="rand_9781101137192_oeb_034_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_035_r1.jpg" id="rand_9781101137192_oeb_035_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_036_r1.jpg" id="rand_9781101137192_oeb_036_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_037_r1.jpg" id="rand_9781101137192_oeb_037_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_038_r1.jpg" id="rand_9781101137192_oeb_038_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_039_r1.jpg" id="rand_9781101137192_oeb_039_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_040_r1.jpg" id="rand_9781101137192_oeb_040_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_041_r1.jpg" id="rand_9781101137192_oeb_041_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_042_r1.jpg" id="rand_9781101137192_oeb_042_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_043_r1.jpg" id="rand_9781101137192_oeb_043_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_044_r1.jpg" id="rand_9781101137192_oeb_044_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_045_r1.jpg" id="rand_9781101137192_oeb_045_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_046_r1.jpg" id="rand_9781101137192_oeb_046_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_047_r1.jpg" id="rand_9781101137192_oeb_047_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_048_r1.jpg" id="rand_9781101137192_oeb_048_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_049_r1.jpg" id="rand_9781101137192_oeb_049_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_050_r1.jpg" id="rand_9781101137192_oeb_050_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_051_r1.jpg" id="rand_9781101137192_oeb_051_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_052_r1.jpg" id="rand_9781101137192_oeb_052_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_053_r1.jpg" id="rand_9781101137192_oeb_053_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_054_r1.jpg" id="rand_9781101137192_oeb_054_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_055_r1.jpg" id="rand_9781101137192_oeb_055_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_056_r1.jpg" id="rand_9781101137192_oeb_056_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_057_r1.jpg" id="rand_9781101137192_oeb_057_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_058_r1.jpg" id="rand_9781101137192_oeb_058_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_059_r1.jpg" id="rand_9781101137192_oeb_059_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_060_r1.jpg" id="rand_9781101137192_oeb_060_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_061_r1.jpg" id="rand_9781101137192_oeb_061_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_062_r1.jpg" id="rand_9781101137192_oeb_062_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_063_r1.jpg" id="rand_9781101137192_oeb_063_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_064_r1.jpg" id="rand_9781101137192_oeb_064_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_065_r1.jpg" id="rand_9781101137192_oeb_065_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_066_r1.jpg" id="rand_9781101137192_oeb_066_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_067_r1.jpg" id="rand_9781101137192_oeb_067_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_068_r1.jpg" id="rand_9781101137192_oeb_068_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_069_r1.jpg" id="rand_9781101137192_oeb_069_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_070_r1.jpg" id="rand_9781101137192_oeb_070_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_071_r1.jpg" id="rand_9781101137192_oeb_071_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_072_r1.jpg" id="rand_9781101137192_oeb_072_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_073_r1.jpg" id="rand_9781101137192_oeb_073_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_074_r1.jpg" id="rand_9781101137192_oeb_074_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_075_r1.jpg" id="rand_9781101137192_oeb_075_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_076_r1.jpg" id="rand_9781101137192_oeb_076_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_077_r1.jpg" id="rand_9781101137192_oeb_077_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_078_r1.jpg" id="rand_9781101137192_oeb_078_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_079_r1.jpg" id="rand_9781101137192_oeb_079_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_080_r1.jpg" id="rand_9781101137192_oeb_080_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_081_r1.jpg" id="rand_9781101137192_oeb_081_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_082_r1.jpg" id="rand_9781101137192_oeb_082_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_083_r1.jpg" id="rand_9781101137192_oeb_083_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_084_r1.jpg" id="rand_9781101137192_oeb_084_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_085_r1.jpg" id="rand_9781101137192_oeb_085_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_086_r1.jpg" id="rand_9781101137192_oeb_086_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_087_r1.jpg" id="rand_9781101137192_oeb_087_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_088_r1.jpg" id="rand_9781101137192_oeb_088_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_089_r1.jpg" id="rand_9781101137192_oeb_089_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_090_r1.jpg" id="rand_9781101137192_oeb_090_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_091_r1.jpg" id="rand_9781101137192_oeb_091_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_092_r1.jpg" id="rand_9781101137192_oeb_092_r1" media-type="image/jpeg"/>
+    <item href="rand_9781101137192_oeb_002_r1.gif" id="rand_9781101137192_oeb_002_r1" media-type="image/gif"/>
+</manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="toc"/>
+    <itemref idref="fm1"/>
+    <itemref idref="tp"/>
+    <itemref idref="cop"/>
+    <itemref idref="ded"/>
+    <itemref idref="itr"/>
+    <itemref idref="p01"/>
+    <itemref idref="c01"/>
+    <itemref idref="c02"/>
+    <itemref idref="c03"/>
+    <itemref idref="c04"/>
+    <itemref idref="c05"/>
+    <itemref idref="c06"/>
+    <itemref idref="c07"/>
+    <itemref idref="c08"/>
+    <itemref idref="c09"/>
+    <itemref idref="c10"/>
+    <itemref idref="p02"/>
+    <itemref idref="c11"/>
+    <itemref idref="c12"/>
+    <itemref idref="c13"/>
+    <itemref idref="c14"/>
+    <itemref idref="c15"/>
+    <itemref idref="c16"/>
+    <itemref idref="c17"/>
+    <itemref idref="c18"/>
+    <itemref idref="c19"/>
+    <itemref idref="c20"/>
+    <itemref idref="p03"/>
+    <itemref idref="c21"/>
+    <itemref idref="c22"/>
+    <itemref idref="c23"/>
+    <itemref idref="c24"/>
+    <itemref idref="c25"/>
+    <itemref idref="c26"/>
+    <itemref idref="c27"/>
+    <itemref idref="c28"/>
+    <itemref idref="c29"/>
+    <itemref idref="c30"/>
+    <itemref idref="ata"/>
+  </spine>
+  <guide>
+    <reference href="rand_9781101137192_oeb_toc_r1.html" title="Table of Contents" type="toc"/>
+    <reference href="rand_9781101137192_msr_cvi_r1.jpg" title="Cover" type="other.ms-coverimage-standard"/>
+    <reference href="rand_9781101137192_msr_cvt_r1.jpg" title="ThumbImageStandard" type="other.ms-thumbimage-standard"/>
+    <reference href="rand_9781101137192_msr_ppl_r1.jpg" title="PPCThumbnailImage" type="other.ms-thumbimage"/>
+    <reference href="rand_9781101137192_oeb_cop_r1.html" title="Copyright" type="copyright"/>
+  </guide>
+</package>

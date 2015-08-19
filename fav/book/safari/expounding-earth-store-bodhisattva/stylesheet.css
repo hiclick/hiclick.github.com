@@ -1,0 +1,106 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    margin: 1em 0
+    }
+.calibre3 {
+    display: block
+    }
+.no-style-override {
+    -webkit-text-stroke: -webkit-text;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    text-decoration: none
+    }
+.x {
+    -webkit-text-stroke: -webkit-text;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: none;
+    text-indent: 2rem
+    }
+.x-42946-0-override {
+    -webkit-text-stroke: -webkit-text;
+    color: rgb(204, 51, 0);
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    text-decoration: none
+    }
+.x-bt {
+    -webkit-text-stroke: -webkit-text;
+    color: rgb(204, 51, 0);
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0rem
+    }
+.x1 {
+    -webkit-text-stroke: -webkit-text;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: none;
+    text-indent: 2rem
+    }
+.x2 {
+    color: rgb(204, 51, 0);
+    font-style: normal;
+    font-weight: normal
+    }
+.x3 {
+    -webkit-text-stroke: -webkit-text;
+    color: rgb(204, 51, 0);
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 2rem;
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: none;
+    text-indent: 2.000079rem
+    }
+.x4 {
+    font-style: normal;
+    font-weight: normal
+    }

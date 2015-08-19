@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:title_sort" content="地藏菩萨本愿经"/>
+    <meta name="calibre:timestamp" content="2015-08-18T04:43:29.059000+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (2.34.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>地藏菩萨本愿经</dc:title>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00BP19MYI</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c0d755e6-21f4-4235-9493-7ca1947d3ef0</dc:identifier>
+    <dc:identifier opf:scheme="calibre">c0d755e6-21f4-4235-9493-7ca1947d3ef0</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <dc:language>zh</dc:language>
+    <dc:creator opf:file-as="实叉难陀译" opf:role="aut">实叉难陀译</dc:creator>
+    <dc:date>2015-08-17T16:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="text/part0003.html#2RHM2-f1b806f1c1604ef7b6eee985fa1f9a37" title="start" type="text"/>
+    <reference href="text/part0002.html#1T140-f1b806f1c1604ef7b6eee985fa1f9a37" title="目录" type="toc"/>
+  </guide>
+</package>
