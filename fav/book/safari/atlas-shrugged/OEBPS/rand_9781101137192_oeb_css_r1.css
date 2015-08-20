@@ -321,7 +321,9 @@ font-family:Verdana,"BitStream vera Sans",Tahoma,Helvetica,Sans-serif;
 .tx1  {
 font-size: small;
 text-align: justify;
-text-indent: 0em;
+text-indent: 2em;
+line-height: 24px;
+font-family:Verdana,"BitStream vera Sans",Tahoma,Helvetica,Sans-serif;
 }
 
 .chabox  {
@@ -502,23 +504,10 @@ margin-bottom: 1em;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .afmtx  {
 font-size: small;
 text-align: left;
-text-indent: 1em;
+text-indent: 2em;
 margin-top: 0.5em;
 margin-bottom: 0.5em;
 margin-left: 3em;
@@ -603,13 +592,17 @@ background-color: #DDDDDD;
 .fmtx  {
 font-size: small;
 text-align: justify;
-text-indent: 1em;
+text-indent: 2em;
+line-height: 24px;
+font-family:Verdana,"BitStream vera Sans",Tahoma,Helvetica,Sans-serif;
 }
 
 .fmtx1  {
 font-size: small;
 text-align: justify;
-text-indent: 0em;
+text-indent: 2em;
+line-height: 24px;
+font-family:Verdana,"BitStream vera Sans",Tahoma,Helvetica,Sans-serif;
 }
 
 .fmhBT-T  {
