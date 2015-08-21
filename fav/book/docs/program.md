@@ -87,8 +87,8 @@
 ## ActionScript3 设计模式
 ## jQuery 基础教程
 ## jQuery 实战
-## 精通CSS：高级Web标准解决方案
-## 精通J avaScript
+## 精通 CSS：高级Web标准解决方案
+## 精通 JavaScript
 ## JavaScript 高级程序设计
 ## JavaScript DOM 编程艺术
 ## JavaScript 语言精粹
@@ -107,9 +107,9 @@
 ## ActionScript3.0 Game Programming University
 ## Groovy in Action
 ## Programming Groovy: Dynamic Productivity for the Java Developer
-## Groovy入门经典
-## Java2核心技术卷Ⅱ：高级特性
-## Java2核心技术卷Ⅰ：基础知识
+## Groovy 入门经典
+## Java2 核心技术卷Ⅱ：高级特性
+## Java2 核心技术卷Ⅰ：基础知识
 ## Spring2.0 技术手册
 ## JSP2.0 技术手册
 ## PHP 和 MySQL Web开发
