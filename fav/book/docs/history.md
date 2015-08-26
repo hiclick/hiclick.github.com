@@ -7,6 +7,10 @@
 
 -- [维基百科](http://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
+## 黄帝内经十二经脉揭秘与应用
+
+本站阅读：[这里](http://localhost/fav/book/#docs/pub/neijing)
+
 ## 了凡四训
 
 ## 俞净意公遇灶神记
