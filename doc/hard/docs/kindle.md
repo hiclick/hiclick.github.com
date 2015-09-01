@@ -2,6 +2,10 @@
 
 ## Kindle Paper White
 
+2013年12月10日 购买。
+
+2014年9月8日 购买真皮保护套，但最近没有配戴。
+
 ### 编辑 ePub
 
 工具：[Sigil](http://sigil-ebook.com/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
@@ -45,6 +49,28 @@ Kindle个人文档服务支持Kindle Android, Kindle iPhone, Kindle iPad阅读�
 
 ## Kindle Fire HDX
 
+北京时间2013年9月25日，亚马逊发布了第二代的Kindle Fire HD 系列的两款新平板 —— Kindle Fire HDX 8.9/7，其中 Kindle Fire HDX 7 是 HDX 系列的7英寸设备。
+
+WI-FI 版没有 GPS 模块，只能通过WI-FI定位。
+
+2014年7月2日 购买。
+
+### 新机注册
+
+最新恢复出厂设置后系统日期和时间显示2013年7月30号，并且无法更改，游戏电子书等应用商店均无法打开，显示尝试验证您的账户时发生错误。
+
+解决办法：
+
+首先设置正确的时区。
+
+然后换个网络注册，无线网络的问题。我刚开始也是这个问题，原因是我路由器的时间不对。
+
+中国移动4G网络注册成功。
+
+### 视频播放器
+
+#### VidOn Player
+
 商店的[威动视频播放器](http://cn.vidon.me/vidon_player.htm)，有两个版本：
 
 * [VidOn Player](http://www.amazon.com/gp/product/B00EQ0G0JK) Release Date: February 4, 2013
@@ -56,18 +82,9 @@ HD 为 Pad 适配版，非 HD 为 Phone 适配版，实测，Phone 版体验更�
 
 微博亦然。
 
-威动国际化：
+#### MX Player
 
-* [简体中文](http://cn.vidon.me)
-* [English](http://www.vidon.me)
-* [日本語](http://ja.vidon.me)
-* [Deutsch](http://de.vidon.me)
-* [Español](http://es.vidon.me)
-* [Português](http://pt.vidon.me)
-* [Français](http://fr.vidon.me)
-* [한국어](http://ko.vidon.me)
-* [繁體中文](http://zh.vidon.me)
-* [Русский](http://ru.vidon.me)
+Android 平台最优秀的媒体播放器软件，已登录中亚。2015年9月1日安装。
 
 ## Kindle for PC
 
