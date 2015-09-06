@@ -10,6 +10,7 @@
 1. [Health](#docs/health)
 1. [Nutrition](#docs/nutrition)
 1. [Early Childhood Education](#docs/ece)
+1. [Our Cat](#docs/cat)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)
