@@ -12,9 +12,9 @@
 1. [武侠](#docs/swordsman)
 1. [传记](#docs/biography)
 1. [童话·寓言](#docs/fairytales)
-1. [管理](#docs/manage)
+1. [管理·数学](#docs/manage)
 1. [散文·小品](#docs/essay)
-1. [哲学·数学](#docs/philosophy)
+1. [哲学·宗教](#docs/philosophy)
 1. [编程·科技](#docs/program)
 
 ## 其他
