@@ -13,9 +13,9 @@ brew --help
 brew install nginx
 ```
 
-### zsh
+### profile
 
-<i class="fa fa-question fa-2x"></i> Mac OS X 打开终端后不执行`.bash_profile`文件
+<i class="fa fa-question fa-1x"></i> Mac OS X 打开终端后不执行`.bash_profile`文件
 
 需要每次打开都执行一次`source ~/.bash_profile`真是麻烦，有别的办法吗？
 
@@ -42,7 +42,7 @@ brew install nginx
 不可取的。`.profile`文件和`.bashrc`文件的用意就是在不同的时刻触发，profile文件的作用是针对整个账号而言的设置，rc文件是针对一次shell的启动有效。
 将你需要每次启动的东西放在 bashrc / zshrc中就可以了。现在一般profile文件中不放什么设置。
 
-### Shell
+### shell
 
 http://vbird.dic.ksu.edu.tw/
 
@@ -198,4 +198,29 @@ chmod -R 755 bootstrap-3.2.0/
     - Touch # sets the modification and access times.  If not exist, created with default permissions.
     - Compare
 ```
+
+### Oh-My-Zsh
+
+官网：http://ohmyz.sh/ [<i class="fa fa-github fa-1x"></i>](https://github.com/robbyrussell/oh-my-zsh)
+
+
+[Cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
+
+
+**使用 Zsh 的九个理由**
+
+1. zsh 兼容 bash
+2. zsh 的补全模式更方便
+3. zsh 支持命令选项补全
+4. zsh 支持命令参数补全
+5. zsh 支持更加聪明的目录补全
+6. zsh 强大的快速目录切换
+7. zsh 支持全局 alias 和后缀名 alias
+8. zsh 有着丰富多彩的命令行提示符
+
+[阅读原文](http://blog.jobbole.com/28829/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
+
+
+
 
