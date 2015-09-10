@@ -8,7 +8,7 @@
 1. [序言](#README)
 1. [人文·历史](#docs/history)
 1. [小说](#docs/novel)
-1. [英文](#docs/english)
+1. [外语](#docs/english)
 1. [武侠](#docs/swordsman)
 1. [传记](#docs/biography)
 1. [童话·寓言](#docs/fairytales)

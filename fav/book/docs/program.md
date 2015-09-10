@@ -4,7 +4,9 @@
 
 ——朱熹《训学斋规》
 
-## 周鸿祎自述：我的互联网方法论
+## IT
+
+### 周鸿祎自述：我的互联网方法论
 
 [豆瓣](http://book.douban.com/subject/25928983/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
@@ -44,7 +46,7 @@
 她对周鸿祎有强烈的信任感：“这样的生活让我很快乐，我相信这辈子不会我们挣不到钱，再不济，打工也可以养活两个人嘛。对周鸿祎这种智商的人来说，
 挣钱应该很EASY，关键是做自己想做的事情才是最快乐的。”周鸿祎娶的老婆实在难能可贵。 
 
-### 第五章 体验为王
+#### 第五章 体验为王
 
 在中国激烈的市场竞争中，3721虽然有很多创新，但犯了一个致命的错误，那就是在跟百度的竞争过程中，不尊重用户感受：为了抢夺市场份额，我们频繁给用户弹窗安装软件；为了与百度抢地址栏，为了防止百度强行删除3721，我们把3721做得很难卸载。我认为这是非常惨痛的教训。从用户的角度来看，虽然产品给他们带来了很大的方便，但一旦有一个地方给他们造成极大的不方便，导致了糟糕的体验，那他们也会毫不犹豫地抛弃它。这些都是需要修正的地方，但我们并没有在意。当年，我单纯地认为只要把软件做好，只要放在网上让人下载，任务就算完成了，对于用户怎样下载，怎样安装，怎样使用以及怎样卸载，整个过程我们并没有关心，而这恰恰是产品体验的重要组成部分。
 
@@ -83,36 +85,48 @@
 
 做产品必定是个痛苦的过程。用户永远是对的，我们不能对用户发脾气，有的时候甚至需要放下自尊，因为在用户面前，自尊没用。当你做出真正的好产品的时候，当你成功的时候，行业里就会尊重你。在行业里面，做出点成绩，你可以骄傲一点，但面对用户，你永远要放下身段，倾听用户的需求，甚至倾听用户的羞辱。
 
+### 点石成金：访客至上的网页设计秘笈
+### 沸腾十五年：中国互联网1995-2009
+### 新浪之道：门户网站新闻频道的运营
 
-## ActionScript3 设计模式
-## jQuery 基础教程
-## jQuery 实战
-## 精通 CSS：高级Web标准解决方案
-## 精通 JavaScript
-## JavaScript 高级程序设计
-## JavaScript DOM 编程艺术
-## JavaScript 语言精粹
-## jQuery in Action
-## Flash ActionScript3.0 动画高级教程
-## FlashA ctionScript3.0 动画教程
-## 精通 Hibernate：Java对象持久化技术详解
-## 精通 Struts：基于MVC的JavaWeb设计与开发
-## Java 语言入门
-## JDO 开发
-## Flash ActionScript3 殿堂之路
-## JavaScript DOM 编程艺术 第2版
-## 点石成金：访客至上的网页设计秘笈
-## Spring in Action
-## Learning ActionScript3.0: A Beginner'sGuide
-## ActionScript3.0 Game Programming University
-## Groovy in Action
-## Programming Groovy: Dynamic Productivity for the Java Developer
-## Groovy 入门经典
-## Java2 核心技术卷Ⅱ：高级特性
-## Java2 核心技术卷Ⅰ：基础知识
-## Spring2.0 技术手册
-## JSP2.0 技术手册
-## PHP 和 MySQL Web开发
-## Tomcat 与 JavaWeb 开发技术详解
-## 沸腾十五年：中国互联网1995-2009
-## 新浪之道：门户网站新闻频道的运营
+
+## UI
+
+### jQuery 基础教程
+### jQuery in Action
+### 精通 JavaScript（John Resig）
+### JavaScript 高级程序设计
+### JavaScript DOM 编程艺术
+### JavaScript 语言精粹
+### 精通 CSS：高级Web标准解决方案
+
+
+## Java
+
+### Java 语言入门
+### JDO 开发
+### Spring in Action
+### Java2 核心技术卷Ⅱ：高级特性
+### Java2 核心技术卷Ⅰ：基础知识
+### Spring2.0 技术手册
+### JSP2.0 技术手册
+### 精通 Hibernate：Java对象持久化技术详解
+### 精通 Struts：基于MVC的JavaWeb设计与开发
+### Tomcat 与 JavaWeb 开发技术详解
+### Groovy in Action
+### Grails in Action
+### Programming Groovy: Dynamic Productivity for the Java Developer
+### Groovy 入门经典
+
+## Flash
+
+### Learning ActionScript3.0: A Beginner'sGuide
+### ActionScript3.0 Game Programming University
+### FlashA ctionScript3.0 动画教程
+### ActionScript3 设计模式
+### Flash ActionScript3.0 动画高级教程
+### Flash ActionScript3 殿堂之路
+
+## PHP
+
+### PHP 和 MySQL Web开发
