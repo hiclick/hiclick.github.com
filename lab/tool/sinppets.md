@@ -7,7 +7,7 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 
 ### Font Awesome
 
-|Abbrreviation|Vshow|Template Text|
+|Abbreviation|Vshow|Template Text|
 |----|----|----|
 |arrow	|<i class="fa fa-arrow-circle-down"></i>|&lt;i class=&quot;fa fa-arrow-circle-down&quot;>&lt;/i>|
 |bell	|<i class="fa fa-bell-o"></i>|&lt;i class=&quot;fa fa-bell-o&quot;>&lt;/i>|
