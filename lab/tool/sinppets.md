@@ -18,7 +18,7 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 |exc	|	<i class="fa fa-exclamation-triangle"></i>|
 |extl 	|<sup><i class="fa fa-external-link fa-fw"></i></sup>|
 |frown |	<i class="fa fa-frown-o"></i>|
-|git 	|<i class="fa fa-github fa-2x"></i>|
+|git 	|<i class="fa fa-github fa-1x"></i>|
 |home	|<i class="fa fa-home"></i>|
 |jsf	|	<i class="fa fa-jsfiddle"></i>|
 |paste	|<i class="fa fa-paste"></i>|
