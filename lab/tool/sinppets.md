@@ -7,15 +7,24 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 
 ### Font Awesome
 
-{% highlight html %}
-<i class="fa fa-cloud"></i>
-<i class="fa fa-github fa-2x"></i>
-<i class="fa fa-download"></i>
-<i class="fa fa-jsfiddle"></i>
-<i class="fa fa-stack-overflow"></i>
-<i class="fa fa-arrow-circle-down"></i>
-<sup><i class="fa fa-external-link fa-fw"></i></sup>
-{% endhighlight %}
+|Abbrreviation|Template Text|
+|----|----|
+|arrow	|<i class="fa fa-arrow-circle-down"></i>|
+|bell	|<i class="fa fa-bell-o"></i>|
+|bug	|	<i class="fa fa-bug"></i>|
+|cloud	|<i class="fa fa-cloud"></i>|
+|copy	|<i class="fa fa-copy"></i>|
+|down 	|<i class="fa fa-download"></i>|
+|exc	|	<i class="fa fa-exclamation-triangle"></i>|
+|extl 	|<sup><i class="fa fa-external-link fa-fw"></i></sup>|
+|frown |	<i class="fa fa-frown-o"></i>|
+|git 	|<i class="fa fa-github fa-2x"></i>|
+|home	|<i class="fa fa-home"></i>|
+|jsf	|	<i class="fa fa-jsfiddle"></i>|
+|paste	|<i class="fa fa-paste"></i>|
+|plug	|<i class="fa fa-plug"></i>|
+|stack	|<i class="fa fa-stack-overflow"></i>|
+|thumb	|<i class="fa fa-thumbs-o-up"></i>|
 
 ### Special Character
 
