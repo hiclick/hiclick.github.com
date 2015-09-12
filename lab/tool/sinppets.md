@@ -25,7 +25,7 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 |plug	|<i class="fa fa-plug"></i>|&lt;i class="fa fa-plug">&lt;/i>|
 |stack	|<i class="fa fa-stack-overflow"></i>|&lt;i class="fa fa-stack-overflow">&lt;/i>|
 |thumb	|<i class="fa fa-thumbs-o-up"></i>|&lt;i class="fa fa-thumbs-o-up">&lt;/i>|
-|wps |<i class="fa fa-wordpress fa-fw"></i> | &lt;i class='fa fa-wordpress fa-fw'></i>|
+|wps |<i class="fa fa-wordpress fa-fw"></i> | &lt;i class=&quot;fa fa-wordpress fa-fw&quot;></i>|
 
 ### Special Character
 
