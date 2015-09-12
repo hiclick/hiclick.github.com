@@ -27,7 +27,7 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 |thumb	|<i class="fa fa-thumbs-o-up"></i>|&lt;i class=&quot;fa fa-thumbs-o-up&quot;>&lt;/i>|
 |wps |<i class="fa fa-wordpress fa-fw"></i> | &lt;i class=&quot;fa fa-wordpress fa-fw&quot;></i>|
 
-<br/><br/>
+<br/>
 
 [Font Awesome Cheatsheet](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
 
