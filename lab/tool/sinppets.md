@@ -7,24 +7,24 @@ tagline: 博学而日参省乎己，则知明而行无过矣
 
 ### Font Awesome
 
-|Abbrreviation|Template Text|
-|----|----|
-|arrow	|<i class="fa fa-arrow-circle-down"></i>|
-|bell	|<i class="fa fa-bell-o"></i>|
-|bug	|	<i class="fa fa-bug"></i>|
-|cloud	|<i class="fa fa-cloud"></i>|
-|copy	|<i class="fa fa-copy"></i>|
-|down 	|<i class="fa fa-download"></i>|
-|exc	|	<i class="fa fa-exclamation-triangle"></i>|
-|extl 	|<sup><i class="fa fa-external-link fa-fw"></i></sup>|
-|frown |	<i class="fa fa-frown-o"></i>|
-|git 	|<i class="fa fa-github fa-1x"></i>|
-|home	|<i class="fa fa-home"></i>|
-|jsf	|	<i class="fa fa-jsfiddle"></i>|
-|paste	|<i class="fa fa-paste"></i>|
-|plug	|<i class="fa fa-plug"></i>|
-|stack	|<i class="fa fa-stack-overflow"></i>|
-|thumb	|<i class="fa fa-thumbs-o-up"></i>|
+|Abbrreviation|Template Text|Vshow|
+|----|----|----|
+|arrow	|<i class="fa fa-arrow-circle-down"></i>|<i class="fa fa-arrow-circle-down">&lt;/i>|
+|bell	|<i class="fa fa-bell-o"></i>|<i class="fa fa-bell-o">&lt;/i>|
+|bug	|<i class="fa fa-bug"></i>|<i class="fa fa-bug">&lt;/i>|
+|cloud	|<i class="fa fa-cloud"></i>|<i class="fa fa-cloud">&lt;/i>|
+|copy	|<i class="fa fa-copy"></i>|<i class="fa fa-copy">&lt;/i>|
+|paste	|<i class="fa fa-paste"></i>|<i class="fa fa-paste">&lt;/i>|
+|down 	|<i class="fa fa-download"></i>|<i class="fa fa-download">&lt;/i>|
+|exc	|<i class="fa fa-exclamation-triangle"></i>|<i class="fa fa-exclamation-triangle">&lt;/i>|
+|extl 	|<sup><i class="fa fa-external-link fa-fw"></i></sup>|sup><i class="fa fa-external-link fa-fw">&lt;/i>&lt;/sup>|
+|frown  |<i class="fa fa-frown-o"></i>|<i class="fa fa-frown-o">&lt;/i>|
+|git 	|<i class="fa fa-github fa-2x"></i>|i class="fa fa-github fa-2x">&lt;/i>|
+|home	|<i class="fa fa-home"></i>|<i class="fa fa-home">&lt;/i>|
+|jsf	|	<i class="fa fa-jsfiddle"></i>|<i class="fa fa-jsfiddle">&lt;/i>|
+|plug	|<i class="fa fa-plug"></i>|<i class="fa fa-plug">&lt;/i>|
+|stack	|<i class="fa fa-stack-overflow"></i>|i class="fa fa-stack-overflow">&lt;/i>|
+|thumb	|<i class="fa fa-thumbs-o-up"></i>|<i class="fa fa-thumbs-o-up">&lt;/i>|
 
 ### Special Character
 
