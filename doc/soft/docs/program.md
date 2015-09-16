@@ -336,9 +336,10 @@ of the open-source world very well. CVS and its semi-chaotic development model h
 ### Git
 
 * [如何高效利用 GitHub](http://www.oschina.net/news/38185/use-github-effective)
-* [Git 简易指南简体中文](http://rogerdudler.github.com/git-guide/index.zh.html)
+* [**Git 简易指南简体中文**](http://rogerdudler.github.com/git-guide/index.zh.html)
 * [Pro Git Book 中文版](https://github.com/progit/progit/tree/master/zh)
 * [Learn Git Branching](http://pcottle.github.com/learnGitBranching/)
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 
 if you Got:
 

@@ -2,16 +2,13 @@
 
 Adobe Photoshop CS6 Classroom in a Book
 
-Creative professionals seeking the fastest, easiest, most comprehensive way to learn Adobe Photoshop CS6 choose Adobe
-Photoshop CS6 Classroom in a Book from the Adobe Creative Team at Adobe Press. The 14 project-based lessons in this book
-show readers step-by-step the key techniques for working in Photoshop CS6 and how to manipulate images, edit motion-based
-content, and create image composites.
+这些内容想办法尽快消化
 
-In addition to learning the key elements of the Photoshop interface, this completely revised CS6 edition covers new
-features, including precise cropping with multiple overlays, expanded content-aware toolkit with skin tone-aware
-selections and masking, three new blur effects, re-engineered design tools, adaptive Wide Angle adjustments, improved
-Camera Raw engine, improved auto corrections, Background Save and Auto-recovery, modernized user interface, intuitive
-video enhancements, simplified 3D interface, improved editing speed with real-time results, and more.
+* [Photoshop视频教程全集 - 专辑 - 优酷视频](http://www.youku.com/playlist_show/id_623203.html)
+* [最好的PS教程 Photoshop基础 PS入门 PS视频教程](http://v.youku.com/v_show/id_XNTkzMzYxODQw.html)
+* [敬伟教育的空间 优酷视频空间-聊聊影视，聊聊明星](http://i.youku.com/u/UMTIwNzEwODg2OA==)
+* [Photoshop CS6视频教程全集-风靡全网络的敬伟PS教程](http://www.youku.com/playlist_show/id_19304703_ascending_1_mode_pic_page_1.html)
+
 
 ## 二级标题一
 

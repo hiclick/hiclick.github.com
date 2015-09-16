@@ -8,6 +8,8 @@ Java 是我学习的第一门编程语言，自此告别编辑，走向编程。
 
 共同的特征是：编，涵盖整理与创作，遵循一定的条理和顺序。
 
+[Java编程思想第四版](http://yuedu.163.com/book_reader/cdc23633-3b65-4d5a-960c-eec52c52bf1b_4)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
 The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language. It is normally compiled to the bytecode instruction set and binary format defined in the Java Virtual Machine Specification.
 
 * [Java](http://docs.oracle.com/javase/tutorial/extra/certification/index.html)
