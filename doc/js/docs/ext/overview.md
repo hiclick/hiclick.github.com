@@ -19,7 +19,7 @@ ExtJs最开始基于YUI技术，由开发人员Jack Slocum开发，通过参考J
 * http://cdn.sencha.com/ext/gpl/ext-4.2.1-gpl.zip
 * http://cdn.sencha.com/ext/gpl/ext-5.1.0-gpl.zip
 
-其它的经典版本，可从[上海交通大学](http://www.sjtu.edu.cn)[FTP镜像](ftp://ftp.sjtu.edu.cn/pub/.mirror6/ftp.freebsd.org/ports/distfiles/)中下载：
+其它的经典版本，可从[上海交通大学](http://www.sjtu.edu.cn)~~[FTP镜像](ftp://ftp.sjtu.edu.cn/pub/.mirror6/ftp.freebsd.org/ports/distfiles/)~~中下载：
 
 Thanks to The File Search Engine: [http://www.filewatcher.com/](http://www.filewatcher.com/_/?q=ext-3.1.0.zip).
 
@@ -91,7 +91,16 @@ Thanks to The File Search Engine: [http://www.filewatcher.com/](http://www.filew
 </tr>
 </tbody></table>
 
-## Ext JS 5.0
+
+## 文档
+
+脚本娃娃 (Ext4.1.0 Doc中文版 V1.0.0 Beta)
+
+[http://extjs-doc-cn.github.io/ext4api/](http://extjs-doc-cn.github.io/ext4api/)
+
+## 版本
+
+我从2.x系列开始关注Ext，至开发健康库的时候，赵玮将3.x付诸应用，目前稳定版本为5.0。
 
 Sencha Ext JS is the leading standard for business-grade web application development. With over 100 examples, 1000 APIs,
 hundreds of components, a full documentation suite and built in themes, Ext JS provides the tools necessary to build
