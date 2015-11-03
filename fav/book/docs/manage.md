@@ -6,6 +6,29 @@
 
 ## 余世维讲座
 
+已听：
+
+* 2011赢在执行第二版
+* 宾客期望的酒店管理
+* 成功经理人南京邮电版
+
+关于执行力，总结为一句话：用正确的人，把正确的事做正确。还有一个观点印象深刻：管理者应该花精力留住10%的关键人才。[这里](http://wenku.baidu.com/view/52543a4858fb770bf78a5582.html)可以看到讲义。[还有另外一个版本](http://wenku.baidu.com/view/714ffaf6f61fb7360b4c6589.html)。[而这一部](http://wenku.baidu.com/view/76656184bceb19e8b8f6bab3.html)有可能是第一版，无法查证。
+
+酒店管理字面上和我的日常工作关系不大，但是同为服务行业，还有是参考价值的，[这里](http://wenku.baidu.com/view/7be52805bed5b9f3f80f1c01.html)有网友整理的讲义，建议经常翻阅。中餐、西餐、日本料理的礼仪，更要认真学习。还有[PPT讲义](http://wenku.baidu.com/view/c554ad240722192e4536f642.html)，无法判断是否原版。
+
+[成功经理人](http://wenku.baidu.com/view/0d343c9eb9d528ea81c7799f.html)的南京邮电版，我在大学的时候已经听过了，不止一次，正是这一部讲座才知道余世维。印象最深的案例：不要说“我以为”。课件做得很棒！
+
+## 做最好的自己
+
+[豆瓣](http://book.douban.com/subject/1427679/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+
+李开复说：“要有勇气来改变可以改变的事情；有胸怀来接受不可改变的事情，有智慧来分辨两者的不同。”
+
+我听的是[有声版](http://chenzixin.com/2015/08/5482.html)，不是读的原版纸质书。
+
+听课笔记：[选择的智慧](http://chenzixin.com/2015/10/5999.html)
+
+
 ## 左手曾国藩右手胡雪岩
 ## 一分钟经理人
 ## 唐浩明评点曾国藩家书
