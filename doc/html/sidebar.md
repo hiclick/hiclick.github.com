@@ -15,6 +15,7 @@
 1. [Markdown](#docs/markdown)
 1. [Semantics](#docs/semantics)
 1. [Form](#docs/form)
+1. [Table](#docs/table)
 1. [Video](#docs/video)
 1. [Audio](#docs/audio)
 1. [Geolocation](#docs/geolocation)

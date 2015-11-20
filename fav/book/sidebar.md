@@ -6,14 +6,14 @@
 
 ## 目录
 1. [序言](#README)
-1. [人文·历史](#docs/history)
+1. [文史](#docs/history)
 1. [小说](#docs/novel)
 1. [外语](#docs/english)
 1. [武侠](#docs/swordsman)
 1. [传记](#docs/biography)
+1. [散文](#docs/essay)
 1. [童话·寓言](#docs/fairytales)
 1. [管理·数学](#docs/manage)
-1. [散文·小品](#docs/essay)
 1. [哲学·宗教](#docs/philosophy)
 1. [编程·科技](#docs/program)
 
