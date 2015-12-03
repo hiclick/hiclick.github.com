@@ -133,12 +133,12 @@
 
 ## 楚留香传奇：大沙漠
 
-[暂别沙漠](http://chenzixin.com/2015/06/4492.html)<i class="fa fa-wordpress fa-fw"></i>
+[暂别沙漠](http://chenzixin.com/2015/06/4492.html)
 
 
 ## 楚留香传奇：血海飘香
 
-[楚留香传奇之血海飘香](http://chenzixin.com/2015/02/1921.html)<i class="fa fa-wordpress fa-fw"></i>
+[楚留香传奇之血海飘香](http://chenzixin.com/2015/02/1921.html)
 
 ## 小李飞刀：多情剑客无情剑
 ## 绝代双骄
