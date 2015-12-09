@@ -1,4 +1,4 @@
-# Mootools - Overview
+# Mootools
 
 <i class="fa fa-home fa-2x"></i>
 

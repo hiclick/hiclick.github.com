@@ -28,14 +28,17 @@ I started evaluating this very recently and it seems good. However it is not fre
 
 Querious, ﻿Navicat, and SQLEditor are also worth a look depending on your needs.
 
-----
+## MySQL Workbench
 
-* MySQL-Front
-* MySQL Workbench
-* phpMyAdmin
-* Sequel Pro
-* SQL Buddy
-* SQLyog
+## HeidiSQL
+
+目前北京研发在用
+
+## Sequel Pro
+
+## PremiumSoft Navicat for MySQL
+
+## SQLyog
 
 
 ## phpMyAdmin

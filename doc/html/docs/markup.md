@@ -1,9 +1,26 @@
 # HTML5 - Markup
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+As you learn HTML5 and add new techniques to your toolbox, you’re likely to want to build yourself a boilerplate, from which you can begin all your HTML5-based projects. 
 
-## 二级标题一
+## A Basic HTML5 Template
 
-## 二级标题二
+Let’s start simple, with a bare-bones HTML5 page:
 
-## 二级标题三
+```markup
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The HTML5 Herald</title>
+    <meta name="description" content="The HTML5 Herald">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" href="css/styles.css">
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/r29/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
+```

@@ -8,15 +8,19 @@ Java 是我学习的第一门编程语言，自此告别编辑，走向编程。
 
 共同的特征是：编，涵盖整理与创作，遵循一定的条理和顺序。
 
-[Java编程思想第四版](http://yuedu.163.com/book_reader/cdc23633-3b65-4d5a-960c-eec52c52bf1b_4)<sup><i class="fa fa-external-link fa-fw"></i></sup>
-
 The Java™ Programming Language is a general-purpose, concurrent, strongly typed, class-based object-oriented language. It is normally compiled to the bytecode instruction set and binary format defined in the Java Virtual Machine Specification.
+
+Java文档主要包括以下三个部分：
 
 * [Java](http://docs.oracle.com/javase/tutorial/extra/certification/index.html)
 * [JSP](http://www.tutorialspoint.com/jsp/)
 * [Spring](http://www.tutorialspoint.com/spring/)
 
-[Java Technology Tutorials](http://www.tutorialspoint.com/java_technology_tutorials.htm)
+Tutorials Point 是非常优秀的在线教程库，这里是Java技术一览：[Java Technology Tutorials](http://www.tutorialspoint.com/java_technology_tutorials.htm)。
+
+百度云保存了从官方下载的分模块[教程](http://www.oracle.com/technetwork/java/javase/java-tutorial-downloads-2005894.html)：
+
+路径：`Monkey/图书/科技/repositories/ebooks/HR/Java SE Tutorial/`
 
 ### 语言结构
 

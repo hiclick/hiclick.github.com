@@ -10,7 +10,6 @@
 1. [Preface](#README)
 1. [XHTML](#docs/xhtml)
 1. [Emmet](#docs/emmet)
-1. [Introducing](#docs/introducing)
 1. [Markup](#docs/markup)
 1. [Markdown](#docs/markdown)
 1. [Semantics](#docs/semantics)

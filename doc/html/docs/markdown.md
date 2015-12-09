@@ -82,57 +82,6 @@ Textile is distributed under a BSD-style license and is included with, or availa
 
 [Textile Reference Manual for RedCloth 4](http://redcloth.org/textile)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-Textile is a simple text markup language to be used when writing on blogs, wikis, and documents. This guide presumes no 
-knowledge of html, though you may certainly use it if what you want to accomplish is more complex than Textile allows.
-
-以下文档在墙外，我列出目录，非为阅读，而是为了概览文本编写的结构：
-
-*   [Introduction](http://redcloth.org/textile)
-*   [Writing Paragraph Text](http://redcloth.org/textile/writing-paragraph-text/)
-    *   [Simple paragraphs](http://redcloth.org/textile/writing-paragraph-text/#simple-paragraphs)
-    *   [Line breaks](http://redcloth.org/textile/writing-paragraph-text/#line-breaks)
-    *   [Typographer's quotes](http://redcloth.org/textile/writing-paragraph-text/#typographers-quotes)
-    *   [Dashes](http://redcloth.org/textile/writing-paragraph-text/#dashes)
-    *   [Ellipses](http://redcloth.org/textile/writing-paragraph-text/#ellipses)
-    *   [Dimension sign](http://redcloth.org/textile/writing-paragraph-text/#dimension-sign)
-    *   [Registered, trademark, and copyright symbols](http://redcloth.org/textile/writing-paragraph-text/#registered-trademark-and-copyright-symbols)
-    *   [Acronyms](http://redcloth.org/textile/writing-paragraph-text/#acronyms)
-    *   [Uppercase](http://redcloth.org/textile/writing-paragraph-text/#uppercase)
-*   [Page Layout](http://redcloth.org/textile/page-layout/)
-    *   [Headings](http://redcloth.org/textile/page-layout/#headings)
-    *   [Block quotations](http://redcloth.org/textile/page-layout/#block-quotations)
-    *   [Bullet lists](http://redcloth.org/textile/page-layout/#bullet-lists)
-    *   [Numbered lists](http://redcloth.org/textile/page-layout/#numbered-lists)
-    *   [Mixed nested lists](http://redcloth.org/textile/page-layout/#mixed-nested-lists)
-    *   [Definition lists](http://redcloth.org/textile/page-layout/#definition-lists)
-    *   [Footnotes](http://redcloth.org/textile/page-layout/#footnotes)
-    *   [Tables](http://redcloth.org/textile/page-layout/#tables)
-    *   [Divisions](http://redcloth.org/textile/page-layout/#divisions)
-*   [Phrase modifiers](http://redcloth.org/textile/phrase-modifiers/)
-    *   [Strong importance](http://redcloth.org/textile/phrase-modifiers/#strong-importance)
-    *   [Stress emphasis](http://redcloth.org/textile/phrase-modifiers/#stress-emphasis)
-    *   [Stylistic offset](http://redcloth.org/textile/phrase-modifiers/#stylistic-offset)
-    *   [Alternate voice](http://redcloth.org/textile/phrase-modifiers/#alternate-voice)
-    *   [Citation](http://redcloth.org/textile/phrase-modifiers/#citation)
-    *   [Insertions and deletions](http://redcloth.org/textile/phrase-modifiers/#insertions-and-deletions)
-    *   [Superscript and subscript](http://redcloth.org/textile/phrase-modifiers/#superscript-and-subscript)
-    *   [Links](http://redcloth.org/textile/phrase-modifiers/#links)
-    *   [Images](http://redcloth.org/textile/phrase-modifiers/#images)
-*   [Attributes](http://redcloth.org/textile/attributes/)
-    *   [CSS classes and IDs](http://redcloth.org/textile/attributes/#css-classes-and-ids)
-    *   [CSS styles](http://redcloth.org/textile/attributes/#css-styles)
-    *   [Language](http://redcloth.org/textile/attributes/#language)
-    *   [Alignment](http://redcloth.org/textile/attributes/#alignment)
-    *   [Indentation](http://redcloth.org/textile/attributes/#indentation)
-*   [HTML Integration and Escapement](http://redcloth.org/textile/html-integration-and-escapement/)
-    *   [HTML spans](http://redcloth.org/textile/html-integration-and-escapement/#html-spans)
-    *   [Inline code](http://redcloth.org/textile/html-integration-and-escapement/#inline-code)
-    *   [Block code](http://redcloth.org/textile/html-integration-and-escapement/#block-code)
-    *   [Inline HTML](http://redcloth.org/textile/html-integration-and-escapement/#inline-html)
-    *   [Block HTML](http://redcloth.org/textile/html-integration-and-escapement/#block-html)
-    *   [No Textile](http://redcloth.org/textile/html-integration-and-escapement/#no-textile)
-    *   [Preformatted text](http://redcloth.org/textile/html-integration-and-escapement/#preformatted-text)
-    
 ***
 
 A library to convert Textile to HTML:

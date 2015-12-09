@@ -14,17 +14,17 @@
 * 外部样式表通常存储在 CSS 文件中
 * 多个样式定义可层叠为一
 
-[CSS2 教程](http://www.w3school.com.cn/css/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+W3School 教程：
 
-[CSS3 教程](http://www.w3school.com.cn/css3/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
-
-[CSS 属性参考手册](http://www.w3school.com.cn/cssref/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
-
-[CSS 选择器参考手册](http://www.w3school.com.cn/cssref/css_selectors.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+* [CSS2 教程](http://www.w3school.com.cn/css/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+* [CSS3 教程](http://www.w3school.com.cn/css3/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+* [CSS 属性参考手册](http://www.w3school.com.cn/cssref/index.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
+* [CSS 选择器参考手册](http://www.w3school.com.cn/cssref/css_selectors.asp)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
 
 [Mozilla Developer Network CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
+文档主体参考：[O'Reilly CSS The Definitive Guide 3rd Edition](http://pclib.github.io/safari/program/css-the-definitive-guide/)
 
 ### 版权许可
 

@@ -1,17 +1,26 @@
 # DataBase and Cache
 
-**浣溪沙·当时只道是寻常**
+## MySQL
 
-清·纳兰性德
+The world's most popular open source database.
 
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
+Download: [Here](http://www.mysql.com/downloads/).
 
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
+本教程参考书：
 
+* O'Reilly.MySQL.Cookbook.2nd.Edition.Nov.2006.chm（Primary）
+* MySQL Cookbook Solutions for Database Developers and Administrators 3rd.pdf
+* [O'Reilly Learning MySQL Nov 2006](http://pclib.github.io/safari/program/learning-mysql/)
 
-纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。
+## Memcached
 
--- 王国维
+http://www.memcached.org/
+
+Free & open source, high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.
+
+Memcached is an in-memory key-value store for small chunks of arbitrary data (strings, objects) from results of database calls, API calls, or page rendering.
+
+Memcached is simple yet powerful. Its simple design promotes quick deployment, ease of development, and solves many problems facing large data caches. Its API is available for most popular languages.
 
 ### 版权许可
 

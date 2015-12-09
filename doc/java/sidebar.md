@@ -9,7 +9,7 @@
 ### Fundamentals
 1. [Preface](#README)
 1. [Env](#docs/env)
-1. [Start](#docs/start)
+1. [Start](#docs/start) *Level Ⅰ*
 1. [Data](#docs/data)
 1. [Operator](#docs/operator)
 1. [Array](#docs/array)
@@ -17,21 +17,23 @@
 1. [Method](#docs/method)
 1. [Inheritance](#docs/inheritance)
 1. [Exception](#docs/exception)
-1. [Class](#docs/class)
+1. [Class](#docs/class) *Level Ⅱ*
 1. [Pattern](#docs/pattern)
 1. [Object](#docs/object)
 1. [Generics](#docs/generics)
 1. [Collection](#docs/collection)
 1. [String](#docs/string)
 1. [IO](#docs/io)
-1. [NetWorking](#docs/networking)
+1. [Datetime](#docs/datetime) *Upgrade*
+1. [NetWorking](#docs/networking) *Upgrade*
 1. [JDBC](#docs/jdbc)
 1. [Threads](#docs/threads)
 1. [Concurrency](#docs/concurrency)
-1. [Datetime](#docs/datetime)
-1. [Deployment](#docs/deployment)
+1. [Deployment](#docs/deployment) *Upgrade*
 1. [Localization](#docs/localization)
-1. [Library](#docs/library)
+1. [Library](#docs/library) *Upgrade*
+1. [Groovy](#docs/groovy)
+1. [Scala](#docs/scala)
 
 
 ### JSP
@@ -98,15 +100,6 @@
 1. [Adding Spring Framework](#docs/jfw-adding-spring-framework)
 1. [Persisting Data with JPA](#docs/jfw-persisting-data-with-jpa)
 1. [Securing Your Application](#docs/jfw-securing-your-application)
-
-### Groovy
-1. [Overview](#docs/groovy/overview)
-
-### Scala
-1. [Overview](#docs/scala/overview)
-
-### Android
-1. [Overview](#docs/android/overview)
 
 ## 其他
 - [源码](https://github.com/hiclick/hiclick.github.com)

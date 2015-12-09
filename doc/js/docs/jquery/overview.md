@@ -13,6 +13,7 @@ jQuery simplifies HTML document traversing, event handling, animating, and Ajax 
     var js = doc.createElement("script");
     js.src = "http://www1.pconline.com.cn/api/libs/jquery/jquery-1.7.2.min.js";
     var fs = doc.getElementsByTagName('script')[0];
+    //var fs = doc.getElementsByTagName('link')[0];
     fs.parentNode.insertBefore(js, fs);
 })(document);
 ```

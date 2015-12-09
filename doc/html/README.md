@@ -1,23 +1,31 @@
 # HTML5
 
-参考：SitePoint HTML5 & CSS3 for the Real World 2nd Edition
+HTML5 is the latest and most enhanced version of HTML.
+
+Technically, HTML is not a programming language, but rather a mark up language.
 
 Useful Resources:
 
-http://www.w3school.com.cn/
+* http://www.tutorialspoint.com/html5/index.htm
+* http://www.w3school.com.cn/html5/index.asp
+* SitePoint HTML5 & CSS3 for the Real World 2nd Edition.pdf（Primary）
 
-**浣溪沙·当时只道是寻常**
+A Simple Sample:
 
-清·纳兰性德
+```markup
+<!DOCTYPE HTML>
+<html>
+<body>
 
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
+<video width="320" height="240" controls="controls">
+  <source src="movie.ogg" type="video/ogg">
+  <source src="movie.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
-
-
-纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。
-
--- 王国维
+</body>
+</html>
+```
 
 ### 版权许可
 

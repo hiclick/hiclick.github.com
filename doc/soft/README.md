@@ -1,20 +1,8 @@
 # Software
 
+Computer programs; also called applications.
 
-Pragmatic Programming Ruby 1.9 and 2.0 4th Edition Jun.2013
-
-**浣溪沙·当时只道是寻常**
-
-清·纳兰性德
-
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
-
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
-
-
-纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。
-
--- 王国维
+每一款软件，都是有生命的。
 
 ### 版权许可
 

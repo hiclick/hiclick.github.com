@@ -16,8 +16,12 @@
 1. [HTMLAPI](#docs/htmlapi)
 1. [Tool](#docs/tool)
 1. [Advanced](#docs/advanced)
-1. [Library](#docs/library)
 1. [JSAPI](#docs/jsapi)
+1. [Library](#docs/library)
+1. [Node](#docs/node/overview)
+1. [ExtJS](#docs/ext/overview)
+1. [Mootools](#docs/moo/overview)
+1. [AngularJS](#docs/aj-overview)
 
 ### jQuery
 1. [Overview](#docs/jquery/overview)
@@ -31,18 +35,6 @@
 1. [AJAX](#docs/jquery/ajax)
 1. [Effects](#docs/jquery/effects)
 1. [UI](#docs/jquery/ui)
-
-### Node
-1. [Overview](#docs/node/overview)
-
-### ExtJS
-1. [Overview](#docs/ext/overview)
-
-### Mootools
-1. [Overview](#docs/moo/overview)
-
-### AngularJS
-1. [Overview](#docs/aj-overview)
 
 
 ## 其他

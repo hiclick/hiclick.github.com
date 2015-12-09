@@ -1,4 +1,4 @@
-# AngularJS - Overview
+# AngularJS
 
 In other JavaScript frameworks, we are forced to extend from custom JavaScript objects and manipulate the DOM from the outside in.
 
@@ -10,7 +10,7 @@ out, makes building impressive and expressive client-side applications quick and
 The AngularJS philosophy is driven by a few key tenets that drive everything from how to structure your application, to how
 your applications should be hooked together, to how to test your application and integrate your code with other libraries.
 
--- **OReilly AngularJS Up and Running**
+-- **O'Reilly AngularJS Up and Running**
 
 AngularJS is the leading framework for building dynamic JavaScript applications that take advantage of the capabilities of
 modern browsers and devices.

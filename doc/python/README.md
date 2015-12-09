@@ -1,26 +1,52 @@
 # Python
 
 
-内置工具：
+https://www.python.org/
+
+Whether you're new to programming or an experienced developer, it's easy to learn and use Python.
+
+Python is powerful... and fast; 
+
+plays well with others; 
+
+runs everywhere; 
+
+is friendly & easy to learn; 
+
+is Open.
+
+***
+
+This serves the files relative to the current directory:
 
 ```bash
 python -m SimpleHTTPServer 8000
 ```
 
-**浣溪沙·当时只道是寻常**
+It also can be used in the following manner in order to set up a very basic web server serving files relative to the current directory.
 
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
+```python
+import SimpleHTTPServer
+import SocketServer
 
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
+PORT = 8000
 
-清代才子纳兰性德，被誉为“清初第一词家”，也称满清第一才子的纳兰性德，其人品与词品都与南唐李煜有着惊人的相似，因此亦被称为“清朝李后主”。他的为人善良感性，性格淡漠出尘，如青墨般，堪称痴情男人楷模；他的《饮水词》曾掀起“家家争唱”的场面，词风清丽婉约，格高韵远，对仗工整，宛如天成，人生若只如初见，当时只道是寻常，更被人人争唱，纳兰词被郑振铎奉为“缠绵清婉，为当代冠”。
+Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
+
+httpd = SocketServer.TCPServer(("", PORT), Handler)
+
+print "serving at port", PORT
+httpd.serve_forever()
+```
+
+本文档的参考教材：
+
+* Apress Beginning Python From Novice to Professional 2nd（Primary）
+* [O'Reilly Programming Python 4th Edition](http://pclib.github.io/safari/program/programming-python/)
+* [O'Reilly Learning Python 5th Edition](http://pclib.github.io/safari/program/learning-python/)
+* [O'Reilly Python Cookbook 3rd Edition](http://pclib.github.io/safari/program/python-cookbook/)
 
 
-顾贞观：“容若词一种凄婉处令人不忍卒读。”
-
-王国维：“纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。”
-
-郑振铎：“纳兰词缠绵清婉，为当代冠。”
 
 ### 版权许可
 

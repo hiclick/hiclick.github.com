@@ -3,7 +3,7 @@
 But Java is much more than just these daily, visible reminders you may be exposed to. Java is a powerful language, but
 much of its capability lies in the power of the platform.
 
-## Introducing Java Platform, Enterprise Edition
+## Introducing Java Platform Enterprise Edition
 ## Using Web Containers
 ## Writing Your First Servlet
 ## Using JSPs to Display Content

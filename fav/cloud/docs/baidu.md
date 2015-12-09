@@ -1,10 +1,28 @@
 # Cloud - 百度
 
-Cloud computing is a computing term or metaphor that evolved in the late 2000s, based on utility and consumption of
-computer resources. Cloud computing involves deploying groups of remote servers and software networks that allow
-centralized data storage and online access to computer services or resources. Clouds can be classified as public,
-private or hybrid.
+## 百度云盘
 
-## 二级标题一
+### 技巧
 
-## 二级标题二
+列目录：
+
+```javascript
+jQuery("span .name-text").each(function(){
+    console.log(jQuery(this).text().trim());
+});
+```
+ 
+效果：
+
+```java
+野哭·弘光列传 李洁非明史书系 - 李洁非著.epub
+龙床·明六帝纪 李洁非明史书系 - 李洁非著.epub
+龙床·明六帝纪 李洁非明史书系 - 李洁非著.azw3
+黑洞·弘光纪事 李洁非明史书系 - 李洁非著.mobi
+黑洞·弘光纪事 李洁非明史书系 - 李洁非著.epub
+新建文件夹(2)
+```
+
+暂不明为何有**新建文件夹(2)**。
+
+

@@ -2,7 +2,9 @@
 
 吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
 
-## 顶层函数
+## Global Functions
+
+Functions which are called globally rather than on an object—directly return their results to the caller.
 
 <table class="dataintable">
   <tbody><tr>
@@ -104,7 +106,7 @@ http%3A%2F%2Fwww.example.com%2Fstring%20with%20%2B%20and%20%3F%20and%20%26%20and
 
 [URL Decoder/Encoder](http://meyerweb.com/eric/tools/dencoder/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-### HTMLEncode
+## HTML Encode
 
 <i class="fa fa-stack-overflow"></i> [HTML-encoding in JavaScript/jQuery](http://stackoverflow.com/a/1219983/4766670)
 

@@ -1,6 +1,8 @@
 # Python - Basics
 
-吾善度材，视栋宇之制，高深圆方短长之宜，吾指使而群工役焉。舍我，众莫能就一宇。故食于官府，吾受禄三倍；作于私家，吾收其宜大半焉。
+It’s time to start hacking. You will learn how to take control of your computer by speaking a language it understands: Python.
+
+这个 hacking 很有意思。
 
 ## 二级标题一
 

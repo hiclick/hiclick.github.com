@@ -1,10 +1,8 @@
 # CSS3 - Border
 
-CSS3 标准
+http://www.w3school.com.cn/css3/css3_border.asp
 
-W3C 仍然在对 CSS3 规范进行开发。
-
-不过，现代浏览器已经实现了相当多的 CSS3 属性。
+从这里开始
 
 ## 二级标题一
 

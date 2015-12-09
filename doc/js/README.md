@@ -7,14 +7,13 @@ https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference
 
-**浣溪沙·当时只道是寻常**
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
-清·纳兰性德
+辅助参考书：
 
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
-
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
-
+* [O'Reilly JavaScript The Definitive Guide 中文版](http://pclib.github.io/safari/program/javascript-the-definitive-guide-cn/)
+* [O'Reilly JavaScript The Definitive Guide](http://pclib.github.io/safari/program/javascript-the-definitive-guide-en/)
+* [Wrox Professional JavaScript for Web Developers](http://pclib.github.io/safari/program/professional-javascript-for-web-developers/)
 
 
 ### 版权许可

@@ -1,6 +1,8 @@
 # PHP
 
-突然想起，我和PHP其实大有渊源。
+本文档目录以O'Reilly PHP Cookbook 2nd Edition Aug.2006.chm为蓝本辑成。
+
+我和PHP其实颇有渊源。
 
 2007年3月，我在给领导的一封周结中，提到我在自学PHP，希望通过简单的编程，提升北京技术支持的力度和效果。
 
@@ -23,14 +25,6 @@
 2015年4月27日
 
 ***
-
-**浣溪沙·当时只道是寻常**
-
-清·纳兰性德
-
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
-
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
 
 PHP is the engine behind millions of dynamic web applications. Its broad feature set, approachable syntax, and support for different operating systems and web servers have made it an ideal language for both rapid web development and the methodical construction of complex systems.
 

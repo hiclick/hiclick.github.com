@@ -12,6 +12,8 @@ But Java is much more than just these daily, visible reminders you may be expose
 but much of its capability lies in the power of the platform.
 
 
+Start: http://pclib.github.io/safari/program/java-for-web-applications/
+
 
 
 

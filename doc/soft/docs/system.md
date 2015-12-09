@@ -111,3 +111,18 @@ Official Site: http://www.adobe.com/solutions/ebook/digital-editions.html
 * Liferea
 * PDF-XChange Viewer
 * Sumatra PDF
+
+### A-PDF Image to PDF
+
+成功将**2015年-16年2月时代物业合同**八张扫描图片，合并为一份PDF文档。
+
+Output：
+
+* High Quality Output：35.4M
+* Small Size (Color)：2.1M
+
+原图：33.7M
+
+合并之前，建议先将图片文件重命名排列好。个别错位的，也可以在软件中调整。
+
+工具：APDFImage2PDF.5.1.6，Windows，收藏于 docs。

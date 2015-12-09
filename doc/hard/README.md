@@ -1,18 +1,10 @@
 # Hardware
 
+The physical and mechanical components of a computer system, such as the electronic circuitry, chips, monitor, disks, disk drives, keyboard, modem, and printer.
 
-**浣溪沙·当时只道是寻常**
+[http://www.tutorialspoint.com/](http://www.tutorialspoint.com/computer_glossary/index.htm)
 
-清·纳兰性德
-
-谁念西风独自凉，萧萧黄叶闭疏窗，沉思往事立残阳。
-
-被酒莫惊春睡重，赌书消得泼茶香，当时只道是寻常。
-
-
-纳兰容若以自然之眼观物，以自然之舌言情。此初入中原未染汉人风气，故能真切如此，北宋以来，一人而已。
-
--- 王国维
+这里有一张词汇表。
 
 ### 版权许可
 
