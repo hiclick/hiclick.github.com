@@ -4,6 +4,23 @@ jQuery is a fast and concise JavaScript library created by John Resig in 2006.
 
 jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for Rapid Web Development.
 
+## 插件荟萃
+
+
+### JsRender
+
+A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
+
+https://github.com/borismoore/jsrender
+
+### jQuery Templates
+
+This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and will be superseded by [JsRender](https://github.com/borismoore/jsrender).
+
+work with jquery.1.4.4
+
+https://github.com/jquery/jquery-tmpl
+
 ## 动态加载
 
 目的：利用 jQuery 操作 DOM。
