@@ -25,4 +25,12 @@ jQuery("span .name-text").each(function(){
 
 暂不明为何有**新建文件夹(2)**。
 
+更新：
+
+2015年12月10日前后，百度云改版，根据屏幕的可视范围，自动增删Grid元素，没那到容易一次性取到全部文件了，69个英文读物，全部列出，大概需要10次滚屏。
+
+```javascript
+jQuery("a.filename").each(function(){console.log(jQuery(this).text())});
+```
+
 
