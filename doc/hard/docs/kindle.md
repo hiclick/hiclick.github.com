@@ -81,6 +81,13 @@ The decrypted ePUB files will saved to another folder, no change to the source f
 * BMP (.BMP)
 * PDF (.PDF)
 
+总结：
+
+1. 用亚马逊账号登录，每一台移动Kindle设备，包括手机上的Kindle客户端，都有对应的目标推送邮箱；
+2. 设置已认可的发件人电子邮箱列表；
+3. 用注册账号的邮箱发邮件到指定设备的邮箱，附上 mobi 格式的电子书；
+4. 打开Kindle的WIFI，同步内容即可。
+
 #### Send to kindle
 
 官方发布的软件，有[PC](http://www.amazon.com/gp/sendtokindle/pc)、[Android](http://www.amazon.com/gp/sendtokindle/android)、[Chrome](http://www.amazon.com/gp/sendtokindle/chrome)&[Firefox](http://www.amazon.com/gp/sendtokindle/firefox) 插件三种平台，我只试过PC端的推荐，没有成功，原因不明，我也不是很喜欢这个方法。
