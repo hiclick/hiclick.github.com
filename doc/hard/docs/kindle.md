@@ -86,7 +86,8 @@ The decrypted ePUB files will saved to another folder, no change to the source f
 1. 用亚马逊账号登录，每一台移动Kindle设备，包括手机上的Kindle客户端，都有对应的目标推送邮箱；
 2. 设置已认可的发件人电子邮箱列表；
 3. 用注册账号的邮箱发邮件到指定设备的邮箱，附上 mobi 格式的电子书；
-4. 打开Kindle的WIFI，同步内容即可。
+4. 打开Kindle的WIFI，同步内容即可；
+5. 官方说电子邮件所附的个人文档不得超过25个，每封邮件的附件总大小不得超过50MB，但是单个文件超过20MB即告失败。
 
 #### Send to kindle
 
