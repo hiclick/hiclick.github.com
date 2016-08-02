@@ -1,6 +1,6 @@
 # JavaScript
 
-阮一峰：[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+
 
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
@@ -11,10 +11,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
 辅助参考书：
 
-* [O'Reilly JavaScript The Definitive Guide 中文版](http://pclib.github.io/safari/program/javascript-the-definitive-guide-cn/)
+* [O'Reilly JavaScript The Definitive Guide 中文版](http://pclib.github.io/safari/program/javascript-the-definitive-guide-cn/)（Primary）
 * [O'Reilly JavaScript The Definitive Guide](http://pclib.github.io/safari/program/javascript-the-definitive-guide-en/)
 * [Wrox Professional JavaScript for Web Developers](http://pclib.github.io/safari/program/professional-javascript-for-web-developers/)
-
+* [阮一峰 JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
 ### 版权许可
 

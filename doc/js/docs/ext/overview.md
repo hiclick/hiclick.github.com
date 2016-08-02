@@ -17,7 +17,8 @@ ExtJs最开始基于YUI技术，由开发人员Jack Slocum开发，通过参考J
 * http://dev.sencha.com/deploy/ext-2.3.0.zip
 * http://cdn.sencha.com/ext/gpl/ext-3.4.1.1-gpl.zip
 * http://cdn.sencha.com/ext/gpl/ext-4.2.1-gpl.zip
-* http://cdn.sencha.com/ext/gpl/ext-5.1.0-gpl.zip
+* http://cdn.sencha.com/ext/gpl/ext-5.1.1-gpl.zip
+* https://www.sencha.com/legal/gpl/
 
 其它的经典版本，可从[上海交通大学](http://www.sjtu.edu.cn)~~[FTP镜像](ftp://ftp.sjtu.edu.cn/pub/.mirror6/ftp.freebsd.org/ports/distfiles/)~~中下载：
 
