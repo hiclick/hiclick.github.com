@@ -8,6 +8,7 @@
 
 ### JavaScript
 1. [Preface](#README)
+1. [Introduction](#docs/introduction)
 1. [Library](#docs/library)
 1. [Node](#docs/node/overview)
 1. [ExtJS](#docs/ext/overview)

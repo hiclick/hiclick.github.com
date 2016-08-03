@@ -32,5 +32,5 @@ more specialized helpers: function binding, javascript templating, deep equality
 built-in functions, if present, so modern browsers will use the native implementations of ```forEach```, ```map```, ```reduce```, ```filter```,
 ```every```, ```some``` and ```indexOf```.
 
-http://documentcloud.github.io/underscore/
+http://underscorejs.org/
 
