@@ -14,3 +14,5 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+*.DS_Store
+._*
