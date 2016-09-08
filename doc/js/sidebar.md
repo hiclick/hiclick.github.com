@@ -26,6 +26,7 @@
 1. [Events](#docs/jquery/events)
 1. [AJAX](#docs/jquery/ajax)
 1. [Effects](#docs/jquery/effects)
+1. [Plugin](#docs/jquery/plugin)
 1. [UI](#docs/jquery/ui)
 
 

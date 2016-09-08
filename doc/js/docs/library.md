@@ -8,12 +8,16 @@ colorbox fancybox => jQuery plugins
 
 ## IvanK
 
-IvanK.js is open source, but it was not meant to be developed by a huge community. It is very light and simple library
-and it should remain so. New features should be added very sparingly. If you want to make a "big extension", like
-particle systems, bitmap filters, animation libraries, game engines etc., you can build it on top of IvanK.
-I am looking forward to see what you can do!
+IvanK.js is light Javascript library for rich 2D and 3D graphics, inspired by Flash, so it is familiar to flash developers.
 
-You can download current library from links below, or you can directly link your app to the latest version.
+* Incredible speed
+* Easiest way to do 3D
+* "Native" programming
+* Mobile devices support
+
+IvanK.js is open source, but it was not meant to be developed by a huge community. It is very light and simple library
+and it should remain so. 
+
 
 ```markup
 <script type="text/javascript" src="http://lib.ivank.net/ivank.js"></script>
@@ -32,5 +36,5 @@ more specialized helpers: function binding, javascript templating, deep equality
 built-in functions, if present, so modern browsers will use the native implementations of ```forEach```, ```map```, ```reduce```, ```filter```,
 ```every```, ```some``` and ```indexOf```.
 
-http://underscorejs.org/
+http://underscorejs.org/ <sup><i class="fa fa-external-link fa-fw"></i></sup>
 
