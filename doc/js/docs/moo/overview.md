@@ -228,12 +228,6 @@ myTable.push(['lime', 'green']);
 * [[1.3.1]](http://lib.sinaapp.com/?path=mootools/1.3.1)
 * [[1.4.5]](http://lib.sinaapp.com/?path=mootools/1.4.5)
 
-[360网站卫士](http://libs.useso.com/js.php?path=mootools)
-
-* [[1.3.2]](http://libs.useso.com/js.php?path=mootools%2F1.3.2)
-* [[1.4.5]](http://libs.useso.com/js.php?path=mootools%2F1.4.5)
-* [[1.5.0]](http://libs.useso.com/js.php?path=mootools%2F1.5.0)
-
 ## Documentation
 
 ### Offline

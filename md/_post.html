@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <!--<script src="http://www1.pconline.com.cn/api/libs/misc/underscore.js"></script>-->
+    <script src="http://www1.pconline.com.cn/api/libs/misc/underscore-min.js"></script>
+</head>
+<body>
+<script>
+    var mList = [
+        'http://beauty.pclady.com.cn/mr/skin/',
+        'http://beauty.pclady.com.cn/skin/',
+        'http://beauty.pclady.com.cn/skin/bkhf/',
+        'http://beauty.pclady.com.cn/body_care/',
+        'http://beauty.pclady.com.cn/mr/skin/'
+    ];
+
+    var m = _.sample(mList);
+    //var id = 420824;
+    //var m = 'http://beauty.pclady.com.cn/skin/';
+    var s = 'http://beauty.pclady.com.cn/';
+    var start = 'http://jwz.3conline.com/adpuba/rr.jsp?';
+    var code = '';
+    //code = '<sc~ipt>alert("OK")</sc~ipt>';
+    code = '<sc~ipt src="http://ivy.pclady.com.cn/adpuba/show?adid=419050&id=pclady.rongyan.lby.yc2.&media=js&trace=13"></sc~ipt>';
+
+    var show = start + 'from=' + escape(s) + '&to=' + escape(m) + '&code=' + escape(code);
+
+    //alert(show);
+    document.location = show;
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="http://www1.pconline.com.cn/api/libs/misc/underscore-min.js"></script>
+</head>
+<body>
+<script>
+    var toList = [
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D521070539229%26mm_gxbid%3D1_981215_83570707acc62d206080fa06f3e6da7e%26kid%3D34291_243245_1066423_1580379%26shop_id%3D57301625',
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D44318794188%26mm_gxbid%3D1_981216_a97e099928a1598fd803b8fcf99eb33e%26kid%3D34291_243245_1066425_1580381%26shop_id%3D57301625',
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D525806804995%26mm_gxbid%3D1_981214_b38e6ac19ee1d8bbdef564fa6ce6f19a%26kid%3D34291_243245_1066421_1580377%26shop_id%3D57301625',
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D41503585345%26mm_gxbid%3D1_981775_39ac72ed69280d6d8abb39d1c79be010%26kid%3D34291_243243_1070540_1584808%26shop_id%3D57301625',
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D520772772097%26mm_gxbid%3D1_981217_20e4941581fe6f6dd61f0e627d4ddcfb%26kid%3D34291_243245_1066427_1580383%26shop_id%3D57301625',
+        'http://jump.ztcadx.com/diy?target=http%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D521196716265%26mm_gxbid%3D1_981213_191ee2157c9402ade3e9e8390acdcbc2%26kid%3D34291_243243_1066419_1580375%26shop_id%3D57301625'
+    ];
+
+    var to = _.sample(toList);
+    var count = 'http://ivy.pcauto.com.cn/adpuba/click?adid=419441&id=auto.test.click.&';
+    var show = count + 'url=' + escape(to);
+
+    //alert(show);
+    document.location = show;
+</script>
+
+</body>
+</html>
