@@ -29,8 +29,8 @@ Supported protocols include:
 
 [Java FTP Tips](http://www.nsftools.com/tips/JavaFtp.htm) and I hava copied the code here:
 
-* [FTPConnection.java](http://christen.cn/doc/java/docs/attachment/FTPConnection.java)
-* [TestFTP.java](http://christen.cn/doc/java/docs/attachment/TestFTP.java)
+* [FTPConnection.java](http://git.christen.cn/doc/java/docs/attachment/FTPConnection.java)
+* [TestFTP.java](http://git.christen.cn/doc/java/docs/attachment/TestFTP.java)
 
 
 CSDN：[FTP文件上传与下载](http://blog.csdn.net/zlb824/article/details/7742959)

@@ -11,9 +11,9 @@
 
 |Module |Description
 |------|---------------
-|[Home](http://christen.cn/)  |&#x2611; Docs
-|[About](http://christen.cn/about.html)|&#x2611; Contact
-|[Work](http://christen.cn/work.html)  |&#x2610; Resume
+|[Home](http://git.christen.cn/)  |&#x2611; Docs
+|[About](http://git.christen.cn/about.html)|&#x2611; Contact
+|[Work](http://git.christen.cn/work.html)  |&#x2610; Resume
 
 ### TODOS
 

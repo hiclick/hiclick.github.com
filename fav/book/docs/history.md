@@ -109,7 +109,7 @@
 
 ## 黄帝内经十二经脉揭秘与应用
 
-本站阅读：[这里](http://christen.cn/fav/book/#docs/pub/neijing)
+本站阅读：[这里](http://git.christen.cn/fav/book/#docs/pub/neijing)
 
 ## 了凡四训
 

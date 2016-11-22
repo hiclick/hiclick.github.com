@@ -95,7 +95,7 @@ function init_edit_button() {
             //window.open(ditto.base_url + hash + ".md");
             // open is better than redirecting, as the previous page history
             // with redirect is a bit messed up
-            location.href = "http://christen.cn/";
+            location.href = "http://git.christen.cn/";
         });
     }
 }

@@ -13,7 +13,7 @@ An open source AS3 library that provides a couple of interesting graphic effects
 
 [Water ripples revisited (AS3-only version)](http://www.derschmale.com/2008/08/03/water-ripples-revisited-as3-only-version/)<sup><i class="fa fa-external-link fa-fw"></i></sup>
 
-Source Code Download: [Rippler.as](http://christen.cn/doc/flash/docs/attachment/Rippler.as)
+Source Code Download: [Rippler.as](http://git.christen.cn/doc/flash/docs/attachment/Rippler.as)
 
 
 这是我起意研究 Flex + SWC 的开始，便至今未找到 NascomASLib 的文档。
