@@ -1041,7 +1041,7 @@ $ trac-admin /path/to/projenv hotcopy /path/to/backupdir
 
 ```java
 
-{{{
+{{
 #!java
 /* Name it "Hello.java"
  * Compile it by running "javac Hello.java"
@@ -1054,7 +1054,7 @@ class Hello {
         System.out.println("Hello, world!");
     }
 }
-}}}
+}}
 ```
 
 ### Redmine
