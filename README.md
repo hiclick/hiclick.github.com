@@ -13,7 +13,7 @@
 |------|---------------
 |[Home](https://git.christen.cn/)  |&#x2611; Docs
 |[About](https://git.christen.cn/about.html)|&#x2611; Contact
-|[Work](https://git.christen.cn/work.html)  |&#x2610; Resume
+|[Work](https://git.christen.cn/work.html)  |&#x2611; Resume
 
 ### TODOS
 
